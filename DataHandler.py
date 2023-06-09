@@ -5,11 +5,11 @@ import json
 
 class DatasetGetter:
     @staticmethod
-    def get_dataset(dataset, num_samples):
-        if dataset == "piqa":
+    def get_dataset(dataset_name, num_samples):
+        if dataset_name == "piqa":
             loaded_set =  load_dataset("piqa")["train"].select(range(0,num_samples))
             return PIQAHandler(loaded_set, "piqa")
-        if dataset == "physical_qa":
+        if dataset_name == "physical_qa":
             dataset = []
             with open("datasets\\train_rand_split.jsonl") as f:
                 for i,line in enumerate(f.readlines()):
@@ -18,6 +18,13 @@ class DatasetGetter:
                     else:
                         dataset.append(json.loads(line))
                 return PhysicalCSHandler(dataset, "Physical QA")
+        if dataset_name == "codah":
+            loaded_set = load_dataset("codah", "codah")["train"].select(range(0, num_samples))
+            return CODAHHandler(loaded_set, "CODAH")
+        if dataset_name == "social_iqa":
+            loaded_set = load_dataset("social_i_qa")["train"].select(range(0, num_samples))
+            return SocialIQAHandler(loaded_set, "social_iqa")
+
 
 class DatasetHandler (ABC):
     def __init__(self, dataset, name):
@@ -65,10 +72,10 @@ class PIQAHandler(DatasetHandler):
         return sample["goal"]
 
     def get_meta(self, sample):
-        return {"answerKey":"sol1"} if sample["label"] == 0 else {"answerKey":"sol2"}
+        return {"answerKey":"A"} if sample["label"] == 0 else {"answerKey":"B"}
 
     def get_mcoptions(self, sample):
-        return f"sol1: {sample['sol1']} sol2: {sample['sol2']}"
+        return f"(A) {sample['sol1']} (B) {sample['sol2']}"
 
     def get_answer(self, sample):
         return sample["sol1"] if sample["label"] ==0 else sample["sol2"]
@@ -86,7 +93,7 @@ class PhysicalCSHandler(DatasetHandler):
         choices = sample["question"]["choices"]
         mcoptions = ""
         for choice in choices:
-            mcoptions += f"{choice['label']} {choice['text']} "
+            mcoptions += f"({choice['label']}) {choice['text']} "
         return mcoptions
 
     def get_answer(self, sample):
@@ -97,8 +104,53 @@ class PhysicalCSHandler(DatasetHandler):
                 return choice["text"]
         return "none"
 
+class CODAHHandler(DatasetHandler):
+
+    idx_to_char = {0:"A", 1:"B", 2:"C", 3:"D"}
+
+    def get_question(self, sample):
+        return sample["question_propmt"]
+
+    def get_meta(self, sample):
+        #getting the answerKey
+        return {"answerKey": self.idx_to_char[sample["correct_answer_idx"]]}
+
+    def get_mcoptions(self, sample):
+        choices = sample["candidate_answers"]
+        mcoptions = ""
+        for i,choice in enumerate(choices):
+            mcoptions += f"({self.idx_to_char[i]}) {choice} "
+        return mcoptions
+
+    def get_answer(self, sample):
+        choices = sample["candidate_answers"]
+        return choices[sample["correct_answer_idx"]]
 
 
+class SocialIQAHandler(DatasetHandler):
+
+    idx_to_char = {"1":"A", "2":"B", "3":"C"}
+
+    def get_question(self, sample):
+        return f"{sample['context']} {sample['question']}"
+
+    def get_meta(self, sample):
+        #getting the answerKey
+        return {"answerKey": self.idx_to_char[sample["label"]]}
+
+    def get_choices(self, sample):
+        return [sample["answerA"], sample["answerB"], sample["answerC"]]
+
+    def get_mcoptions(self, sample):
+        choices = self.get_choices(sample)
+        mcoptions = ""
+        for i,choice in enumerate(choices):
+            mcoptions += f"({self.idx_to_char[str(i+1)]}) {choice} "
+        return mcoptions
+
+    def get_answer(self, sample):
+        choices = self.get_choices(sample)
+        return choices[int(sample["label"]) - 1]
 
 
 class WriteJson:
