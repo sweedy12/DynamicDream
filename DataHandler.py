@@ -5,13 +5,17 @@ import json
 
 class DatasetGetter:
     @staticmethod
-    def get_dataset(dataset_name, num_samples):
+    def get_dataset(dataset_name, num_samples, fold):
         if dataset_name == "piqa":
-            loaded_set =  load_dataset("piqa")["train"].select(range(0,num_samples))
+            loaded_set =  load_dataset("piqa")[fold]
+            if num_samples != -1:
+                loaded_set = loaded_set.select(range(0, num_samples))
             return PIQAHandler(loaded_set, "piqa")
         if dataset_name == "physical_qa":
             dataset = []
-            with open("datasets\\train_rand_split.jsonl") as f:
+            if fold == "test":
+                fold = "validation"
+            with open(f"datasets\\{fold}_rand_split.jsonl") as f:
                 for i,line in enumerate(f.readlines()):
                     if i == num_samples:
                         break
@@ -19,11 +23,19 @@ class DatasetGetter:
                         dataset.append(json.loads(line))
                 return PhysicalCSHandler(dataset, "Physical QA")
         if dataset_name == "codah":
-            loaded_set = load_dataset("codah", "codah")["train"].select(range(0, num_samples))
+            loaded_set = load_dataset("codah", "codah")[fold]
+            if num_samples != -1:
+                loaded_set = loaded_set.select(range(0, num_samples))
             return CODAHHandler(loaded_set, "CODAH")
         if dataset_name == "social_iqa":
-            loaded_set = load_dataset("social_i_qa")["train"].select(range(0, num_samples))
+            if fold == "test":
+                fold = "validation"
+            loaded_set = load_dataset("social_i_qa")[fold]
+            if num_samples != -1:
+                loaded_set = loaded_set.select(range(0, num_samples))
             return SocialIQAHandler(loaded_set, "social_iqa")
+
+
 
 
 class DatasetHandler (ABC):
@@ -155,15 +167,16 @@ class SocialIQAHandler(DatasetHandler):
 
 class WriteJson:
 
-    def __init__(self, save_dir, num_samples, dataset_name):
+    def __init__(self, save_dir, num_samples, dataset_name, fold):
         self.save_dir = save_dir
         self.dataset_name = dataset_name
-        self.dataset_handler = DatasetGetter.get_dataset(dataset_name, num_samples)
+        self.dataset_handler = DatasetGetter.get_dataset(dataset_name, num_samples, fold)
         self.num_samples = num_samples
+        self.fold = fold
         self.save_name = self.get_save_name()
 
     def get_save_name(self):
-        return f"{self.save_dir}\\{self.dataset_name}_{self.num_samples}_samples.jsonl"
+        return f"{self.save_dir}\\{self.dataset_name}_{self.num_samples}_samples_{self.fold}.jsonl"
 
     def write_json(self):
         #creating a dict to hold all the json information:
@@ -190,15 +203,17 @@ if __name__ == "__main__":
     parser.add_argument("--num_samples", dest="num_samples", type=int, default=100)
     parser.add_argument("--save_dir", dest="save_dir", type=str, default="samples")
     parser.add_argument("--dataset_name", dest="dataset_name", type=str, default="piqa")
+    parser.add_argument("--fold", dest="fold", type=str, default="train")
     args = parser.parse_args()
     dataset_name = args.dataset_name
     save_dir = args.save_dir
+    fold = args.fold
     try:
         os.mkdir(save_dir)
     except:
         print("save directory already exists")
     num_samples = args.num_samples
-    jsonwriter = WriteJson(save_dir, num_samples, dataset_name=dataset_name)
+    jsonwriter = WriteJson(save_dir, num_samples, dataset_name=dataset_name, fold=fold)
     jsonwriter.write_json()
 
 
