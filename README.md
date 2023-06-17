@@ -8,11 +8,12 @@ This is the code for sampling training examples from the following datasets:
 
 # Usage
 To sample from the databases, run:
-```DataHandler.py --num_samples <n> --dataset_name <name> --save-dir <dir>```
+```DataHandler.py --num_samples <n> --dataset_name <name> --save-dir <dir> --fold <f>```
 Where:
 ```n``` is the number of examples to be collected from the dataset (default: 100).
 ```name``` is the name of the dataset to sample from (options: "codah", "piqa", "physical_qa", "social_iqa", default: piqa).
 ```dir``` is the directory to be created to store the results under (default is "samples").
+```f``` is the fold to extract the data from  (options: "train", "validation", "test", default is "train").
 
 
 # Output
