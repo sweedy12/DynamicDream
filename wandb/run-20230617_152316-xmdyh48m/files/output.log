@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "C:\Users\sweed\PycharmProjects\DynamicDream\FinetuneT5.py", line 115, in <module>
+    trainer = Seq2SeqTrainer(
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer_seq2seq.py", line 56, in __init__
+    super().__init__(
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 551, in __init__
+    self.init_git_repo(at_init=True)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 3529, in init_git_repo
+    repo_name = get_full_repo_name(repo_name, token=self.args.hub_token)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\utils\hub.py", line 804, in get_full_repo_name
+    username = whoami(token)["name"]
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\hf_api.py", line 843, in whoami
+    headers=self._build_hf_headers(
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\hf_api.py", line 4732, in _build_hf_headers
+    return build_hf_headers(
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\utils\_validators.py", line 120, in _inner_fn
+    return fn(*args, **kwargs)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\utils\_headers.py", line 117, in build_hf_headers
+    token_to_send = get_token_to_send(token)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\huggingface_hub\utils\_headers.py", line 149, in get_token_to_send
+    raise EnvironmentError(
+OSError: Token is required (`token=True`), but no token found. You need to provide a token or be logged in to Hugging Face with `huggingface-cli login` or `huggingface_hub.login`. See https://huggingface.co/settings/tokens.

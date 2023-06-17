@@ -14,8 +14,8 @@ class DatasetGetter:
         if dataset_name == "physical_qa":
             dataset = []
             if fold == "test":
-                fold = "validation"
-            with open(f"datasets\\{fold}_rand_split.jsonl") as f:
+                fold = "val"
+            with open(f"datasets\\physical_qa\\{fold}_rand_split.jsonl") as f:
                 for i,line in enumerate(f.readlines()):
                     if i == num_samples:
                         break
@@ -23,7 +23,7 @@ class DatasetGetter:
                         dataset.append(json.loads(line))
                 return PhysicalCSHandler(dataset, "Physical QA")
         if dataset_name == "codah":
-            loaded_set = load_dataset("codah", "codah")[fold]
+            loaded_set = load_dataset("codah", "codah")["train"]
             if num_samples != -1:
                 loaded_set = loaded_set.select(range(0, num_samples))
             return CODAHHandler(loaded_set, "CODAH")

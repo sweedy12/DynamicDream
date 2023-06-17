@@ -1,0 +1,50 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.1",
+    "heartbeatAt": "2023-06-17T12:25:14.936970",
+    "startedAt": "2023-06-17T12:25:05.499770",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\sweed\\PycharmProjects\\DynamicDream\\FinetuneT5.py",
+    "codePath": "FinetuneT5.py",
+    "git": {
+        "remote": "https://github.com/sweedy12/DynamicDream",
+        "commit": "4d29e90a4664e4c9a800de67c692d4519dbe979e"
+    },
+    "email": "nir.sweed@mail.huji.ac.il",
+    "root": "C:/Users/sweed/PycharmProjects/DynamicDream",
+    "host": "Sweedotorioum",
+    "username": "sweed",
+    "executable": "C:\\Users\\sweed\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 998.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 998.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "total": 934.5898399353027,
+        "used": 286.45653915405273
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 31.726390838623047
+    }
+}

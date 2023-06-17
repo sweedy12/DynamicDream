@@ -1,0 +1,19 @@
+C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\optimization.py:407: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+  0%|          | 0/4 [00:00<?, ?it/s]You're using a T5TokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+ 25%|██▌       | 1/4 [00:05<00:16,  5.65s/it]Traceback (most recent call last):
+  File "C:\Users\sweed\PycharmProjects\DynamicDream\FinetuneT5.py", line 123, in <module>
+    trainer.train()
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 1664, in train
+    return inner_training_loop(
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 2034, in _inner_training_loop
+    self._maybe_log_save_evaluate(tr_loss, model, trial, epoch, ignore_keys_for_eval)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 2300, in _maybe_log_save_evaluate
+    metrics = self.evaluate(ignore_keys=ignore_keys_for_eval)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer_seq2seq.py", line 159, in evaluate
+    return super().evaluate(eval_dataset, ignore_keys=ignore_keys, metric_key_prefix=metric_key_prefix)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 3025, in evaluate
+    eval_dataloader = self.get_eval_dataloader(eval_dataset)
+  File "C:\Users\sweed\AppData\Local\Programs\Python\Python310\lib\site-packages\transformers\trainer.py", line 960, in get_eval_dataloader
+    raise ValueError("Trainer: evaluation requires an eval_dataset.")
+ValueError: Trainer: evaluation requires an eval_dataset.
