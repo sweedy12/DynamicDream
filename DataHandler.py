@@ -11,7 +11,7 @@ class DatasetGetter:
             if num_samples != -1:
                 loaded_set = loaded_set.select(range(0, num_samples))
             return PIQAHandler(loaded_set, "piqa")
-        if dataset_name == "physical_qa":
+        if dataset_name == "commonsense_qa":
             dataset = []
             if fold == "test":
                 fold = "val"
