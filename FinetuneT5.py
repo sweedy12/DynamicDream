@@ -2,6 +2,7 @@ import jsonlines
 import datasets
 import os
 from transformers import AutoTokenizer, DataCollatorForSeq2Seq, AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
+from transformers import pipeline
 import evaluate
 import numpy as np
 import wandb
@@ -122,6 +123,11 @@ if __name__ == "__main__":
     )
     trainer.train()
     wandb.finish()
+
+
+    #loading t5
+    generator = pipeline(model = model)
+    print(generator("Casey went back years and now she can't remember. What will Casey want to do next?"))
 
 
 
