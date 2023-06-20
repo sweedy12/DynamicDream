@@ -6,8 +6,32 @@ from transformers import pipeline
 import evaluate
 import numpy as np
 import wandb
+import argparse
 WANDB_KEY = "00697768fad395aa33d8672046503eaba344e6ea"
 wandb.login( key=WANDB_KEY)
+import torch
+import json
+
+
+def load_test_dataset(path):
+    all_dicts = []
+    with open(path) as f:
+        for line in f.readlines():
+            all_dicts.append(json.loads(line))
+    return all_dicts
+
+def get_all_questions_with_options(dict_dataset):
+    return [f"{d['question']} {d['mcoptions']}" for d in dict_dataset]
+
+def write_elaborations_to_jsonl(dict_dataset, elaborations,save_path):
+    with open(save_path, "w") as f:
+        for i,dict in enumerate(dict_dataset):
+            dict["context"] = elaborations[i]
+            json.dump(dict, f)
+
+
+
+
 
 class CreateLoadDataset:
 
@@ -57,77 +81,129 @@ class CreateLoadDataset:
 
 if __name__ == "__main__":
 
-    annotated_path = "samples\\annotated_data.jsonl"
-    save_dir = "datasets\\annotated_dataset.hf"
-
-    #creating or loading datasset
-    CLdataset = CreateLoadDataset(annotated_path, save_dir)
-    dataset = CLdataset.save_or_load_dataset()
-
-    #loading the model
-    model_name = "t5-small"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-
-    def preprocess_function(examples):
-        inputs = [f"{examples['question'][i]} {examples['mcoptions'][i]}" for i in range(len(examples["question"]))]
-        model_inputs = tokenizer(inputs, max_length = 1024, truncation = True)
-        labels = tokenizer(text_target = examples["elaboration"], max_length=512, truncation=True)
-        model_inputs["labels"] = labels["input_ids"]
-        return model_inputs
-
-    tokenized_dataset = dataset.map(preprocess_function, batched=True)
-    #setting the data collator
-    data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model = model_name, return_tensors="pt")
-
-    #setting the evaluation metric (rouge, not sure if this means something here)
-    rouge = evaluate.load("rouge")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--raw_data_path", dest="raw_data_path", type=str, default="samples\\annotated_data.jsonl")
+    parser.add_argument("--dataset_save_dir", dest="dataset_save_dir", type=str, default="datasets\\annotated_dataset.hf")
+    parser.add_argument("--model_save_dir", dest="dataset_name", type=str, default="models\\")
+    parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
+    parser.add_argument("--model_name", dest="dataset_name", type=str, default="models\\tf_small")
+    parser.add_argument("--run_train", dest="run_train", action= "store_true")
+    parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
+    args = parser.parse_args()
 
 
-    def compute_metrics(eval_pred):
-        predictions, labels = eval_pred
-        decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
-        labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
-        decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+    run_train = args.run_train
+    if run_train:
+        print("running training")
+        raw_data_path = args.raw_data_path
+        dataset_save_dir = args.dataset_save_dir
+        #creating or loading dataset
+        CLdataset = CreateLoadDataset(raw_data_path, dataset_save_dir)
+        dataset = CLdataset.save_or_load_dataset()
 
-        result = rouge.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+        #loading the model
+        model_name = args.model_name
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-        prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
-        result["gen_len"] = np.mean(prediction_lens)
+        def preprocess_function(examples):
+            inputs = [f"{examples['question'][i]} {examples['mcoptions'][i]}" for i in range(len(examples["question"]))]
+            model_inputs = tokenizer(inputs, max_length = 1024, truncation = True)
+            labels = tokenizer(text_target = examples["elaboration"], max_length=512, truncation=True)
+            model_inputs["labels"] = labels["input_ids"]
+            return model_inputs
 
-        return {k: round(v, 4) for k, v in result.items()}
+        tokenized_dataset = dataset.map(preprocess_function, batched=True)
+        #setting the data collator
+        data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model = model_name, return_tensors="pt")
 
-    #settings training args
-    training_args = Seq2SeqTrainingArguments(
-        output_dir=f"{model_name}_training",
-        evaluation_strategy="no",
-        learning_rate=2e-5,
-        per_device_train_batch_size=16,
-        per_device_eval_batch_size=16,
-        weight_decay=0.01,
-        save_total_limit=3,
-        num_train_epochs=4,
-        predict_with_generate=True,
-        fp16=True,
-        push_to_hub=False
-    )
-    nir = 1
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-    wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
-    trainer = Seq2SeqTrainer(
-        model=model,
-        args=training_args,
-        train_dataset=tokenized_dataset,
-        tokenizer=tokenizer,
-        data_collator=data_collator,
-        compute_metrics=compute_metrics,
-    )
-    trainer.train()
-    wandb.finish()
+        #setting the evaluation metric (rouge, not sure if this means something here)
+        rouge = evaluate.load("rouge")
 
 
-    #loading t5
-    generator = pipeline(model = model)
-    print(generator("Casey went back years and now she can't remember. What will Casey want to do next?"))
+        def compute_metrics(eval_pred):
+            predictions, labels = eval_pred
+            decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
+            labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
+            decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+
+            result = rouge.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+
+            prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
+            result["gen_len"] = np.mean(prediction_lens)
+
+            return {k: round(v, 4) for k, v in result.items()}
+
+        #settings training args
+        training_args = Seq2SeqTrainingArguments(
+            output_dir=f"{model_name}_training",
+            evaluation_strategy="no",
+            learning_rate=2e-3,
+            per_device_train_batch_size=16,
+            per_device_eval_batch_size=16,
+            weight_decay=0.01,
+            save_total_limit=3,
+            num_train_epochs=40,
+            predict_with_generate=True,
+            fp16=False,
+            push_to_hub=False
+        )
+        nir = 1
+        model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+        if torch.cuda.is_available():
+            model.to(torch.device("cuda"))
+        wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
+        trainer = Seq2SeqTrainer(
+            model=model,
+            args=training_args,
+            train_dataset=tokenized_dataset,
+            tokenizer=tokenizer,
+            data_collator=data_collator,
+            compute_metrics=compute_metrics,
+        )
+        trainer.train()
+        wandb.finish()
+
+        #saving the model:
+        model_save_dir = args.model_save_dir
+        model_save_path = f"{model_save_dir}_{model_name}"
+        trainer.save_model(model_save_path)
+
+
+    #inference
+    run_inference = args.run_inference
+    model_path  = args.pretrained_model_path
+    if run_inference:
+        test_dataset = load_test_dataset("test_sets\\ethics_-1_samples_test.jsonl")
+        text_inputs = get_all_questions_with_options(test_dataset)
+        loaded_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
+        if torch.cuda.is_available():
+            loaded_model.to(torch.device("cuda"))
+        loaded_tokenizer = AutoTokenizer.from_pretrained(model_path)
+
+        #loading the required datasets for inference
+
+        # text = "Riley forced Jan's entrance when the door wouldn't open for her. " \
+        #        "What will Riley want to do next? A) check the door for locks (B) need " \
+        #        "to apologize to Jan (C) run at the door "
+        # text2 = "Riley forced Jan's entrance when the door wouldn't open for her. " \
+        #        "What will Riley want to do next? A) check the door for locks (B) need " \
+        #        "to apologize to Jan (C) run at the door "
+        # texts = [text, text2]
+
+        def generate_and_decode(texts):
+            #encoding text, and generating
+
+            inputs = loaded_tokenizer(texts, return_tensors="pt", padding=True).input_ids
+            if torch.cuda.is_available():
+                inputs = inputs.to(torch.device("cuda"))
+            outputs = loaded_model.generate(inputs, max_new_tokens=100, do_sample=False)
+            decoded_texts = [loaded_tokenizer.decode(outputs[i], skip_special_tokens=True) for i in range(outputs.shape[0])]
+            return decoded_texts
+
+
+        elaborations = generate_and_decode(text_inputs)
+        write_elaborations_to_jsonl(test_dataset, elaborations, "test_sets\\elaborations_trial")
+        # print()
 
 
 
