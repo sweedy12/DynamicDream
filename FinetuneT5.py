@@ -180,7 +180,7 @@ if __name__ == "__main__":
     run_inference = args.run_inference
     model_path  = args.pretrained_model_path
     if run_inference:
-        test_dataset =
+        test_dataset = ""
         text_inputs = get_all_questions_with_options(test_dataset)
         loaded_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
         if torch.cuda.is_available():
