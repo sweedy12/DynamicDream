@@ -91,11 +91,12 @@ if __name__ == "__main__":
     parser.add_argument("--dataset_save_dir", dest="dataset_save_dir", type=str, default="datasets\\annotated_dataset.hf")
     parser.add_argument("--model_save_dir", dest="dataset_name", type=str, default="models\\")
     parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
-    parser.add_argument("--model_name", dest="model_name", type=str, default="models\\tf_small")
+    parser.add_argument("--model_name", dest="model_name", type=str, default="tf-small")
     parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="datasets\\test_sets")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
     parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
+    parser.add_argument("--train_epochs", dest="train_epochs", type=int, default=10)
     args = parser.parse_args()
 
 
@@ -149,7 +150,7 @@ if __name__ == "__main__":
             per_device_eval_batch_size=16,
             weight_decay=0.01,
             save_total_limit=3,
-            num_train_epochs=40,
+            num_train_epochs=args.train_epochs,
             predict_with_generate=True,
             fp16=False,
             push_to_hub=False
