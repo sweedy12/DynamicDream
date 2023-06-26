@@ -13,6 +13,11 @@ import torch
 import json
 
 
+# def load_test_data_by_name(name):
+#     if name == "piqa":
+
+
+
 def load_test_dataset(path):
     all_dicts = []
     with open(path) as f:
@@ -87,8 +92,10 @@ if __name__ == "__main__":
     parser.add_argument("--model_save_dir", dest="dataset_name", type=str, default="models\\")
     parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
     parser.add_argument("--model_name", dest="dataset_name", type=str, default="models\\tf_small")
+    parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="datasets\\test_sets")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
+    parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
     args = parser.parse_args()
 
 
@@ -173,7 +180,7 @@ if __name__ == "__main__":
     run_inference = args.run_inference
     model_path  = args.pretrained_model_path
     if run_inference:
-        test_dataset = load_test_dataset("test_sets\\ethics_-1_samples_test.jsonl")
+        test_dataset =
         text_inputs = get_all_questions_with_options(test_dataset)
         loaded_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
         if torch.cuda.is_available():
@@ -190,18 +197,31 @@ if __name__ == "__main__":
         #        "to apologize to Jan (C) run at the door "
         # texts = [text, text2]
 
-        def generate_and_decode(texts):
+        def generate_and_decode(texts, batch_size):
             #encoding text, and generating
-
-            inputs = loaded_tokenizer(texts, return_tensors="pt", padding=True).input_ids
-            if torch.cuda.is_available():
-                inputs = inputs.to(torch.device("cuda"))
-            outputs = loaded_model.generate(inputs, max_new_tokens=100, do_sample=False)
-            decoded_texts = [loaded_tokenizer.decode(outputs[i], skip_special_tokens=True) for i in range(outputs.shape[0])]
+            decoded_texts = []
+            size = len(texts)
+            #batch_size = 16
+            num_iterations = size // batch_size + 1
+            for i in range(num_iterations):
+                if i == num_iterations - 1:
+                    input_text = texts[i*batch_size:]
+                else:
+                    input_text = texts[i*batch_size:(i+1)*batch_size]
+                inputs = loaded_tokenizer(input_text, return_tensors="pt", padding="longest").input_ids
+                print(f"finished tokenizing {i/num_iterations}")
+                if torch.cuda.is_available():
+                    inputs = inputs.to(torch.device("cuda"))
+                outputs = loaded_model.generate(inputs, max_new_tokens=100, do_sample=False)
+                decoded_texts.extend([loaded_tokenizer.decode(outputs[i], skip_special_tokens=True) for i in range(outputs.shape[0])])
+                print(f"finished decoding {i / num_iterations}")
             return decoded_texts
 
 
-        elaborations = generate_and_decode(text_inputs)
+        batch_size = args.inference_batch_size
+        elaborations = generate_and_decode(text_inputs, batch_size)
+        save_path = f"{args.test_save_dir}_"
+
         write_elaborations_to_jsonl(test_dataset, elaborations, "test_sets\\elaborations_trial")
         # print()
 
