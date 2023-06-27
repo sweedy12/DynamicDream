@@ -153,7 +153,8 @@ if __name__ == "__main__":
             num_train_epochs=args.train_epochs,
             predict_with_generate=True,
             fp16=False,
-            push_to_hub=False
+            push_to_hub=False,
+            report_to = "none"
         )
         nir = 1
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
