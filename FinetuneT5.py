@@ -7,8 +7,8 @@ import evaluate
 import numpy as np
 import wandb
 import argparse
-WANDB_KEY = "00697768fad395aa33d8672046503eaba344e6ea"
-wandb.login( key=WANDB_KEY)
+# WANDB_KEY = "00697768fad395aa33d8672046503eaba344e6ea"
+# wandb.login(key=WANDB_KEY)
 import torch
 import json
 
@@ -159,7 +159,7 @@ if __name__ == "__main__":
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
         if torch.cuda.is_available():
             model.to(torch.device("cuda"))
-        wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
+        #wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
         trainer = Seq2SeqTrainer(
             model=model,
             args=training_args,
@@ -169,7 +169,7 @@ if __name__ == "__main__":
             compute_metrics=compute_metrics,
         )
         trainer.train()
-        wandb.finish()
+        #wandb.finish()
 
         #saving the model:
         model_save_dir = args.model_save_dir
