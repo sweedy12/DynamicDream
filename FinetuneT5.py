@@ -129,30 +129,33 @@ if __name__ == "__main__":
 
 
         def compute_metrics(eval_pred):
-            predictions, labels = eval_pred
-            decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
-            labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
-            decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+            return 0
 
-            result = rouge.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
-
-            prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
-            result["gen_len"] = np.mean(prediction_lens)
-
-            return {k: round(v, 4) for k, v in result.items()}
+        # def compute_metrics(eval_pred):
+        #     predictions, labels = eval_pred
+        #     decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
+        #     labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
+        #     decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+        #
+        #     result = rouge.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+        #
+        #     prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
+        #     result["gen_len"] = np.mean(prediction_lens)
+        #
+        #     return {k: round(v, 4) for k, v in result.items()}
 
         #settings training args
         training_args = Seq2SeqTrainingArguments(
             output_dir=f"{model_name}_training",
             evaluation_strategy="no",
             learning_rate=2e-3,
-            per_device_train_batch_size=8,
+            per_device_train_batch_size=16,
             per_device_eval_batch_size=16,
             weight_decay=0.01,
             save_total_limit=3,
             num_train_epochs=args.train_epochs,
             predict_with_generate=True,
-            fp16=False,
+            fp16=True,
             push_to_hub=False,
             report_to = "none"
         )
