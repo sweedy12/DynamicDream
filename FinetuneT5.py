@@ -146,7 +146,7 @@ if __name__ == "__main__":
             output_dir=f"{model_name}_training",
             evaluation_strategy="no",
             learning_rate=2e-3,
-            per_device_train_batch_size=16,
+            per_device_train_batch_size=8,
             per_device_eval_batch_size=16,
             weight_decay=0.01,
             save_total_limit=3,
