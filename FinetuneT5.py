@@ -11,10 +11,18 @@ import argparse
 # wandb.login(key=WANDB_KEY)
 import torch
 import json
+import tensor_parallel as tp
 
 
-# def load_test_data_by_name(name):
-#     if name == "piqa":
+def load_test_data_by_name(name):
+    windows_path = f"test_sets\\{name}_-1_samples_test.jsonl"
+    unix_path = f"test_sets/{name}_-1_samples_test.jsonl"
+    try:
+        dict_dataset = load_test_dataset(windows_path)
+    except:
+        dict_dataset = load_test_dataset(unix_path)
+    return dict_dataset
+
 
 
 
@@ -90,6 +98,7 @@ if __name__ == "__main__":
     parser.add_argument("--raw_data_path", dest="raw_data_path", type=str, default="samples\\annotated_data.jsonl")
     parser.add_argument("--dataset_save_dir", dest="dataset_save_dir", type=str, default="datasets\\annotated_dataset.hf")
     parser.add_argument("--model_save_dir", dest="model_save_dir", type=str, default="models\\")
+    parser.add_argument("--inference_test_set", dest="inference_test_set", type=str, default="piqa")
     parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
     parser.add_argument("--model_name", dest="model_name", type=str, default="tf-small")
     parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="datasets\\test_sets")
@@ -97,6 +106,7 @@ if __name__ == "__main__":
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
     parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
     parser.add_argument("--train_epochs", dest="train_epochs", type=int, default=10)
+    parser.add_argument("--inference_size", dest="inference_size", type=int, default=-1)
     args = parser.parse_args()
 
 
@@ -125,7 +135,7 @@ if __name__ == "__main__":
         data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model = model_name, return_tensors="pt")
 
         #setting the evaluation metric (rouge, not sure if this means something here)
-        rouge = evaluate.load("rouge")
+        #rouge = evaluate.load("rouge")
 
 
         def compute_metrics(eval_pred):
@@ -164,7 +174,8 @@ if __name__ == "__main__":
         device_ids = list(range(torch.cuda.device_count())) if torch.cuda.is_available() else []
         print(f"the device ids are {device_ids}")
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-        model = torch.nn.DataParallel(model, device_ids=device_ids)
+        model - tp.tensor_parallel(model, ["cuda:0", "cuda:1"])
+        # model = torch.nn.DataParallel(model, device_ids=device_ids)
         model = model.to(device)
         # if torch.cuda.is_available():
         #     model.to(torch.device("cuda"))
@@ -190,7 +201,9 @@ if __name__ == "__main__":
     run_inference = args.run_inference
     model_path  = args.pretrained_model_path
     if run_inference:
-        test_dataset = ""
+        test_dataset = load_test_data_by_name(args.inference_test_set)
+        if args.inference_size != -1:
+            test_dataset = test_dataset[:args.inference_size]
         text_inputs = get_all_questions_with_options(test_dataset)
         loaded_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
         if torch.cuda.is_available():
