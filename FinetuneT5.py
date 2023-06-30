@@ -170,7 +170,7 @@ if __name__ == "__main__":
         #     model.to(torch.device("cuda"))
         #wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
         trainer = Seq2SeqTrainer(
-            model=model,
+            model=model.module if len(device_ids) > 1 else model,
             args=training_args,
             train_dataset=tokenized_dataset,
             tokenizer=tokenizer,
