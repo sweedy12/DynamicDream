@@ -101,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument("--inference_test_set", dest="inference_test_set", type=str, default="piqa")
     parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
     parser.add_argument("--model_name", dest="model_name", type=str, default="tf-small")
-    parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="test_sets\\")
+    parser.add_argument("--test_save_dir", dest="test_save_dir", type=str, default="test_sets\\")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
     parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
