@@ -101,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument("--inference_test_set", dest="inference_test_set", type=str, default="piqa")
     parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
     parser.add_argument("--model_name", dest="model_name", type=str, default="tf-small")
-    parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="datasets\\test_sets")
+    parser.add_argument("--test_save_dir", dest="test_save_path", type=str, default="test_sets\\")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
     parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
@@ -243,9 +243,9 @@ if __name__ == "__main__":
 
         batch_size = args.inference_batch_size
         elaborations = generate_and_decode(text_inputs, batch_size)
-        save_path = f"{args.test_save_dir}_"
+        save_path = f"{args.test_save_dir}{args.inference_test_set}_{args.inference_size}"
 
-        write_elaborations_to_jsonl(test_dataset, elaborations, "test_sets\\elaborations_trial")
+        write_elaborations_to_jsonl(test_dataset, elaborations, save_path)
         # print()
 
 
