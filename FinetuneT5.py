@@ -16,7 +16,7 @@ import tensor_parallel as tp
 
 def load_test_data_by_name(name):
     windows_path = f"test_sets\\{name}_-1_samples_test.jsonl"
-    unix_path = f"test_sets/{name}_-1_samples_test.jsonl"
+    unix_path = f"DynamicDream/test_sets/{name}_-1_samples_test.jsonl"
     try:
         dict_dataset = load_test_dataset(windows_path)
     except:
