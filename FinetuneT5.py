@@ -170,15 +170,15 @@ if __name__ == "__main__":
             report_to = "none"
         )
         nir = 1
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         device_ids = list(range(torch.cuda.device_count())) if torch.cuda.is_available() else []
         print(f"the device ids are {device_ids}")
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-        model - tp.tensor_parallel(model, ["cuda:0", "cuda:1"])
+        # model - tp.tensor_parallel(model, ["cuda:0", "cuda:1"])
         # model = torch.nn.DataParallel(model, device_ids=device_ids)
-        model = model.to(device)
-        # if torch.cuda.is_available():
-        #     model.to(torch.device("cuda"))
+        # model = model.to(device)
+        if torch.cuda.is_available():
+            model.to(torch.device("cuda"))
         #wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
         trainer = Seq2SeqTrainer(
             model=model.module if len(device_ids) > 1 else model,
