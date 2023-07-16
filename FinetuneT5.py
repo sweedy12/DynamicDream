@@ -1,3 +1,5 @@
+import xml.sax.handler
+
 import jsonlines
 import datasets
 import os
@@ -41,6 +43,8 @@ def write_elaborations_to_jsonl(dict_dataset, elaborations,save_path):
         for i,dict in enumerate(dict_dataset):
             dict["context"] = elaborations[i]
             json.dump(dict, f)
+            if i != len(dict_dataset) - 1:
+                f.write("\n")
 
 
 
@@ -99,7 +103,7 @@ if __name__ == "__main__":
     parser.add_argument("--dataset_save_dir", dest="dataset_save_dir", type=str, default="datasets\\annotated_dataset.hf")
     parser.add_argument("--model_save_dir", dest="model_save_dir", type=str, default="models\\")
     parser.add_argument("--inference_test_set", dest="inference_test_set", type=str, default="piqa")
-    parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\tf_small")
+    parser.add_argument("--pretrained_model_path", dest="pretrained_model_path", type=str, default="models\\t5_small")
     parser.add_argument("--model_name", dest="model_name", type=str, default="tf-small")
     parser.add_argument("--test_save_dir", dest="test_save_dir", type=str, default="test_sets\\")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
@@ -118,6 +122,7 @@ if __name__ == "__main__":
         #creating or loading dataset
         CLdataset = CreateLoadDataset(raw_data_path, dataset_save_dir)
         dataset = CLdataset.save_or_load_dataset()
+        print(dataset)
 
         #loading the model
         model_name = args.model_name
@@ -170,18 +175,18 @@ if __name__ == "__main__":
             report_to = "none"
         )
         nir = 1
-        # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        device_ids = list(range(torch.cuda.device_count())) if torch.cuda.is_available() else []
-        print(f"the device ids are {device_ids}")
+        #device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        #device_ids = list(range(torch.cuda.device_count())) if torch.cuda.is_available() else []
+        #print(f"the device ids are {device_ids}")
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-        # model - tp.tensor_parallel(model, ["cuda:0", "cuda:1"])
+        #model - tp.tensor_parallel(model, ["cuda:0", "cuda:1"])
         # model = torch.nn.DataParallel(model, device_ids=device_ids)
-        # model = model.to(device)
+       # model = model.to(device)
         if torch.cuda.is_available():
-            model.to(torch.device("cuda"))
+             model.to(torch.device("cuda"))
         #wandb.init(project="DynamicDream", name=f"elaborating_with_{model_name}")
         trainer = Seq2SeqTrainer(
-            model=model.module if len(device_ids) > 1 else model,
+            model=model,
             args=training_args,
             train_dataset=tokenized_dataset,
             tokenizer=tokenizer,
@@ -189,17 +194,26 @@ if __name__ == "__main__":
             compute_metrics=compute_metrics,
         )
         trainer.train()
+        print("finished training")
         #wandb.finish()
 
         #saving the model:
         model_save_dir = args.model_save_dir
-        model_save_path = f"{model_save_dir}_{model_name}"
+        model_save_path = f"{model_save_dir}_{model_name}_{args.train_epochs}"
+        print(f"model save path: {model_save_path}")
         trainer.save_model(model_save_path)
 
 
     #inference
     run_inference = args.run_inference
     model_path  = args.pretrained_model_path
+    ind = 0
+    print(model_path)
+    if model_path.find("s/") != -1:
+        ind = model_path.find("s/") + 2
+    else:
+        ind = model_path.find("\\") + 2
+    pretrained_model_name = model_path[ind:]
     if run_inference:
         test_dataset = load_test_data_by_name(args.inference_test_set)
         if args.inference_size != -1:
@@ -231,19 +245,23 @@ if __name__ == "__main__":
                     input_text = texts[i*batch_size:]
                 else:
                     input_text = texts[i*batch_size:(i+1)*batch_size]
+                print(f"the input text: {input_text}")
                 inputs = loaded_tokenizer(input_text, return_tensors="pt", padding="longest").input_ids
                 print(f"finished tokenizing {i/num_iterations}")
                 if torch.cuda.is_available():
                     inputs = inputs.to(torch.device("cuda"))
-                outputs = loaded_model.generate(inputs, max_new_tokens=100, do_sample=False)
-                decoded_texts.extend([loaded_tokenizer.decode(outputs[i], skip_special_tokens=True) for i in range(outputs.shape[0])])
+                outputs = loaded_model.generate(inputs, max_new_tokens=400, do_sample=False)
+                current_texts = [loaded_tokenizer.decode(outputs[i], skip_special_tokens=True) for i in range(outputs.shape[0])]
+                decoded_texts.extend(current_texts)
                 print(f"finished decoding {i / num_iterations}")
+                print(f"current_texts are: {current_texts}")
             return decoded_texts
 
 
         batch_size = args.inference_batch_size
         elaborations = generate_and_decode(text_inputs, batch_size)
-        save_path = f"{args.test_save_dir}{args.inference_test_set}_{args.inference_size}"
+        print(pretrained_model_name)
+        save_path = f"{args.test_save_dir}{args.inference_test_set}_{args.inference_size}_{pretrained_model_name}.jsonl"
 
         write_elaborations_to_jsonl(test_dataset, elaborations, save_path)
         # print()
