@@ -16,6 +16,12 @@ import json
 import tensor_parallel as tp
 
 
+FLAN_PROMPT =  "You are given a SITUATION and possible answers for the situation in ANSWERS. Your task is to choose the best" \
+               "dimensions that will help you find the correct answer on the SITUATION. After you chose the dimensions, please " \
+               "elaborate the scene on these dimensions. " \
+               "Inputs: OPTIONAL_DIMENSIONS, SITUATION, ANSWERS Outputs: for each dimension, output [CHOSEN_DIMENSION]: [ELABORATION]"
+
+
 def load_test_data_by_name(name):
     windows_path = f"test_sets\\{name}_-1_samples_test.jsonl"
     unix_path = f"DynamicDream/test_sets/{name}_-1_samples_test.jsonl"
@@ -35,7 +41,15 @@ def load_test_dataset(path):
             all_dicts.append(json.loads(line))
     return all_dicts
 
-def get_all_questions_with_options(dict_dataset):
+
+
+def get_all_questions_with_options(dict_dataset, is_flan = False):
+    if is_flan:
+        return [f"{FLAN_PROMPT}\n Inputs:\n SITUATION: {d['question']}\nA"
+                f"NSWERS:{d['mcoptions']}" for d in dict_dataset]
+
+        #return [f"elaborate by dimensions: {d['question']} {d['mcoptions']}" for d in dict_dataset]
+
     return [f"{d['question']} {d['mcoptions']}" for d in dict_dataset]
 
 def write_elaborations_to_jsonl(dict_dataset, elaborations,save_path):
@@ -108,12 +122,13 @@ if __name__ == "__main__":
     parser.add_argument("--test_save_dir", dest="test_save_dir", type=str, default="test_sets\\")
     parser.add_argument("--run_train", dest="run_train", action= "store_true")
     parser.add_argument("--run_inference", dest="run_inference", action= "store_true")
+    parser.add_argument("--is_flan", dest="is_flan", action= "store_true")
     parser.add_argument("--inference_batch_size", dest="inference_batch_size", type=int, default=32)
     parser.add_argument("--train_epochs", dest="train_epochs", type=int, default=10)
     parser.add_argument("--inference_size", dest="inference_size", type=int, default=-1)
     args = parser.parse_args()
 
-
+    is_flan = args.is_flan
     run_train = args.run_train
     if run_train:
         print("running training")
@@ -129,13 +144,55 @@ if __name__ == "__main__":
         tokenizer = AutoTokenizer.from_pretrained(model_name)
 
         def preprocess_function(examples):
-            inputs = [f"{examples['question'][i]} {examples['mcoptions'][i]}" for i in range(len(examples["question"]))]
+            options = [examples["question"], examples["elaboration"], examples["mcoptions"]]
+            inputs = []
+            targets = []
+            for i in range(len(examples["question"])):
+                inputs.append(f"{options[0][i]} {options[2][i]}")
+                targets.append(f"{options[1][i]}")
+            #inputs = [f"{examples['question'][i]} {examples['mcoptions'][i]}" for i in range(len(examples["question"]))]
             model_inputs = tokenizer(inputs, max_length = 1024, truncation = True)
-            labels = tokenizer(text_target = examples["elaboration"], max_length=512, truncation=True)
+
+            labels = tokenizer(text_target = targets, max_length=1024, truncation=True)
             model_inputs["labels"] = labels["input_ids"]
             return model_inputs
 
-        tokenized_dataset = dataset.map(preprocess_function, batched=True)
+        def flan_preprocess_with_prompt(examples):
+            options = [examples["question"], examples["elaboration"], examples["mcoptions"]]
+            inputs = []
+            targets = []
+            for i in range(len(examples["question"])):
+                cur_input = f"{FLAN_PROMPT}\n Inputs:\n SITUATION: {options[0][i]}\nANSWERS:{options[2][i]}"
+
+                inputs.append(cur_input)
+                targets.append(f"OUTPUT: {options[1][i]}")
+            model_inputs = tokenizer(inputs, max_length=1024, truncation=True)
+            # elaborated_inputs = [f"elaboration: {examples['elaboration'][i]}" for i in range(len("elaboration"))]
+            labels = tokenizer(text_target=targets, max_length=1024, truncation=True)
+            model_inputs["labels"] = labels["input_ids"]
+            return model_inputs
+
+
+        def flan_preprocess_function(examples):
+            options = [examples["question"], examples["elaboration"], examples["mcoptions"]]
+            inputs =[]
+            targets = []
+            for i in range(len(examples["question"])):
+                inputs.append(f"elaborate by dimensions: {options[0][i]} {options[2][i]}")
+                targets.append(f"elaboration: {options[1][i]}")
+
+            #inputs = [f"elaborate by dimensions: {examples['question'][i]} {examples['mcoptions'][i]}" for i in range(len(examples["question"]))]
+            model_inputs = tokenizer(inputs, max_length = 1024, truncation = True)
+            #elaborated_inputs = [f"elaboration: {examples['elaboration'][i]}" for i in range(len("elaboration"))]
+            labels = tokenizer(text_target = targets, max_length=1024, truncation=True)
+            model_inputs["labels"] = labels["input_ids"]
+            return model_inputs
+
+        is_flan = args.is_flan
+        if is_flan:
+            tokenized_dataset = dataset.map(flan_preprocess_with_prompt, batched=True)
+        else:
+            tokenized_dataset = dataset.map(preprocess_function, batched=True)
         #setting the data collator
         data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model = model_name, return_tensors="pt")
 
@@ -163,7 +220,7 @@ if __name__ == "__main__":
         training_args = Seq2SeqTrainingArguments(
             output_dir=f"{model_name}_training",
             evaluation_strategy="no",
-            learning_rate=2e-3,
+            learning_rate=2e-2,
             per_device_train_batch_size=16,
             per_device_eval_batch_size=16,
             weight_decay=0.01,
@@ -199,6 +256,7 @@ if __name__ == "__main__":
 
         #saving the model:
         model_save_dir = args.model_save_dir
+        model_name = model_name.replace("/","_")
         model_save_path = f"{model_save_dir}_{model_name}_{args.train_epochs}"
         print(f"model save path: {model_save_path}")
         trainer.save_model(model_save_path)
@@ -218,7 +276,8 @@ if __name__ == "__main__":
         test_dataset = load_test_data_by_name(args.inference_test_set)
         if args.inference_size != -1:
             test_dataset = test_dataset[:args.inference_size]
-        text_inputs = get_all_questions_with_options(test_dataset)
+        text_inputs = get_all_questions_with_options(test_dataset, is_flan=is_flan)
+        print(f"text_inputs are {text_inputs}")
         loaded_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
         if torch.cuda.is_available():
             loaded_model.to(torch.device("cuda"))
