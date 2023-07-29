@@ -1,0 +1,39 @@
+1) 'dimension': 'IsA', 'description': 'A is a subtype or a specific instance of B; every A is a B. This can include specific instances; the distinction between subtypes and instances is often blurry in language. This is the hyponym relation in WordNet.', 'Relation of': 'Object'
+2) 'dimension': 'PartOf',
+  'description': 'A is a part of B. This is the part meronym relation in WordNet.',
+  'Relation of': 'Object'
+3) 'dimension': 'HasA / has part', 'description': 'B belongs to A, either as an inherent part or due to a social construct of possession. HasA is often the reverse of PartOf.', 'Relation of': 'Object'
+4) 'dimension': 'UsedFor', 'description': 'A is used for B; the purpose of A is B.', 'Relation of': 'Object'
+5)'dimension': 'CapableOf', 'description': 'Something that A can typically do is B.', 'Relation of': 'Object + person'
+6) 'dimension': 'AtLocation', 'description': 'A is a typical location for B, or A is the inherent location of B. Some instances of this would be considered meronyms in WordNet.', 'Relation of': 'Object+ person'
+7) 'dimension': 'Causes', 'description': 'A and B are events, and it is typical for A to cause B.', 'Relation of': 'Event'
+8) 'dimension': 'HasPrerequisite', 'description': 'In order for A to happen, B needs to happen; B is a dependency of A.', 'Relation of': 'Event'
+9) 'dimension': 'HasProperty', 'description': 'A has B as a property; A can be described as B.', 'Relation of': 'Object'
+10) 'dimension': 'Motivation', 'description': 'motivation of character(s) before S', 'Relation of': 'Person'
+11) 'dimension': 'ObstructedBy', 'description': 'A is a goal that can be prevented by B; B is an obstacle in the way of A.', 'Relation of': 'Event'
+12) 'dimension': 'CreatedBy', 'description': 'B is a process or agent that creates A.',
+  'Relation of': 'Event'
+13) 'dimension': 'LocatedNear', 'description': 'A and B are typically found near each other. Symmetric.', 'Relation of': 'Object + person'
+14) 'dimension': 'MadeOf', 'description': 'A is made of B.', 'Relation of': 'Object'
+15) 'dimension': 'ReceivesAction', 'description': 'B can be done to A.', 'Relation of': 'Object'
+16) 'dimension': 'Consequence', 'description': 'likely consequence of action described in S', 'Relation of': 'Event'
+17) 'dimension': 'ROT: general Rule of Thumb (ROT)', 'description': 'that guides whether action described in S is socially acceptable or not (social norm)', 'Relation of': 'Event'
+18) 'dimension': 'Emotion', 'description': 'emotion of character(s) after S has happened', 'Relation of': 'Person'
+19) 'dimension': 'X Attribute', 'description': 'The Attribute of Person X', 'Relation of': 'Person'
+20) 'dimension': 'X Effect', 'description': 'The Effect on Person X', 'Relation of': 'Person'
+21) 'dimension': 'X Intent', 'description': 'The Intent of person X', 'Relation of': 'Person'
+22) 'dimension': 'X Need', 'description': 'What Person X needs','Relation of': 'Person'
+23) 'dimension': 'X React', 'description': 'The reaction of Person X', 'Relation of': 'erson'.
+24) 'dimension': 'X Want', 'description': 'What Person X wants', 'Relation of': 'Person'
+25) 'dimension': 'Other React ', 'description': 'The reaction of Person Y', 'Relation of': 'Person'
+26) 'dimension': 'Other Want', 'description': 'What Person Y wants',
+  'Relation of': 'Person'
+27) 'dimension': 'Other Attribute', 'description': 'The Attribute of Person Y',
+  'Relation of': 'Person'
+28) 'dimension': 'Other Effect', 'description': 'The Effect on Person Y',
+  'Relation of': 'Person'
+29) 'dimension': 'Other Intent', 'description': 'The Intent of person Y',
+  'Relation of': 'Person'
+30) 'dimension': 'Other Need', 'description': 'What Person Y needs',
+  'Relation of': 'Person'
+31) 'dimension': 'ComparedTo', 'description': 'A has attribute X to a greater extent than B', 'Relation of': 'Object + person'

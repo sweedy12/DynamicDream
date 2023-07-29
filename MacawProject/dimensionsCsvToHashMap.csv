@@ -1,0 +1,35 @@
+Dimension,Description,Source,Relation of
+IsA,A is a subtype or a specific instance of B; every A is a B. This can include specific instances; the distinction between subtypes and instances is often blurry in language. This is the hyponym relation in WordNet.,Conceptnet,Object
+PartOf,A is a part of B. This is the part meronym relation in WordNet.,Conceptnet + Everyday things,Object
+HasA / has part,"B belongs to A, either as an inherent part or due to a social construct of possession. HasA is often the reverse of PartOf.",ConceptNet + Everyday things,Object
+UsedFor,A is used for B; the purpose of A is B.,ConceptNet,Object
+CapableOf,Something that A can typically do is B.,ConceptNet,Object + person
+AtLocation,"A is a typical location for B, or A is the inherent location of B. Some instances of this would be considered meronyms in WordNet.",ConceptNet,Object+ person
+Causes,"A and B are events, and it is typical for A to cause B.",ConceptNet,Event
+HasPrerequisite,"In order for A to happen, B needs to happen; B is a dependency of A.",ConceptNet,Event
+HasProperty,A has B as a property; A can be described as B.,ConceptNet,Object
+Motivation,motivation of character(s) before S,DREAM + ConceptNet,Person
+ObstructedBy,A is a goal that can be prevented by B; B is an obstacle in the way of A.,ConceptNet,Event
+CreatedBy,B is a process or agent that creates A.,ConceptNet,Event
+LocatedNear,A and B are typically found near each other. Symmetric.,ConceptNet,Object + person
+MadeOf,A is made of B.,ConceptNet,Object
+ReceivesAction,B can be done to A.,ConceptNet,Object
+Consequence,likely consequence of action described in S,DREAM,Event
+ROT: general Rule of Thumb (ROT),that guides whether action described in S is socially acceptable or not (social norm),DREAM,Event
+Emotion,emotion of character(s) after S has happened,DREAM,Person
+Other React ,The reaction of Person Y,ATOMIC,Person
+Other Want,What Person Y wants,ATOMIC,Person
+X Attribute,The Attribute of Person X,ATOMIC,Person
+X Effect,The Effect on Person X,ATOMIC,Person
+X Intent,The Intent of person X,ATOMIC,Person
+X Need,What Person X needs,ATOMIC,Person
+X React,The reaction of Person X,ATOMIC,Person
+X Want,What Person X wants,ATOMIC,Person
+inside,spatial relations,Everyday things,Object
+contains,spatial relations,Everyday things,Object
+in front of,spatial relations,Everyday things,Object
+above,spatial relations,Everyday things,Object
+below,spatial relations,Everyday things,Object
+behind,spatial relations,Everyday things,Object
+surrounds,spatial relations,Everyday things,Object
+next to,spatial relations,Everyday things,Object

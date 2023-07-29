@@ -1,0 +1,2777 @@
+,gt_ans,macaw_ans,is_correct
+0,tempted to snack when I feel this way,tempted to snack when I feel this way,1
+1,I will fail,I will fail,1
+2,won a math competition when he was 5,won a math competition when he was 5,1
+3,I will not go to school today,I will not go to school today,1
+4,have some ravioli,have some ravioli,1
+5,has a deep understanding of the material,has a deep understanding of the material,1
+6,I didnt get enough sleep,I didnt get enough sleep,1
+7,seems increasingly happy as his sogginess decreases,seems increasingly happy as his sogginess decreases,1
+8,enjoys the chips and melted cheese,enjoys the chips and melted cheese,1
+9,remember being an only child before he was born,will be forty when he is thirty,0
+10,will be forty when he is thirty,will be thirty when he is forty,0
+11,vowed to never ride an elephant again,vowed to never ride an elephant again,1
+12,study computer science,think the directions are north then west,0
+13,eat the cucumber,eat the cactus,0
+14,the strawberry,the strawberry,1
+15,reaches over and takes a sip of his pina colada,reaches over and takes a sip of his pina colada,1
+16,puts all three animals in the back seat before driving off,puts all four animals in the back seat before driving off,0
+17,music was pleasant to both heart and mind,music was pleasant to both heart and mind,1
+18,wear a large down parka,wear a large down parka,1
+19,works the lines to make the dragon do long loops through the air,works the lines to make the dragon do long loops through the air,1
+20,makes a giraffe and hands it to a child,releases the balloon and it flies high into the air,0
+21,gestures to a slide showing the change in sales over time,gestures to a slide showing the change in sales over time,1
+22,gives a piece to each of his two kids,then merges the two halves into a whole piece indistinguishable from the one he started with,0
+23,felt there was no hope,recommended taking antibiotics and drinking the same fluids used in handwashing,0
+24,lack social skills,lack social skills,1
+25,enjoy playing it with a group of 810 friends,enjoy playing it with a group of 810 friends,1
+26,squats down and tries to gauge the break on his putt,squats down and tries to gauge the break on his putt,1
+27,a majestic shade of blue,a majestic shade of blue,1
+28,gray,red,0
+29,green,green,1
+30,blue,blue,1
+31,blue,blue,1
+32,take a test,take a test,1
+33,go to office hours,go to office hours,1
+34,consider the consequences of academic dishonesty,consider the consequences of academic dishonesty,1
+35,I would not kill the man because the ends do not justify the means,I would not kill the man because the ends do not justify the means,1
+36,opens the pack and begins looking through the cards,opens the pack and begins looking through the cards,1
+37,tosses the peel into the trash can and begins eating,tosses the peel into the trash can and begins eating,1
+38,puts dozens of both kinds of fruit into his cart,puts dozens of both kinds of fruit into his cart,1
+39,may never drive again,may never drive again,1
+40,gives them anesthetic,gives them anesthetic,1
+41,leaped into action hoping to help,leaped into action hoping to help,1
+42,put on more makeup,put on more makeup,1
+43,through a series of events made an audience member vanish,through a series of events made an audience member vanish,1
+44,decided counting sheep was the way to go,decided counting sheep was the way to go,1
+45,throw it away,throw it away,1
+46,decided to hire an accountant,decided to hire an accountant,1
+47,measured the length of its shadow,used a ruler to tap it a few times,0
+48,took his gold doubloons and bought a dog,took his gold doubloons and bought a dog,1
+49,really wants things to work out with his life partner,really wants things to work out with his life partner,1
+50,took counsel from professional advisers,committed them self to helping other people steal from taxpayers,0
+51,disguised himself as a guard and fled the prison,disguised himself as a guard and fled the prison,1
+52,knew the customer wanted a creative design,knew the customer wanted a creative design,1
+53,used the phone book to find some new contact information,used the phone book to find some new contact information,1
+54,would leave any room their owner would enter,would leave any room their owner would enter,1
+55,knew they could collect their thoughts better in silence,knew they could collect their thoughts better in silence,1
+56,worked very hard to prepare a meal his family would love,worked very hard to prepare a meal his family would love,1
+57,offered free sessions to peak peoples interests,offered free sessions to peak peoples interests,1
+58,could no longer juggle three lovers,could no longer juggle three lovers,1
+59,was filled with all the candy the parents could find,was filled with all the candy the parents could find,1
+60,read Happy Birthday Casey I really value our friendship,read Happy Birthday John Isnt funny how a year has passed and your still single Anyway yourre alone,0
+61,got rid of anything they did not need in their home,got rid of anything they did not need in their home,1
+62,decided to use the dewey decimal system,decided to use the dewey decimal system,1
+63,needed to be attended to if it was going to complete the requests sent to it,needed to be attended to if it was going to complete the requests sent to it,1
+64,can now be considered vegan,can now be considered vegan,1
+65,will cook dinner and invite friends,will cook dinner and invite friends,1
+66,had to give them a ticket and warned them of possible jail time,had to give them a ticket and warned them of possible jail time,1
+67,apologized for his mistake,apologized for his mistake,1
+68,paces back and forth nearby the glass,paces back and forth nearby the glass,1
+69,has landed the plane,has landed the plane,1
+70,is looking outside wistfully,is looking outside wistfully,1
+71,has been gaining some weight,has been gaining some weight,1
+72,wishes his daughter a happy birthday,wishes his daughter a happy birthday,1
+73,presents the prize,presents the prize,1
+74,is standing guard by the door,is standing guard by the door,1
+75,are waiting to shop for some sale items,are waiting to shop for some sale items,1
+76,shoots the transgressor,shoots the transgressor,1
+77,takes his shoes off,cant find the keys to unlock the door,0
+78,pulls the cat out of a bag,pulls the cat out of a bag,1
+79,is hunting,is hunting,1
+80,are sitting at a mosque,are sitting at a mosque,1
+81,is on a date,dislikes movies,0
+82,has a weak password,has a weak password,1
+83,is not doing so well,is not doing so well,1
+84,is terrified,is sharing a meal with the dog,0
+85,is at number 1,is at number 3,0
+86,looks lovingly into his eyes,is not there,0
+87,is trying not to freeze,is trying not to freeze,1
+88,breaks his fall with his face,breaks his fall with his face,1
+89,engages with the students well,engages with the students well,1
+90,is trying to study,is having a conversation with someone in front of him,0
+91,looks up a word,looks up a word,1
+92,was cold,was cold,1
+93,ceases to be useful,ceases to be useful,1
+94,He is tired from standing,He is tired from standing,1
+95,has just finished a marathon,hopes to still be tired,0
+96,is hungry,is hungry,1
+97,looks at the banana,looks at the banana,1
+98,eats a banana,eats a banana,1
+99,is making the atmosphere black,is killing the fox,0
+100,attending a mass,attending a mass,1
+101,on his way home from work,trying to find police cars,0
+102,gets a ticket,gets a ticket,1
+103,engages the students,engages the students,1
+104,are black,are black,1
+105,cleans,cleans,1
+106,is juicy,is with a tasty man,0
+107,texts his mother,throws the smartphone at the teacher,0
+108,beat up his friend during the break,beat up his friend during the break,1
+109,do not have gills like fish,do not have gills like fish,1
+110,are part of a trail mix,are part of a trail mix,1
+111,makes the kite do loops in the air and smiles,makes the kite do loops in the air and smiles,1
+112,Sundance is male and Midnight is female,Sundance is male and Midnight is female,1
+113,is looking outside happily,is looking outside happily,1
+114,gets tired and begins to slow down,gets tired and begins to slow down,1
+115,will be twenty when he is fifteen,am a supportive younger sister to him,0
+116,smiles because his shirt is bright green,smiles because his shirt is bright green,1
+117,are waiting to shop for some sale items,are waiting to shop for some sale items,1
+118,gets tired and begins to slow down,gets tired and begins to slow down,1
+119,pulls the cat out of a bag,pulls the cat out of a bag,1
+120,is hunting,is hunting,1
+121,is on a date,is on a date,1
+122,is at number 1,is at number 5,0
+123,engages with the students well,engages with the students well,1
+124,is hungry,is hungry,1
+125,cleans,is telling the waiter what she wants to eat,0
+126,looks like an expensive antique carving,looks like an expensive antique carving,1
+127,is spicy,eats his food,0
+128,is eating dinner,is eating dinner,1
+129,is doing his homework,is doing his homework,1
+130,then goes to the park,catches the frisbee in her mouth,0
+131,then goes to the park,then goes to the park,1
+132,is no longer dirty,is no longer dirty,1
+133,eats dinner,eats dinner,1
+134,brush my teeth,brush my teeth,1
+135,reach a stalemate,reach a stalemate,1
+136,throw tomatoes at him,throw tomatoes at him,1
+137,boo him off stage,boo him off stage,1
+138,runs away and hides,runs away and hides,1
+139,beef,beef,1
+140,an apartment near many restaurants,an apartment near many restaurants,1
+141,going to work,going to work,1
+142,buy a new one,buy a new one,1
+143,leaps through the air and catches the frisbee in its mouth,leaps through the air and catches the frisbee in its mouth,1
+144,is making a stew,is making a stew,1
+145,smiles for the camera,smiles for the camera,1
+146,a very happy dog,a very happy dog,1
+147,adds celery to the pot,adds celery to the pot,1
+148,mixes together beef and marsala wine,cooks a stew by placing a cookbook in a pot,0
+149,tastes the dish he is making,stirs and shakes the live lobster until it combusts,0
+150,walk in the door and file into seats starting from the back,walk in the door and file into seats starting from the back,1
+151,leaps over a handbag on the floor and keeps going,leaps over a handbag on the floor and keeps going,1
+152,watched his favorite tv show,watched his favorite tv show,1
+153,then drove to the store near his house,then drove to the store near his house,1
+154,Jack’s son,Bob’s baby,0
+155,Have no roommate now,Have no roommate now,1
+156,spots an antelope and pounces,spots an antelope and pounces,1
+157,reels his net back in,reels his net back in,1
+158,killed and ate its carcass,killed and ate its carcass,1
+159,is cold and brittle,is cold and brittle,1
+160,runs for two more miles,makes a halting stop then turns on her break lights,0
+161,draws building dimensions on a canvas,uses his compass to find the north cardinal direction,0
+162,food,food,1
+163,a shoulder to cry on,a shoulder to cry on,1
+164,a piece of cake,in the mood for a good time,0
+165,I was sweating bullets,I was sweating tree sap,0
+166,my friends and I signed each others yearbooks,my friends and I signed each others yearbooks,1
+167,stayed with the mom,stayed with the mom,1
+168,the chalk broke,the principal dragged an iguana by the ear into the room,0
+169,loading his sleigh,loading his sleigh,1
+170,all of the action figures,all of the action figures,1
+171,save the animals,save the animals,1
+172,bus,bus,1
+173,a boat,a boat,1
+174,a beetle,a beetle,1
+175,lick my owner,lick my owner,1
+176,help others,help others,1
+177,e,c,0
+178,q,g,0
+179,four,four,1
+180,two,two,1
+181,one,two,0
+182,one,eight,0
+183,one,four,0
+184,one,one,1
+185,one,nine,0
+186,three,four,0
+187,five,five,1
+188,seven,seven,1
+189,nine,nine,1
+190,eleven,eleven,1
+191,thirteen,thirteen,1
+192,fifteen,fifteen,1
+193,five,five,1
+194,seven,eight,0
+195,eight,eight,1
+196,ten,ten,1
+197,fiftythree,fiftythree,1
+198,four,two,0
+199,three,four,0
+200,three,five,0
+201,piled their plates high with mashed potatoes and cranberry sauce,piled their plates high with mashed potatoes and cranberry sauce,1
+202,lit up the night,destroyed the lake,0
+203,went home and slept,went home and slept,1
+204,wound up lost,wound up lost,1
+205,put some more wood on it,put it out,0
+206,bought a small tent,bought a small tent,1
+207,packed some sandwiches,packed some sandwiches,1
+208,get the pork chops,get the pork chops,1
+209,of beers,of beers,1
+210,avoid talking to telemarketers,avoid talking to telemarketers,1
+211,were the wind beneath his wings,were all cheddar,0
+212,even too much of a good thing can be bad,dont fall off of buildings,0
+213,drove a nail into it,drove a nail into it,1
+214,it wasnt cloudy,it wasnt cloudy,1
+215,would never vote for a progressive,would never vote for a progressive,1
+216,asked to speak to her mother,had just run out of batteries in her cellphone,0
+217,decided that someday he had to go to Tahiti,decided that someday he had to go to Tahiti,1
+218,always liked the hottest days best,really loved hanging out with dogs,0
+219,wanted to be financially secure,wanted to be financially secure,1
+220,opened an IRA,opened an IRA,1
+221,stayed home and played video games,stayed home and played video games,1
+222,collapsed,collapsed,1
+223,blows balloon animals for the children,blows balloon animals for the children,1
+224,closes the shower door,closes the shower door,1
+225,begin cooking dinner,begin cooking dinner,1
+226,pulls a rabbit out of a hat,pulls a rabbit out of a hat,1
+227,she won an award,she won an award,1
+228,ran back to pick it up,ran back to pick it up,1
+229,goes underwater cavediving,swims on the back of a shark and coordinates a flash dance with dolphins,0
+230,packed up her belongings to leave,packed up her belongings to leave,1
+231,started to dance,started to dance,1
+232,really enjoyed playing with it,really enjoyed playing with it,1
+233,ate it as quickly as she could,put it in the cupboard for later,0
+234,looked for a nearby stream to fill his water bottle,pulled a soda out of his freezer,0
+235,went to the store to get something to eat,went to the store to get something to eat,1
+236,sharpened it with a whetstone,sharpened it with a whetstone,1
+237,covered his ears,covered his ears,1
+238,drove to the nearest gas station,drove to the nearest gas station,1
+239,ran closer to investigate its source,ran closer to investigate its source,1
+240,pulled the batteries out of his calculator for replacements,pulled the batteries out of his calculator for replacements,1
+241,opened the fridge and took out a carton of milk,opened the fridge and took out a carton of milk,1
+242,hit it with a flyswatter,washes her hands,0
+243,turned off the fan,threw a paperweight at the fan,0
+244,gets up to brush his teeth,gets up to brush his teeth,1
+245,opens up WeChat,opens up WeChat,1
+246,respectfully bow,respectfully bow,1
+247,went to the kitchen to get a knife,went to the kitchen to get a knife,1
+248,rinsed them in the sink,pasted them onto a wall,0
+249,built a fort with the boxes,built a fort with the boxes,1
+250,began to polish the statue,chiseled away rock carelessly,0
+251,was wiped off with a rag,was covered with more chalk,0
+252,carefully blew the dust away,carefully blew the dust away,1
+253,threw the steak away and started over,threw the steak away and started over,1
+254,emptied the sap from a bucket into a tank,emptied the sap from a bucket into a tank,1
+255,walked to the stove to turn down the heat,walked to the stove to turn down the heat,1
+256,called his friend over to split the weight,called his friend over to split the weight,1
+257,took the fish back to its cubs,took the fish back to its cubs,1
+258,lands in Xian 12 hours later,lands in Xian 12 hours later,1
+259,went to the store to buy more milk,went to the store to buy more milk,1
+260,stayed still and quiet,stayed still and quiet,1
+261,made a phone call,put his message into a bottle and threw it into the ocean,0
+262,put on a large hat,put on a large hat,1
+263,hiked out into an open field with his telescope,hiked out into an open field with his telescope,1
+264,quietly left the room,quietly left the room,1
+265,dug a tunnel on beach connection to a secret island,ran far away from him chasing a gazelle,0
+266,struggles to serve himself food with chopsticks,struggles to serve himself food with chopsticks,1
+267,is carrying a shaving machine with a pressure washer,is trying to find the gem which fell from his ring,0
+268,is waiting for the brides father to arrive,looks her anxiously as someone walks and sits in his seat,0
+269,buy new clothes,buy new clothes,1
+270,call the airline,take care of his children,0
+271,needed his inhaler,died,0
+272,bartender says hello,receptionist at the desk asks for their identification,0
+273,had a bad day at school,had a bad day at school,1
+274,was accepted,was accepted,1
+275,was rejected,was rejected,1
+276,prepares to jibe,prepares to jibe,1
+277,immediately jumps off the building to stop them,immediately jumps off the building to stop them,1
+278,digs in for the home stretch,digs in for the home stretch,1
+279,makes smalltalk at the water cooler,makes smalltalk at the water cooler,1
+280,a couple is jogging along a path,the pond is motionless,0
+281,that her aunts birthday is today,that her aunts birthday is today,1
+282,gets them to come back home,is mowing his lawn,0
+283,stay in their corners like two fighters,stay in their corners like two fighters,1
+284,if anyone else is out there,if anyone else is out there,1
+285,if he has been stood up,how often seagulls migrate,0
+286,flows around the rocks,flows around the rocks,1
+287,dabs it up with napkins,dabs it up with napkins,1
+288,parents are visiting soon,windows are very dirty,0
+289,son keeps asking for candy,son keeps asking for candy,1
+290,is excited that Stacey is home from college,is excited that Stacey is home from college,1
+291,sees the neighbors across the street and wants to say hi,sees the neighbors across the street and wants to say hi,1
+292,are lined up on the sidewalk in tents,are lined up on the sidewalk in tents,1
+293,wants to go get fast food for lunch,fought in the Civil War,0
+294,see if they like it before they take it home,see if they like it before they take it home,1
+295,mom wants to know how work has been,mom wants to know how work has been,1
+296,is looking for a mate,is looking for a mate,1
+297,when his friend will be over,how potatoes came to be,0
+298,checks google to find some help,checks google to find some help,1
+299,worries that he may hurt himself,worries that he may hurt himself,1
+300,takes the broom out of the closet,takes the broom out of the closet,1
+301,want to get their bellies scratched,just found a brand new stick to play fetch with,0
+302,hopes that the other companies are hiring,wants to beat rush hour traffic,0
+303,dont get why no one gets them,dont get why no one gets them,1
+304,many in number,many in number,1
+305,standing,standing,1
+306,tries to find warmth,tries to find warmth,1
+307,Dunks the ball,Dunks the ball,1
+308,wait for the signal,wait for the signal,1
+309,Got scared,Got scared,1
+310,may need medical help,may need medical help,1
+311,wanted to leave school early,wanted to leave school early,1
+312,look somewhat bored,look somewhat bored,1
+313,shrunk down to the size of a rat,shrunk down to the size of a rat,1
+314,turned translucent and disappeared,turned translucent and disappeared,1
+315,birthday cake,birthday cake,1
+316,wedding cake,wedding cake,1
+317,wedding cake,wedding cake,1
+318,after the deadline,after the deadline,1
+319,a burrito,dan dan noodles,0
+320,a burrito,a burrito,1
+321,sesame noodles,sesame noodles,1
+322,Xiamen,Xiamen,1
+323,Philadelphia,Xiamen,0
+324,Philadelphia,Saarbrucken,0
+325,Philadelphia,Xiamen,0
+326,Edinburgh,Edinburgh,1
+327,Saarbrucken,Saarbrucken,1
+328,Edinburgh,Edinburgh,1
+329,Saarbrucken,Saarbrucken,1
+330,Edinburgh,Edinburgh,1
+331,Xiamen,Xiamen,1
+332,not yet been tried,not yet been tried,1
+333,not yet been tried,not yet been tried,1
+334,been found guilty,been found guilty,1
+335,passes his classes,passes his classes,1
+336,fails a class,fails a class,1
+337,gives two pieces of fruit to a woman leaving five for himself,gives three pieces of fruit to a woman leaving six for himself,0
+338,puts both animals in the back seat of a car,puts the three animals in the back seat of a car,0
+339,went outside for his jog,went outside for his jog,1
+340,and grabbed his goggles,and grabbed his goggles,1
+341,warms the oven,warms the oven,1
+342,continued driving,had a funeral,0
+343,Devastated,Devastated,1
+344,is now in second,is now in second,1
+345,is in twelfth,is in 1st place,0
+346,six years old,6 years old,0
+347,is 9,is ten,0
+348,is a cool kid,is eleven,0
+349,has two babies,has two babies,1
+350,grabs his wetsuit,grabs his wetsuit,1
+351,is six minutes early for her reservation,is six minutes early for her reservation,1
+352,gets bored,adds up all the times shes ever slept,0
+353,opens the door,rings the doorbell,0
+354,was sad because it was closed,was sad because it was closed,1
+355,squats 250,squats 250,1
+356,buys a bag,buys a bag,1
+357,wants the color to be blue,gets braces on his dog,0
+358,land locked,land locked,1
+359,is going out,is going out,1
+360,looks for a new job,looks for a new job,1
+361,prone to earthquakes,prone to earthquakes,1
+362,evaluates a complex integral,evaluates a complex integral,1
+363,works his pecs,works his pecs,1
+364,is very athletic,is very athletic,1
+365,serves dinner,serves dinner,1
+366,works on practice geometry problems,works on practice geometry problems,1
+367,earthquake,earthquake,1
+368,tsunami,tsunami,1
+369,work on algebra problems,work on algebra problems,1
+370,works on algebra problems,works on algebra problems,1
+371,works on algebra problems,works on algebra problems,1
+372,puts on her gym shorts,puts on her gym shorts,1
+373,works on algebra problems,works on algebra problems,1
+374,work on algebra problems,work on algebra problems,1
+375,gets a ticket,gets a ticket,1
+376,was 9 last year,was 9 last year,1
+377,likes honey,kills space oranges,0
+378,likes lights,likes lights,1
+379,is a mammal,is a mammal,1
+380,is 5,is 5,1
+381,lives in the northpole,lives in the northpole,1
+382,drought,drought,1
+383,do butterfly,start drowning for no reason,0
+384,shot an orc in the head,shot an orc in the head,1
+385,worked hard to make a favorable impression in front of him,worked hard to make a favorable impression in front of him,1
+386,turns fifty today,loves to eat cake,0
+387,hops around until he gets caught,hops around until he gets caught,1
+388,Is Samwise talking to Frodo,Is Samwise talking to Frodo,1
+389,Husband,Father,0
+390,Friend,Friend,1
+391,ceases to be useful,ceases to be useful,1
+392,ceases to be useful,ceases to be useful,1
+393,8,4,0
+394,3,3,1
+395,Roger,Roger,1
+396,ceases to be useful,ceases to be useful,1
+397,Exhusband,Exhusband,1
+398,ceases to be useful,ceases to be useful,1
+399,lied down and fell asleep,lied down and fell asleep,1
+400,take some flower,take some flower,1
+401,protects your fingers,is made out of steel,0
+402,are bananas,are footballs,0
+403,made a phone call to talk to them,put his message into a bottle and threw it into the ocean,0
+404,hiked out into an open field and pulled out his telescope,hiked out into an open field and pulled out his telescope,1
+405,bartender says hello,receptionist at the desk asks for their identification,0
+406,was rejected,was rejected,1
+407,was the best paper,was accepted,0
+408,has to close as it becomes too late in the night,has to close as it becomes too late at night,0
+409,has to close because it was too late and the student must leave,has to close because it was too late and the student must leave,1
+410,has to close because it was too late and the student goes home to study more,has to close because it was too late and the student goes home to study more,1
+411,has to close because the library hours are over and the student leaves,has to close because the library hours are over and the student leaves,1
+412,offers a quiet environment which is conducive to productivity,offers a quiet environment which is conducive to productivity,1
+413,helps the student concentrate and study,has to close and the student must leave,0
+414,must go back home,must go back home,1
+415,speeds up towards the finish line,speeds up towards the finish line,1
+416,makes smalltalk at the water fountain,makes smalltalk at the water fountain,1
+417,makes small talk at the water cooler,makes small talk at the water cooler,1
+418,chats with colleagues at the office,chats with colleagues at the office,1
+419,makes small talk at the office,makes small talk at the office,1
+420,braces for his walk to work,braces for his walk to work,1
+421,gets on his bicycle,gets on his bicycle,1
+422,came with several issues,came with several issues,1
+423,was possibly drunk,couldnt be reached after the connection hang,0
+424,earth orbits the sun,earth and sun are both celestial objects,0
+425,was trying to get the bird,was trying to get the bird,1
+426,perform backstroke,perform backstroke,1
+427,did breaststroke,did breaststroke,1
+428,treaded,treaded,1
+429,cracked his head open on pavement,cracked his head open on pavement,1
+430,collided head on to another car,rear ended a car,0
+431,was very angry at him,was very angry at him,1
+432,collided head on with another bicyclist,rear ended another bicyclist,0
+433,avoided the banana,avoided the banana,1
+434,opened the door with his key,opened the door with his key,1
+435,put the tshirt on display,put the tshirt on display,1
+436,gave them to his subordinates,wore them himself and did not give them to anyone else,0
+437,only knew how to doggy paddle,only knew how to doggy paddle,1
+438,deleted it from his device and tried again,deleted it from his device and tried again,1
+439,did not do any work,did not do any work,1
+440,normal,normal,1
+441,picks up the frisbee from the ground,picks up the frisbee from the ground,1
+442,broke the 200 fly world record,broke the 200 fly world record,1
+443,went to the Olympics,went to the Olympics,1
+444,are open and viewing the pool,are open and viewing the pool,1
+445,gave the ring to her,gave the ring to her,1
+446,gave the food to his relatives,threw the food away so it would not be wasted,0
+447,pooped,stood up and lifted the lid,0
+448,lifts the pan and moves it around to shuffle the eggs,lifts the pan and moves it around to shuffle the eggs,1
+449,are watching him maneuver his car smartly,are minding their own business,0
+450,does not know how to code,does not know how to code,1
+451,is sitting quietly and observing the man,is sitting quietly and observing the man,1
+452,almost drowned,almost drowned,1
+453,is one years old,is one years old,1
+454,is five years old,is five years old,1
+455,is 5 years old,is 5 years old,1
+456,like lights,oranges,0
+457,are drawn to lights,are drawn to lights,1
+458,is drawn to lights,is drawn to lights,1
+459,is drawn to lights,is drawn to lights,1
+460,is learning about integrals,is learning about integrals,1
+461,is learning about integrals,is learning about integrals,1
+462,turned on and someone may be using it,turned on and someone may be using it,1
+463,is enticing the crowd to vote,is enticing the crowd to vote,1
+464,wait for the signal to begin,wait for the signal to begin,1
+465,has a bad dream,stops breathing,0
+466,breathes smoothly,breathes smoothly,1
+467,breathe steadily,breathe steadily,1
+468,breathes steadily,breathes steadily,1
+469,breathes steadily,breathes steadily,1
+470,tries his best to finish it,tries his best to finish it,1
+471,is disturbed by a fly,is disturbed by a fly,1
+472,stayed home to cook meals,stayed home to cook meals,1
+473,stayed at home to cook meals,stayed at home to cook meals,1
+474,talks about the history of Egoroffs theorem,talks about the history of Egoroffs theorem,1
+475,talks about the story of Thomas Bayes,talks about the story of Thomas Bayes,1
+476,floor,floor,1
+477,talks about the story of Euclid,talks about the story of Euclid,1
+478,autonomously,autonomously,1
+479,Plates,Sink,0
+480,tree,tree,1
+481,factory,tree,0
+482,tree,tree,1
+483,an insect,an insect,1
+484,are absentminded,are absentminded,1
+485,a virus,a virus,1
+486,a wire,an insect,0
+487,a glitch,a glitch,1
+488,Pet store,New Zealand,0
+489,The Pet store,The produce isle,0
+490,The produce isle,New Zealand,0
+491,The produce isle,The produce isle,1
+492,something far away,something far away,1
+493,a lens,a lens,1
+494,a lens,a lens,1
+495,I fell off a roof,I fell off a roof,1
+496,a doctor,a doctor,1
+497,a mechanic,a mechanic,1
+498,is out of breath,is out of breath,1
+499,thinks its a good experience,thinks its a good experience,1
+500,could no longer handle three lovers,could no longer handle three lovers,1
+501,is upset about the results,is upset about the results,1
+502,is upset about it,is upset about it,1
+503,quit his job and did something else,quit his job and did something else,1
+504,quit his job and did something else,quit his job and did something else,1
+505,quit juggling and did something else,quit juggling and did something else,1
+506,didn’t expect to sprain his ankle last Friday,didn’t expect to sprain his ankle last Friday,1
+507,juggles multiple lovers,juggles multiple lovers,1
+508,has many lovers,loves only one person,0
+509,cheats on his wife,has many lovers,0
+510,kicking a ball among team players so to score goals without committing faults,kicking a ball among team players so to score goals without committing faults,1
+511,studied hard,studied hard,1
+512,never goes to class,never goes to class,1
+513,wants to focus,wants to focus,1
+514,never goes to class,never goes to class,1
+515,aces all his exams,studies hard,0
+516,likes physics,likes physics,1
+517,likes reading books,likes reading books,1
+518,likes to build stuff,likes to build stuff,1
+519,likes to perform experiments in lab,likes to perform experiments in lab,1
+520,like algorithm implementation,like algorithm implementation,1
+521,quit juggling and did something else,quit juggling and did something else,1
+522,enjoys winning in market,enjoys winning in market,1
+523,never goes to class,never goes to class,1
+524,likes being alone,likes being alone,1
+525,cherishes the time with his parents,cherishes the time with his parents,1
+526,kisses his current girlfriend,kisses his current girlfriend,1
+527,wants to see the Big Ben,arrives in Paris last night,0
+528,engages the students well,engages the students well,1
+529,orders Chinese food often,orders Chinese food often,1
+530,enjoys abstractions,dislikes mathematics,0
+531,fell down below,fell down below,1
+532,plunged into the river,plunged into the river,1
+533,turns towards the bench and sits,turns towards the bench and sits,1
+534,by dancing on the ground,by kicking the opponents,0
+535,a police officer gave them a citation for jaywalking,a police officer gave them a citation for jaywalking,1
+536,rushed home,rushed home,1
+537,friends,cars engine missing,0
+538,their sun screen,their sun screen,1
+539,plunged into the river,plunged into the river,1
+540,turn up the radio,get into an Uber,0
+541,an Indian,an Indian,1
+542,Coffee,Coffee,1
+543,Tofu,Tofu,1
+544,agrees with him,agrees with him,1
+545,vegetables,vegetables,1
+546,like playing with Joe,like playing with Joe,1
+547,hate him,wish he was not my friend,0
+548,never liked it,never liked it,1
+549,I havent driven a car,I dont care,0
+550,Wife,Mother,0
+551,sometimes eats vegetables,is very friendly to bones,0
+552,is in bad health,is in bad health,1
+553,husband,husband,1
+554,raining,raining,1
+555,hates his girllike name,hates his girllike name,1
+556,returns to work shortly after that,gives birth to a baby,0
+557,beats others in the related competition,beats others in the related competition,1
+558,is never absent even when she doesnt feel well,is never absent even when she doesnt feel well,1
+559,is never late for it even on rainy days,is never late for it even on rainy days,1
+560,steals the ball,tackles him,0
+561,admires Gauss very much,admires Gauss very much,1
+562,thinks codes are very beautiful,thinks codes are very beautiful,1
+563,admires Turing very much,admires Turing very much,1
+564,passes Go and collects two hundred dollars,passes Go and collects two hundred dollars,1
+565,misses many times,misses many times,1
+566,hits the bullseye,hits the bullseye,1
+567,writes code,writes code,1
+568,answers the question correctly,answers the question correctly,1
+569,calls his name,sees his hand but continues to write problems on the chalk board,0
+570,rests,rests,1
+571,steals the ball,tackles him,0
+572,shoots the ball into the hoop,shoots the ball into the hoop,1
+573,rolls the die,rolls the die,1
+574,quickly runs to the store after work to get in line to buy the new shoes,quickly runs to the store after work to get in line to buy the new shoes,1
+575,reads from his textbook about Newtons laws,reads from his textbook about Newtons laws,1
+576,prepares for his college entrance exams,discovers a new element in his lab by fusing Uranium with gold,0
+577,solves the quadratic equation,solves the quadratic equation,1
+578,gets surgery for its throat,gets surgery for its throat,1
+579,crosses the road,crosses the road,1
+580,sits and waits for its mother to bring it food because it can not move,sits and waits for its mother to bring it food because it can not move,1
+581,throws the ball,practices throwing the ball,0
+582,practices her serve,practices her serve,1
+583,is little,is white and fluffy but really big and fat as well,0
+584,watches TV,watches TV,1
+585,climbs up back onto the ledge,climbs up back onto the ledge,1
+586,hugs his wife and daughter,hugs his wife and daughter,1
+587,writes code,writes code,1
+588,writes code,writes code,1
+589,comes out with a new album,comes out with a new album,1
+590,started barking,got scared and ran away,0
+591,flies past him,leaps through the air and catches the frisbee in its mouth,0
+592,drove to a supermarket to buy ingredients,drove to a supermarket to buy ingredients,1
+593,adopted three deserted dogs last month,adopted three deserted dogs last month,1
+594,has a new coat,has a new coat,1
+595,windy and cold weather,windy and cold weather,1
+596,eating dinner,eating dinner,1
+597,combat the cold they were feeling,combat the cold they were feeling,1
+598,is bored,is a Northwestern wildcat appreciating an indoor training session,0
+599,talks with Jack and gives him suggestions,talks with Jack and gives him suggestions,1
+600,new career,new career,1
+601,got an adrenaline rush from the danger of the situation,got an adrenaline rush from the danger of the situation,1
+602,splits in two and falls over,splits in two and falls over,1
+603,the man outside,the man outside,1
+604,takes a picture of the bird,screeches at the bird,0
+605,tells a joke and they all laugh,evaporates because of final exam pressure,0
+606,helped the captain make sure there was enough food,helped the captain make sure there was enough food,1
+607,summarized the last two months before continuing to new concepts,summarized the last two months before continuing to new concepts,1
+608,took a shower,took a shower,1
+609,felt heartbroken,felt heartbroken,1
+610,still need to spend more time on this research,still need to spend more time on this research,1
+611,leaves the building through an exit,leaves the building through an exit,1
+612,joins the university team,breaks a stone into pieces with a basketball,0
+613,call and reschedule the patient,call and reschedule the patient,1
+614,want to eat some food,want to eat some food,1
+615,may prefer football or swimming instead,dislikes basketball and exercise,0
+616,will go back home during summer break,will go back home during summer break,1
+617,want to go to sleep,want to go to sleep,1
+618,stays home from school,stays home from school,1
+619,study their notes,study their notes,1
+620,wouldnt tell their students the answer directly,wouldnt tell their students the answer directly,1
+621,finds the aisle and purchases a pound of it,finds the aisle and purchases a pound of it,1
+622,call the vet,call the vet,1
+623,felt angry,felt angry,1
+624,is an expert in her field,is an expert in her field,1
+625,called his father for help,called the hospital for help,0
+626,put the sheets in the laundry,put the sheets in the laundry,1
+627,bought a tshirt from the gift shop,bought a tshirt from the gift shop,1
+628,watches American talk shows,refuses to speak English with his English teacher,0
+629,has a flat tire and arrives to class late,has a flat tire and arrives to class late,1
+630,is 4,is 4,1
+631,makes them golden,makes them golden,1
+632,softly blew into her instrument,softly blew into her instrument,1
+633,was raining outside,was raining outside,1
+634,wants to end the relationship with Jake,wants to end the relationship with Jake,1
+635,is happy to see them together,is happy to see them together,1
+636,is in good health,is in good health,1
+637,doesnt need much time to sleep,doesnt need much time to sleep,1
+638,buys squash and makes a meal out of it,buys squash and makes a meal out of it,1
+639,broken,broken,1
+640,buy you dinner,say thank you,0
+641,is proud of the shot and I congratulate him,is proud of the shot and I congratulate him,1
+642,is really proud and does a fistpump,is really proud and does a fistpump,1
+643,then buys his friends dinner,is very happy and decides to throw away the money,0
+644,broke many records of Broadway,is on the ten dollar bill,0
+645,directed the movie,directed the movie,1
+646,is dirty and I need to clean up,is dirty and I need to clean up,1
+647,havent eaten because I had to finish my test,havent eaten because I had to finish my test,1
+648,will keep my feet toasty when I sleep,will keep my feet toasty when I sleep,1
+649,says sorry and plays squash the next day with his friends,says sorry on his knees crying the next day,0
+650,walk outside and do it there,walk outside and do it there,1
+651,visit a different store that has it available,visit a different store that has it available,1
+652,call a taxi to take him home,call a taxi to take him home,1
+653,aces all his exams,aces all his exams,1
+654,never goes to class,never goes to class,1
+655,call his lawyer,call his lawyer,1
+656,comfort,comfort,1
+657,is less accessible to laymen,is less accessible to laymen,1
+658,get a Visa,get a Visa,1
+659,always takes the time to understand someone elses perspective,always takes the time to understand someone elses perspective,1
+660,needs help from others on the street,needs help from others on the street,1
+661,was ultimately too close to call,was ultimately too close to call,1
+662,you cant stop fast,you cant stop fast,1
+663,was applauded by the cheering audience,was applauded by the cheering audience,1
+664,is a wedding planner,is a wedding planner,1
+665,you may get electrocuted,you may get electrocuted,1
+666,you will get electrocuted otherwise,you will get electrocuted otherwise,1
+667,likes to stay up to date,likes to stay up to date,1
+668,put on an extra pair of socks,put on an extra pair of socks,1
+669,curb the temptation to pet and go home because they are mostly unsanitary,curb the temptation to pet and go home because they are mostly unsanitary,1
+670,will be five when I am eight,will be five when I am eight,1
+671,have two other siblings as well,am a supportive younger sister to him,0
+672,has two other siblings as well,is a supportive younger sister to him,0
+673,talks with his friend about difficulties and makes it up,talks with his friend about difficulties and makes it up,1
+674,spends most of his day at the hospital,spends most of his day at the hospital,1
+675,spends most of her day at the hospital,spends most of her day at the hospital,1
+676,sprays insect spray in the house,sprays insect spray in the house,1
+677,is still in a meeting at work,is still in a meeting at work,1
+678,is still in a meeting at work,is still in a meeting at work,1
+679,enjoys the fresh air,enjoys the fresh air,1
+680,is thinking about what to cook for dinner,barks loudly when she sees a squirrel,0
+681,engages her neighbor in small talk,engages her neighbor in small talk,1
+682,gives two apples to each of her five children,eats five of the apples and has four left,0
+683,looks up data on different markets for better deals,looks up data on different markets for better deals,1
+684,reads both of them a bedtime story,reads both of them a bedtime story,1
+685,only has two tickets now,only has two tickets now,1
+686,needs to play a lot,needs to play a lot,1
+687,has six eggs left,has six eggs left,1
+688,gets lessons,gets lessons,1
+689,has twelve eggs,has twelve eggs,1
+690,four boys and four girls,four boys and four girls,1
+691,is in a better place now,is in a better place now,1
+692,is probably hiding something,is probably hiding something,1
+693,resets his computer,resets his computer,1
+694,practice with a team,practice with a team,1
+695,is now full,is now full,1
+696,only eats raw fish,only eats raw fish,1
+697,is going for a ball that smells like food,is going for a ball that smells like food,1
+698,went for a swim,listened for echos,0
+699,are out of breathe,are out of breathe,1
+700,changes the oil also,then shampoos it,0
+701,gets his goggles,gets his goggles,1
+702,fell off the boat,ate the other boy,0
+703,is having people over and wants to serve them drinks,is having people over and wants to serve them drinks,1
+704,Decided to go to sleep on his couch,Decided to go to sleep on his couch,1
+705,has 30 other sisters in her chapter,has 30 other sisters in her chapter,1
+706,Gained less than 20 pounds during that 9 months,Gained less than 20 pounds during that 9 months,1
+707,rolls the die,rolls the die,1
+708,moves his piece 6 places forward,moves his piece 6 places forward,1
+709,then skids to a stop across the turf as he successfully chomps down on the disc,then skids to a stop across the grass as dog is bitten into by the frisbee,0
+710,reaches up with both hands as the ovular shaped ball clanks off of his finger tips,leaps 15 feet into the air and comes down with the ball secured to his foot,0
+711,smiles as he finishes the contest in first place far ahead of all other competitors,turns to his opponent next to him and shakes his hand,0
+712,realizes its mistake as it is crushed by a spring trap as it grabs the piece of cheese,realizes its mistake as it is crushed by a spring trap as it grabs the piece of cheese,1
+713,arrives at the cheese curls up in a ball and snacks on its new conquest,arrives at the cheese curls up in a ball and snacks on its new conquest,1
+714,reaches out with his head as the spherical ball smacks off of his forehead and careens into the goal past the goalie,reaches out with his head as the spherical ball smacks off of his forehead and careens into the goal past the goalie,1
+715,should help him walk in the street,should shed light on him,0
+716,is under 5 feet,is under 5 feet,1
+717,is bald,is bald,1
+718,probably didnt study very hard,probably didnt study very hard,1
+719,set an easy test,studied hard for it,0
+720,likes soda,likes soda,1
+721,pulls himself over the edge and hits the buzzer as he sighs in relief,pulls himself over the edge and hits the buzzer as he sighs in relief,1
+722,turns to his left carving his edges into the snow as he maneuvers around the gate,turns to his left carving his edges into the snow as he maneuvers around the gate,1
+723,reaches out with his hand as he leaps high in the air and in one fluid motion slams the ball through the net,reaches out with his hand as he leaps high in the air and in one fluid motion slams the ball through the net,1
+724,cringes as he knows his boss will need him to stay late yet another day,cringes as he knows his boss will need him to stay late yet another day,1
+725,interviewed by others,interviewed by others,1
+726,greets her with his hand as he spins her into his arms as the audience cheers in delight,greets her with his hand as he spins her into his arms as the audience cheers in delight,1
+727,lands on the track and stays in his lane attempting to edge past the other racers,lands on the track and stays in his lane attempting to edge past the other racers,1
+728,called his mom to tell her that he was paddling in the ocean,got ready as he was ridden into show by his surfboard,0
+729,gasped in awe as a school of beautiful fished swam right past him,gasped in awe as a school of beautiful fished swam right past him,1
+730,wakes up no longer having his wisdom teeth,calls his mom to tell her that he is knocked out,0
+731,is abruptly awaken by his boss banging on his wooden desk,is abruptly awaken by his boss banging on his wooden desk,1
+732,grabs a hold of the monkey bars swinging their small body back and forth as they make their way to the other side,grabs a hold of the monkey bars swinging their small body back and forth as they make their way to the other side,1
+733,jumps as he hears rustling in bushes only to be greeted by a harmless squirrel,becomes a snack for a wild chip monk,0
+734,swears profusely knowing he will no longer be able to rely on GPS to get to his destination,swears profusely knowing he will no longer be able to rely on GPS to get to his destination,1
+735,python is not super hard to pick up,python is not super hard to pick up,1
+736,they are interested in them,people forget a language every year so they need to learn a new one so they can talk,0
+737,they were misinformed,they were misinformed,1
+738,have difficulties in learning understand the traffic lights,have difficulties in learning recognize their owner,0
+739,used AI technology to determine what is the best time to take picture,used AI technology to determine what is the best time to take picture,1
+740,regards those unlucky things to be lucky,regards those unlucky things to be lucky,1
+741,sink when poured into 2 degrees centigrade water,sink when poured into 2 degrees centigrade water,1
+742,sees the snow falling,sees the snow falling,1
+743,was trying to get it on with him,was trying to get it on with him,1
+744,may not be able to get home,may not be able to get home,1
+745,hasnt eaten in a long time,hasnt eaten in a long time,1
+746,once killed a person,once killed a person,1
+747,is an athletic animal,is an athletic animal,1
+748,finishes and starts to bench a 100 pounds,finishes and starts to bench a 100 pounds,1
+749,is completely broken after that,is completely broken after that,1
+750,will fly to Chicago,will fly to Chicago,1
+751,is a solar car with batteries for the night,has flat tires,0
+752,was angry at the perpetrators,felt sad for himself,0
+753,loves the cat,leaps through the air and catches the frisbee in its mouth,0
+754,wanted them to stay cool,wanted them to stay cool,1
+755,is trying to keep dry,is trying to keep dry,1
+756,brings out a box of marshmallows and crackers,needs to keep warm to survive the winter,0
+757,lives on a beautiful farm with a huge green field,lives on a beautiful farm with a huge green field,1
+758,are all cheering against their rivals,are all cheering against their rivals,1
+759,and wave their hands in the air,off of a springboard and into the pool,0
+760,ripples outward from each spot,ripples outward from each spot,1
+761,dances on the table,walks to a safer space,0
+762,drove too fast,drove too fast,1
+763,escaped from the forest,escaped from the forest,1
+764,carries one hundred pounds,carries one hundred pounds,1
+765,throws them a ball,punishes this dog,0
+766,have to study at home,have to study at home,1
+767,hates cleaning up after it in the winter,hates cleaning up after it in the winter,1
+768,nose went up,stomach didnt sit well with the turn,0
+769,waited for the owners,waited for the owners,1
+770,enjoys the fresh air,enjoys the fresh air,1
+771,says he shouldve stayed home from school today,says he shouldve stayed home from school today,1
+772,offer to assist her in some other endeavor,offer to assist her in some other endeavor,1
+773,its too much of a hassle for the working class to go through legitimate channels,its too much of a hassle for the working class to go through legitimate channels,1
+774,isnt really unaffordable for lower income individuals,isnt really unaffordable for lower income individuals,1
+775,ran into a public square and disappeared amongst the crowd,ran into a public square and disappeared amongst the crowd,1
+776,our electricity bill will be high,the toaster will come alive and eat us,0
+777,switch off air conditioner,take off coat,0
+778,begin their laps as fast as they can,begin their laps as fast as they can,1
+779,inserts it into the computer,inserts it into the computer,1
+780,goes to work,goes to work,1
+781,says thank you,says thank you,1
+782,throws it in the recycling bin,throws it in the recycling bin,1
+783,walks to the subway station instead,waits patiently in the car,0
+784,thinks they are too expensive,doesnt like apples,0
+785,feels motivated as she is understanding the subject,actually entered a virtual classroom and is now late for the real class,0
+786,pick up their utensils to eat,pick up their utensils to eat,1
+787,along a diagonal,in an Lshape,0
+788,picks up his controller,picks up his controller,1
+789,an Rrated movie,an Rrated movie,1
+790,reaches for his controller,reaches for his controller,1
+791,listen to music,go to the movies,0
+792,scrambles them with a spatula,scrambles them with a spatula,1
+793,measures the temperature,measures the temperature,1
+794,go to a party,go to a party,1
+795,splits apart,splits apart,1
+796,a cat,a cat,1
+797,changes the channel,changes the channel,1
+798,was playing hide and seek,was playing hide and seek,1
+799,pencils the caller in,pencils the caller in,1
+800,schedules the meeting,schedules the meeting,1
+801,casts a spell,smells bad,0
+802,Monopoly,Monopoly,1
+803,watches it sizzle,watches it sizzle,1
+804,ties it tight,ties it tight,1
+805,grunts with exertion,grunts with exertion,1
+806,finally decided to jump off and pulled his parachute,finally decided to jump off and pulled his parachute,1
+807,frowns in worry,frowns in worry,1
+808,water,water,1
+809,starts the time,starts the time,1
+810,passes the ball to a teammate,passes the ball to a teammate,1
+811,starts grading exams,wraps the papers around the pen several times,0
+812,is allergic to seafood,is allergic to seafood,1
+813,draws a graph,draws a graph,1
+814,picks up his marker,picks up his marker,1
+815,nods his head in agreement,nods his head in agreement,1
+816,tells everyone to quiet down,tells everyone to quiet down,1
+817,brings them to the laundromat,brings them to the laundromat,1
+818,then pours the resulting milkshake into a cup,then pours the resulting milkshake into a cup,1
+819,never eats nuts,never eats nuts,1
+820,says it was a hard scene emotionally,says it was a hard scene emotionally,1
+821,was sunbathing,was sunbathing,1
+822,set them aside to be cooked,set them aside to be cooked,1
+823,each take care of their dish,each take care of their dish,1
+824,starts to jump,starts to jump,1
+825,works hard,works hard,1
+826,shower and get changed,throw the weight at the gym entrance,0
+827,flicks out its tongue to eat it,flicks out its tongue to eat it,1
+828,bites the gazelle,asks the gazelle to fall down and die,0
+829,runs away,cries as the boy dies,0
+830,doesnt talk to strangers,doesnt talk to strangers,1
+831,watches the car pass him,watches the car pass him,1
+832,waits his turn,waits his turn,1
+833,turns on the fasten seatbelt sign,turns on the fasten seatbelt sign,1
+834,turns the key,starts the seatbelt,0
+835,swerves into a ditch,drives home with his eyes closed,0
+836,did a blood test,did a blood test,1
+837,doesnt eat nuts now,doesnt eat nuts now,1
+838,go to the library,go to the library,1
+839,are very competitive,are very competitive,1
+840,like playing with toys,like playing with toys,1
+841,dont like bitter drinks,dont like bitter drinks,1
+842,thought she was brilliant,thought she was brilliant,1
+843,agreed to have her come to campus,agreed to have her come to campus,1
+844,is too slow paced,is too slow paced,1
+845,once cried when I saw one,once cried when I saw one,1
+846,went to their apartment and set them up,sold them right back to him for less,0
+847,gets stuck in a tree,cant fly because chickens didnt evolve to fly,0
+848,screamed,screamed,1
+849,stayed close to the fire,stayed close to the fire,1
+850,backed away slowly,backed away slowly,1
+851,covered his head and rolled up in a ball,covered his head and rolled up in a ball,1
+852,stays in home,stays in home,1
+853,is unable to catch the frisbee,is unable to catch the frisbee,1
+854,goes inside to light a fire,goes inside to light a fire,1
+855,buys an apple,buys an apple,1
+856,call my roommate for help,call my roommate for help,1
+857,turn off the tap,turn on the tap,0
+858,feel annoyed,feel annoyed,1
+859,39 fatalities in North Carolina 12 deaths in South Carolina,39 fatalities in North Carolina 5 deaths in South Carolina and 3 fatalities in Virginia,0
+860,hating them,hating them,1
+861,expected to grow by 5 this year,expected to grow by 5 this year,1
+862,wishes they had played better,wishes they had played better,1
+863,have different ideas with each other,have different ideas with each other,1
+864,loves her mother so much,loves her mother so much,1
+865,sending them company funds,being tricked,0
+866,flutters on its branch,flutters on its branch,1
+867,took him to the vet,took him to the vet,1
+868,takes him to the vet,takes him to the vet,1
+869,finished the bottle,finished the bottle,1
+870,made a corny joke,made a corny joke,1
+871,apologized for everything he had said,dug a hole in the backyard,0
+872,write out an email,write out an email,1
+873,flies towards the light,perches on the light green surface,0
+874,write in my notebook,write in my notebook,1
+875,nods and gets in the elevator,replies Yes and keeps walking,0
+876,gets ready for the customers,gets ready for the customers,1
+877,prepare the chicken and cook it,prepare the chicken and cook it,1
+878,helped me water my plants,helped me water my plants,1
+879,was really easy,was really easy,1
+880,wonders where it is going,wonders where it is going,1
+881,had a very mild punishment,had a very mild punishment,1
+882,made a lot of threats but never really followed up on anything,made a lot of threats but never really followed through on anything,0
+883,quickly turns into thunderstorms,quickly turns into thunderstorms,1
+884,is worried,has a collar around her neck in case she gets lost,0
+885,begins to cry out of worry,is hiding behind the couch,0
+886,screams and runs,screams and runs,1
+887,sits out the rest of the game,sits out the rest of the game,1
+888,will take some flowers,will take some flowers,1
+889,sold him 3D glasses,sold him 3D glasses,1
+890,need to hold on,need to hold on,1
+891,have to continue fighting,can do homework together,0
+892,should get help,should get help,1
+893,should talk to my teacher to see what I did wrong,should talk to my teacher to see what I did wrong,1
+894,should try to resolve my conflict with her,should try to resolve my conflict with her,1
+895,often sets off in hurry,often sets fire,0
+896,cannot touch any kitties,cannot touch any kitties,1
+897,does not grow any plants,does not grow any plants,1
+898,slept,slept,1
+899,likes to stay at home,likes to stay at home,1
+900,often plays basketball with his friends,seldom watches movies,0
+901,is a software engineer,is a software engineer,1
+902,can be very rich and idiosyncratic,preserve their voices when performing in space,0
+903,gives a sigh of relief,gives a sigh of relief,1
+904,having a bad day,mad his bed is broken,0
+905,wore nice clothes,wore nice clothes,1
+906,steps on it,steps on it,1
+907,took a long time finishing because he was distracted,took a long time finishing because he was distracted,1
+908,answer it,answer it,1
+909,wishes his family would eat better,will wait for the basket to ripen and become froot loops,0
+910,started driving to the location,started driving to the location,1
+911,was surprisingly musically talented,thought the trumpet was overcooked,0
+912,played some pickup games,arrested the basketball,0
+913,felt bad but really needed a break,felt bad but really needed a break,1
+914,Yelp,Yelp,1
+915,pay the fee,pay the fee,1
+916,likes to cool down after work,likes to cool down after work,1
+917,is a brave soldier,often eats fish and lives in Antartica,0
+918,lands,throws up pollen,0
+919,gets everything ready for the customers,gets everything ready for the customers,1
+920,made a lot of threats but never really followed up on anything,made a lot of threats but never really followed up on anything,1
+921,was incredibly intoxicated,was incredibly intoxicated,1
+922,is going to be really busy this quarter,is going to choke,0
+923,should hide from the police,should hide from the police,1
+924,had a really big dog,had a really big dog,1
+925,was really disappointed in the food,was really disappointed in the food,1
+926,did not buy it,did not buy it,1
+927,is an old and lovely man,is an old and lovely man,1
+928,can understand each other,can never be friends,0
+929,very short and fat,not so tall,0
+930,am hungry,am hungry,1
+931,contains city Chicago,contains city Chicago,1
+932,misses her childhood,misses her childhood,1
+933,stays home,runs ten miles,0
+934,have maximum sliding distance of 2000 meters in total,each of them has maximum sliding distance of 150 meters,0
+935,are food,are food,1
+936,are teammates,are friends,0
+937,cant fly,cant fly,1
+938,is John’s wife,is John’s wife,1
+939,did her homework,did her homework,1
+940,plans to practice more,plans to practice more,1
+941,puts it in the oven,puts it in the oven,1
+942,tastetests the creation,tastetests the creation,1
+943,buys some plates,buys some plates,1
+944,buys a new printer,buys a new printer,1
+945,dropped back and scanned the field,dropped back and scanned the field,1
+946,burns her arm on the side,then evenly cuts it with her leg,0
+947,grabbed his girlfriends arm in fear,impaled a clown with a chainsaw,0
+948,turn the page in songbook,wave to my mom in the recital audience,0
+949,eat some of my mothers cookies,open everyones presents for them,0
+950,need to save my money,need to save my money,1
+951,are not written very well,are not written very well,1
+952,realized the company is dying,realized the company is dying,1
+953,can play piano,can play piano,1
+954,picked out a sweater,picked out a sweater,1
+955,bought pizza,bought pizza,1
+956,flies with her wing glider,is jumping jumping,0
+957,took pictures of us with our pumpkin,took pictures of us with our pumpkin,1
+958,throw stones,throw stones,1
+959,breaking a few eggs,breaking a few eggs,1
+960,on the other side of the hill,on the other side of the hill,1
+961,lines her lips with a pencil,jostles their face with her hands,0
+962,peel away from the mass of fighters and swoop towards him,peel away from the mass of fighters and swoop towards him,1
+963,is torn from its mother and tossed into the burning building,runs through frame followed into a small fuss,0
+964,always goes to restaurants to have dinner,always goes to restaurants to have dinner,1
+965,glances at the alarm clock,pours as the heroes even lighter,0
+966,smiles at her and approaches her table,smiles at her and approaches her table,1
+967,takes out a letter and offers it to the sheriff,hustles someone towards the border of the train,0
+968,opens the box and pulls out a pair of shoes,puts it back into an oven and talks about something,0
+969,is doing static bike on the floor,looks around and wraps her baton around the neck,0
+970,is contemplating going down for a while,is contemplating going down for a while,1
+971,show the emotional athlete walking around the event area,shows the bomb driving back and forth,0
+972,sweating bullets,sweating tree sap,0
+973,was a different color,was a different color,1
+974,loading his sleigh,loading his sleigh,1
+975,are trying to toss a ball back and forth in the water,are swimming across the pool in front of a crowd of spectators calm over their moves,0
+976,starts crying out of pain,play the racquet while people try to jump near the center,0
+977,turns on the control panel,pours sleepily in his eyes and then reverses knocking himself off,0
+978,positions himself and does a jump and lands,positions himself and does a jump and lands,1
+979,does shoulder dips on the exercise equipment,moves hard in a synchronized coiling motion as a splash on break buildings,0
+980,rolls a tire over to a piece of equipment,adjusts the camera and nails around,0
+981,starts shaking his legs,starts shaking his legs,1
+982,place a shell on the shelf,place a shell on the shelf,1
+983,was struggling,was struggling,1
+984,is on a ladder drilling something,holds a man tight over their bodies,0
+985,put her arms in front of her then stretch out and turned around,put her arms in front of her then stretch out and turned around,1
+986,placed a worm on the hook,caught a fish and put it in her mouth,0
+987,set up automatic payment,set up automatic payment,1
+988,had to stay in the hospital,took the diagnosis to court,0
+989,saw the penguins,saw the penguins,1
+990,checked her app,checked her app,1
+991,shifts to another gear when approaching the hill,shifts another gear when approaching the hill,0
+992,heard the chimes as I approached the building,heard the chimes as I approached the building,1
+993,is starring in a new drama,is starring in a new drama,1
+994,bought one from the store,bought one from the store,1
+995,entering her fifth surgery of the day,is performing surgery on an MRI machine with her gloves,0
+996,sent an emoji,wished her a happy arbor day,0
+997,discuss the case with their client,discuss the case with their client,1
+998,gathered his things,tried to get his job back by yelling at his boss,0
+999,twists the pipe,calls his client a leaky faucet and patches up the leak,0
+1000,was upset,was upset,1
+1001,preheats the oven,preheats the oven,1
+1002,talked my way out of a ticket,talked my way out of a ticket,1
+1003,uses a debugger to solve her issue,uses a debugger to solve her issue,1
+1004,gasped,gasped,1
+1005,apply the stores discount,dont believe in Mondays but do believe in the customer,0
+1006,describe todays specials,describe todays specials,1
+1007,get pooped on by a bird,get pooped on by a bird,1
+1008,hopes his boss will like his design,hopes his boss will like his design,1
+1009,ask for the password,write code to go through every password possibility until I find it,0
+1010,doesnt like shopping,doesnt like shopping,1
+1011,trip on the second step,trip on the second step,1
+1012,is heading towards the office,cleans a spill gets angry at Mr Clean and destroys his broom,0
+1013,look for the cheapest option,look for the cheapest option,1
+1014,turn on the lights,turn on the lights,1
+1015,snoozes it,snoozes it,1
+1016,helps a student find relevant material for their report,helps a student find relevant material for their report,1
+1017,hugs me,pays me for the present and asks for his change,0
+1018,puts aloe on it,puts aloe on it,1
+1019,first take attendance before starting,tell a student that they are an apple and that was the lesson,0
+1020,gets a ton of household items,gets a ton of household items,1
+1021,comes up heads,comes up heads,1
+1022,organizes the bills into stacks,processes a deposit kicks a chair over and says he has no money,0
+1023,fogged up my mirror,fogged up my mirror,1
+1024,are in California,are in the ocean getting tan,0
+1025,held her breath,chugged water until she died,0
+1026,reminds them to use it twice a day,reminds them to use it twice a day,1
+1027,catches a fly,is best friends with a ladybug which is a type of insect,0
+1028,decided not to have an ice skating rink,cant pay for dinner,0
+1029,exchanged insurance,exchanged insurance,1
+1030,jump rope,dont know how to parallel park,0
+1031,finished drinking and walked away,finished drinking and walked away,1
+1032,gets lost and an employee helps him find his mom,plays tag with the monkeys,0
+1033,double checks the patients allergies first,double checks the patients allergies first,1
+1034,discuss which animals they look like,discuss which animals they look like,1
+1035,waits for the next alarm,waits for the next alarm,1
+1036,looks out for any problems in the community,looks out for any problems in the community,1
+1037,misses part of the game,misses part of the game,1
+1038,yell at her,yell at her,1
+1039,broadcasts the morning announcements,works closely with the vice principal to determine how many school buses could fit on his desk,0
+1040,cant decide what to see,cant decide what to see,1
+1041,get restless because they were watching a movie,get restless because they were watching a movie,1
+1042,turns on the seatbelt sign,experiences turbulence turns off autopilot and then slams his sunglasses into the front of the plane,0
+1043,many people touch it with their hands,many people touch it with their hands,1
+1044,turn off their phones,turn off their phones,1
+1045,adjust the focus to get a better look,adjust the focus to get a better look,1
+1046,you may get cavities if you do not,you may get cavities if you do not,1
+1047,he has no money,hes feeling blue,0
+1048,steps out of the water and sees Chicago,steps out of the water and sees Chicago,1
+1049,continues falling at the same speed since something went wrong,continues falling at the same speed since something went wrong,1
+1050,lies,lies,1
+1051,imagine their next masterpiece,imagine their next masterpiece,1
+1052,started to watch TV,washed my hands,0
+1053,looks at the scoreboard and hopes his team can come back,Gets the touchdown eats his helmet and tells his coach how he loves football,0
+1054,is of a beautiful blue color,stares at its talons orders pancakes from IHOP and disintegrates on the branch,0
+1055,is brown and very large,stands on its hind legs and drinks every drop of water in the river,0
+1056,stretches as it wakes from its nap,is composed of living breathing catnip that is sitting on the shelf,0
+1057,is preparing for tonights show,is preparing for tonights show,1
+1058,want to play video games when they get home,loves the seesaw but nonetheless prefers to jump 9000 feet in the air at the playground,0
+1059,can buy the latest iPhone in late September,can buy the latest iPhone in late September,1
+1060,aims out the driver side window,aims out the driver side window,1
+1061,buffs her nails and rubs lotion over her feet and legs,buffs her nails and rubs lotion over her feet and legs,1
+1062,thinks it will rain soon,is going to take out the clouds so its sunny,0
+1063,doesnt need to water her plants,is collecting each raindrop,0
+1064,will go into her garage,turns to the boy and asks him a question,0
+1065,loves condiments,eats her salad and drinks the dressing,0
+1066,runs towards a low beam and jumps over it landing on a blue pad,runs towards a low beam and jumps over it landing on a blue pad,1
+1067,picks him up and sits down with him and begins to clip his nails,throws a small piece of paper in a trash bin then tosses it aside,0
+1068,will wear her leotard to her performance,will wear her leotard to her performance,1
+1069,is cleaning the shores of the beach and picking up the trash,cleaning the shores of the beach and picking up the trash,0
+1070,is very good with Excel,is very good with Excel,1
+1071,puts lights inside the fruit he colored,talks as the boy continues to paint the fence,0
+1072,is shown with syrup being poured on it,appears in a pan next to the dog,0
+1073,begins playing with a small fish before continuing on his search,is struggling to keep his balance watching the man,0
+1074,undulate as nature dictates of waves,respect the power of the waves crashing against the shore of Evanston,0
+1075,is a man wearing a white shirt kneeling down in front of him,is a man wearing a white shirt kneeling down in front of him,1
+1076,is seen lying on the living room floor running in his sleep,is seen lying on the living room floor running in his sleep,1
+1077,got in an argument with his partners,got in an argument with his partners,1
+1078,shines with a myriad of blinding colors,shines with a multitude of blinding colors,0
+1079,putted well,putted well,1
+1080,brought some flowers,got a vaccine shot,0
+1081,is jogging,is jogging,1
+1082,was crying,brought some halloween candy,0
+1083,is sprinting towards the finish line,is sprinting towards the finish line,1
+1084,got candy,got candy,1
+1085,are spray painting the sidewalk with their gang symbol,angrily crowd around a single potted plant on the side of the street,0
+1086,decide to take the bus,probably would go with his friend,0
+1087,call 911 and stand guard outside the door waiting to ambush the robber if he leaves,call 911 and stand guard outside the door waiting to ambush the robber if he leaves,1
+1088,died,died,1
+1089,each kick the potted plant,each kick the potted plant,1
+1090,blamed his careless,asked the thief to go away,0
+1091,our bill will be high,the toaster will come alive and eat us,0
+1092,started working,started working,1
+1093,turn toward the starting line and get set as the race is about to start,turn toward the starting line and get set as the race is about to start,1
+1094,the program has an error,the program has an error,1
+1095,is writing a proof to a previously unsolved math question,is writing a proof to a previously unsolved math question,1
+1096,got mad at him,got mad at him,1
+1097,got mad,got mad,1
+1098,was sweating,got some honey,0
+1099,smiles and says hello,smiles and says hello,1
+1100,the program has an error,the program has an error,1
+1101,barely won by 1,barely won by 1,1
+1102,loved learning Machine Learning,loved learning Machine Learning,1
+1103,was upset,was upset,1
+1104,yelled at him,yelled at him,1
+1105,is flying off the tesla lot with its reputation,is flying off the tesla lot with its reputation,1
+1106,its holding my extra workout weights,its holding my extra workout weights,1
+1107,cleaned up after him,cleaned up after him,1
+1108,does not want others to disturb him,does not want others to disturb him,1
+1109,jumped for joy,jumped for joy,1
+1110,must have been consumed by the children,must have gone bad,0
+1111,youll make it through,youll make it through,1
+1112,needs fixing,needs fixing,1
+1113,calls in sick to work drives to the school and files several complaints to the principal,calls sick to work drives to the school and files several complaints to the principal,0
+1114,felt sick,felt sick,1
+1115,the door is closed,the teacher asks them to do so,0
+1116,was late,was late,1
+1117,play indoor sports like chess,play indoor sports like chess,1
+1118,Adam appeared,the devil spoke,0
+1119,must be the one destined to wield it,must have used known a weak point in the stone,0
+1120,Couldnt make it before the door closed,Couldnt make it before the door closed,1
+1121,was sweating,needs to soften up,0
+1122,likes milk,adopted a puppy,0
+1123,couldnt believe they had all failed,couldnt believe they had all failed,1
+1124,became tangled,became tangled,1
+1125,he is late,somebody is waiting for him,0
+1126,started going to office hours,fixed the machine,0
+1127,will cheer the runners on,will cheer the runners on,1
+1128,will cheer the runners on,will cheer the runners on,1
+1129,believe I included the wrong library,believe I included the wrong library,1
+1130,I dont play cricket anymore,I dont play cricket anymore,1
+1131,takes a day off work to spend with his son,takes a day off work to spend with his son,1
+1132,thought it was good movie,thought it was good movie,1
+1133,could be influenced,could be influenced,1
+1134,found my turtle passed away,found my turtle passed away,1
+1135,convinced her otherwise,convinced her otherwise,1
+1136,will miss watching him bat,will miss watching him bat,1
+1137,intimidates me,intimidates me,1
+1138,will stay at home,will stay at home,1
+1139,berates his son for skipping class,berates his son for skipping class,1
+1140,is not dry,is not dry,1
+1141,car just got a flat tire,car just got a flat tire,1
+1142,takes a long time to run the mile,takes a long time to run the mile,1
+1143,smiles,smiles,1
+1144,felt pain,felt pain,1
+1145,had to eat very little,got in trouble by the diet,0
+1146,likes sleeping,is one year old,0
+1147,thinks there are better batsmen,thinks there are better batsmen,1
+1148,drives very fast,drives very fast,1
+1149,made a hat,made a hat,1
+1150,a traditional form of Japanese poetry,a traditional form of Japanese poetry,1
+1151,likes sleeping,adopted Jack,0
+1152,started to plan the trip to campus,started to plan the trip to campus,1
+1153,pulls out a book and begins to read,pulls out a book and begins to read,1
+1154,believe in the Hindu Gods,believe in the Hindu Gods,1
+1155,falls down and begins to cry,trips and dies,0
+1156,must be intelligent,must be intelligent,1
+1157,contained hotpot,contained hotpot,1
+1158,sleeps on the couch,sleeps on the couch,1
+1159,hops to the other rabbit,hops to the other rabbit,1
+1160,is a literary work that expresses the intensity of an authors feelings and ideas by the use of distinctive style and rhythm,is a literary work that expresses the intensity of an authors feelings and ideas by the use of distinctive style and rhythm,1
+1161,forgot to set his alarm to wake him up on time,forgot to set his alarm to wake him up on time,1
+1162,is not someone I like,is not someone I like,1
+1163,was in danger,was in danger,1
+1164,felt good to finally snuggle in to something warm,felt good to finally snuggle in something warm,0
+1165,need to eat healthy to stay in shape,borrowed the apple from my friend I will return it to him after I eat it,0
+1166,need some coffee,need some coffee,1
+1167,must have ran out of juice,must have ran out of juice,1
+1168,was not happy to hear this,was delighted to hear this,0
+1169,doesnt seem afraid because he loves dogs,doesnt seem afraid because he loves dogs,1
+1170,joined in the picture,took the selfie away from her,0
+1171,I can watch TV finally,made the homework exhausted,0
+1172,looks out for the next best shot,adjusts the aperture and exposure balances the color and then realizes that he himself is not a tripod,0
+1173,are unhappy to hear this news,are unhappy to hear this news,1
+1174,is traveling to the nearest town,ties his lasso aims towards Jupiter and flies away on his horse,0
+1175,works in film production,works in film production,1
+1176,finished the task finally,finished the task finally,1
+1177,knows how to swim,knows how to swim,1
+1178,runs into a pole,runs into a pole,1
+1179,is in a yoga class,makes her clothes neat by folding them,0
+1180,goes to write the report,goes to write the report,1
+1181,has her ticket ready,has her ticket ready,1
+1182,needs to return romaine after the E Coli outbreak,is going to get food so that she can bring it with her on the Titanic,0
+1183,get bored quickly,spend the night at the museum and the exhibits come to life,0
+1184,do this every fall,do this every fall,1
+1185,gets a beautiful view of the mountains,signals left before turning,0
+1186,said he should have worn gloves,told him to put ice on them to make them warmer,0
+1187,freezes because he is scared of heights,free solos a large climb in Yosemite,0
+1188,crashed immediately,beat the main boss and celebrated,0
+1189,gets up and pulls both tires,walks out on the left side of the slide,0
+1190,are walking and hiking along a dirt trail,are walking and hiking along a dirt trail,1
+1191,are practicing gymnastics and moving the mats,are practicing gymnastics and moving the mats,1
+1192,missed the morning train,started doing jumping jacks,0
+1193,enjoys the performance,walks forward gesturing her hands,0
+1194,might be an alcoholic,might be an alcoholic,1
+1195,runs really fast,runs really fast,1
+1196,likes karaoke,has a raspy and coarse voice,0
+1197,doesnt like them,doesnt like them,1
+1198,can not pass the exam,can not pass the exam,1
+1199,enjoys his classes,enjoys his classes,1
+1200,make the customers burden heavier,make the customers burden heavier,1
+1201,brought marshmallows to toast,brought marshmallows to toast,1
+1202,glittered beautifully,glittered beautifully,1
+1203,doesnt know whether she likes me back or not,doesnt know whether she likes me back,0
+1204,smiles wistfully at the automaton,lands safely on the back of a plush alligator X,0
+1205,twists the cap off the tube,twists the cap off the tube,1
+1206,was sent to the hospital,was sent to the hospital,1
+1207,stops and moves the trashcan,stops and moves the trashcan,1
+1208,pilots the train when it arrives,pilots the train when it arrives,1
+1209,adds her gathered ingredients one a time as she talks showing the pasta she is using,adds her gathered ingredients one a time as she talks showing the pasta she is using,1
+1210,holds breath in anticipation,dives into the water X,0
+1211,turns away from them,turns away from them,1
+1212,tries to grab her face,tries to grab her face,1
+1213,walks on the pavement,walks on the pavement,1
+1214,banks left,is winging it,0
+1215,uses flannel to polish the wood board thoroughly,uses flannel to polish the wood board thoroughly,1
+1216,resumes playing the instrument like he was playing earlier,resumes playing the instrument like he was playing earlier,1
+1217,ends his routine and bows,ends his routine and bows,1
+1218,owner tells him to heel,tongue licks the food,0
+1219,she felt confident and completed it with ease,she felt confident and completed it with ease,1
+1220,smiles as she scrolls the screen,is incredibly focused on the lecture,0
+1221,sits in the chair and is getting a new cut,sits in the chair and is getting a new cut,1
+1222,follows the athlete,follows the athlete,1
+1223,man turns a corner,man turns a corner,1
+1224,walked inside and bought a lotto ticket,stuck around the gas pump for a while and had a smoke,0
+1225,called the raise,called the raise,1
+1226,played video games,played video games,1
+1227,a kindergarten teacher,a kindergarten teacher,1
+1228,cant wait to watch sports afterward,uses the mower as a weapon in the war against the evil lawn,0
+1229,is impressed with the crowd tonight,stirs and shakes the drink and then makes smalltalk with the cocktail,0
+1230,adopt a dog,kill all cats,0
+1231,wishes she could call her sister,never wanted to call her sister,0
+1232,has big dreams for his future,uses his pickaxe to break the rock but finds cheese inside instead of gold,0
+1233,couple moan,couple moan,1
+1234,hasnt seen land for days,loves to sail the great ocean blue and there are human feet attached to the ship,0
+1235,looks on,looks on,1
+1236,is really good at what he does,is really good at what he does,1
+1237,wait in the car,punch the police officer,0
+1238,an Rrated movie,an Rrated movie,1
+1239,has been with the family for forty years,has proper etiquette and dresses nice just like a penguin or a bottle of wine,0
+1240,listen to music,go to the movies,0
+1241,go to a party,go to a party,1
+1242,a dog,a dog,1
+1243,rebel against her mother,rebel against her mother,1
+1244,would do anything to protect them,will protect them under any circumstance except if he wanted to tackle the VIP,0
+1245,his boss gave him a promotion,his boss gave him a promotion,1
+1246,Monopoly,Monopoly,1
+1247,car pulls up in front and the hound growls,car pulls up in front and the hound growls,1
+1248,the outdoors,the outdoors,1
+1249,water,vodka,0
+1250,water,water,1
+1251,wanted to be humerus,wanted to be humerus,1
+1252,vegetables from time to time,burgers on occasion,0
+1253,owns a popular shop down on Main Street,separates the fat from the meat and rubs his face on the steak,0
+1254,for summer,for fall,0
+1255,casts fireball,casts fireball,1
+1256,he copied his friends answers,he copied his friends answers,1
+1257,asks him where they want to go,asks him where they want to go,1
+1258,planned a trip to the zoo,made him eat meat,0
+1259,begs him to stop,begs him to stop,1
+1260,older than his siblings,older than his siblings,1
+1261,enjoys TV every now and then,hates watching TV,0
+1262,asks her friends opinion,asks her friends opinion,1
+1263,left his keys at home,left his keys at home,1
+1264,uses it to invest in the stock market,finishes his homework on time,0
+1265,readies her blade,readies her blade,1
+1266,is a wizard,is a wizard,1
+1267,brought him a pen and paper,brought him a pen and paper,1
+1268,went to the pool to stay cool,went to the pool to stay cool,1
+1269,wasnt working out,wasnt working out,1
+1270,got ready to take a test,continued lecturing to the class,0
+1271,was starved of oxygen,was put out by a watering can,0
+1272,fed it some leftovers,grabbed the bellows X,0
+1273,write an article for a course,write an article for a course,1
+1274,run down city streets and wave to the crowd watching them,run down city streets and wave to the crowd watching them,1
+1275,made it home on time,got pulled over by the police for driving under the influence,0
+1276,was so surprised he let go of his dogs leash,was so surprised he let go of his dogs leash,1
+1277,plays a solo on the cymbal,listens to the artists music,0
+1278,needed to replenish his spell slots,needed to replenish his spell slots,1
+1279,are talking about the tango dance,are talking about the tango dance,1
+1280,wrote a thrilling novel in a new world,wrote a thrilling novel in a new world,1
+1281,shuts the folder and nods to the clerk,shuts the folder and nods to the clerk,1
+1282,mixes ingredients together into a bowl and stirs it together,mixes ingredients together into a bowl and stirs it together,1
+1283,took it to mean that the flame would never be rekindled,took it to mean that the flame would never be rekindled,1
+1284,turned my friend into a large fan in Biebers house,turned my friend into a large fan in Biebers house,1
+1285,boiled the hell out of it,boiled the hell out of it,1
+1286,chewed up all of the forms,said he would do it but he kept putting it off,0
+1287,eating bread,eating bread,1
+1288,run,run,1
+1289,he likes batting,he likes batting,1
+1290,fish have gills,water is a liquid,0
+1291,be used with nails,be used with nails,1
+1292,leaps through the air and catches frisbee,leaps through the air and catches frisbee,1
+1293,beautiful feathers,beautiful feathers,1
+1294,took her into the hallway after stopping her from her misbehavior,took her into the hallway after stopping her from her misbehavior,1
+1295,meet once a month on a college campus,meet once a month on a college campus,1
+1296,the perfect way to kickoff her day,the perfect way to kick off her day,0
+1297,they have aerodynamic bodies,they have aerodynamic bodies,1
+1298,seeing her favorite actor,the culture and being able to meet the actors in real life,0
+1299,must be increased,that are burrowed underground and dig themselves into the soil must have increased,0
+1300,it has a steering wheel,it has a steering wheel,1
+1301,is an acquired taste,is sweet and carbonated,0
+1302,the advice and being able to unload all her thoughts,the advice and being able to unload all her thoughts,1
+1303,better stories,more video,0
+1304,not as tall as everyone else sitting in front of her,not as tall as everyone else sitting in front of her,1
+1305,building tennis supplies,building tennis supplies,1
+1306,they are busier,they are busier,1
+1307,trample you,bite and kill you with sharp teeth,0
+1308,Im doing homework,Im eating,0
+1309,My dog catches the ball,My dog catches the ball,1
+1310,had come ashore,suddenly broke up from the school,0
+1311,The old man gives Babar his wallet,The old man gives Babar his wallet,1
+1312,very compassionate,very compassionate,1
+1313,feared violence from the demonstrators,feared violence from the demonstrators,1
+1314,sighs as she attempts the next practice problem,sighs as she attempts the next practice problem,1
+1315,feared violence,feared violence,1
+1316,is going to prison,is going to prison,1
+1317,significant,significant,1
+1318,jumps back to avoid being hit by the ball,jumps back to avoid being hit by the ball,1
+1319,were pregnant,were pregnant,1
+1320,responsible,responsible,1
+1321,also has a PC,also has a PC,1
+1322,gave an indefinite response about his feelings,gave an indefinite response about his feelings,1
+1323,am rich,am not rich,0
+1324,caught the rat and ran away from the dog,caught the rat and ran away from the dog,1
+1325,that the precious map was gone,that the precious map was gone,1
+1326,with side equals 2 is 4,with side equals 2 is 5,0
+1327,quality time with its owner,quality time with its owner,1
+1328,picks up another slice even before finishing her first,picks up another slice even before finishing her first,1
+1329,his food,his food,1
+1330,is not fit,is fit,0
+1331,leaned over it,had just been cut down,0
+1332,him all over and found that one of his legs was broken,him all over and found that one of his legs was broken,1
+1333,but he only turned to one side,but he only turned to one side,1
+1334,is more close to a tree than window now,is more close to a tree than window now,1
+1335,starts to warm up,huddles together as the game is about to start,0
+1336,jumps into the sea to rescue the child,jumps into the sea to rescue the child,1
+1337,buys the game online,buys the game online,1
+1338,declines to go on the camping trip because she dislikes them,declines to go on the camping trip because she dislikes them,1
+1339,her angel and she has good right to do so,her angel and she has good right to do so,1
+1340,found a recipe and cleaned off the counter,found a recipe and cleaned off the counter,1
+1341,hands her his debit card,eats the taco,0
+1342,walks over to the gem and picks it up with his mouth,walks over to the gem and picks it up with his mouth,1
+1343,India got its independence after a hundred years of British rule,India got its independence after a hundred years of British rule,1
+1344,should make every moment count,should make every moment count,1
+1345,went in the dugout,went into the locker room,0
+1346,reduced speed as it approached land,sailed in the direction of the wind,0
+1347,became drunk,became drunk,1
+1348,slowly maneuvered through the shallows,gained speed from the heavy winds,0
+1349,will get paid,was not getting paid,0
+1350,slowed as it approached the shallows,slowed as it approached the shallows,1
+1351,is not in this ecosystem,is not in this ecosystem,1
+1352,3 oranges and 2 bananas,4 oranges and 3 bananas,0
+1353,always has trouble in writing and reading,always has trouble in writing and reading,1
+1354,is not one of them,is one of them,0
+1355,is our home,is our home,1
+1356,has many sales,has many sales,1
+1357,I have dry skin,I have dry skin,1
+1358,have not though,have not though,1
+1359,is not one of them,is not one of them,1
+1360,is not one of them,is not one of them,1
+1361,will not be able to breed,will not be able to breed,1
+1362,crawled all over my laptop,passed some of the coding tests but not all of them,0
+1363,will not be able to drive to our grandparents house for Christmas,will not be able to drive to our grandparents house for Christmas,1
+1364,builds a spaceship,builds a spaceship,1
+1365,sprints to the finish,sprints to the finish,1
+1366,do not,depend on each other for survival,0
+1367,planted a flag,yooted,0
+1368,started dancing as well,slapped me in the face for the unsolicited dancing,0
+1369,chases after the frisbee,throws the frisbee back at me,0
+1370,punches her,sisters her fight attack,0
+1371,eats all of the worms,eats all of the worms,1
+1372,had a band playing,invited Doug Doug Dog Doug,0
+1373,politely turned me down saying that he isnt interested in me romantically,politely turned me down saying that he isnt interested in me romantically,1
+1374,I was tired,I was tired,1
+1375,had live music,invited his water bottle,0
+1376,can breath fire,can breath fire,1
+1377,eats the treat,eats the treat,1
+1378,honks her horn at a car that is cutting her off,honks her horn at a car that is cutting her off,1
+1379,went to medical school,went to medical school,1
+1380,did nothing,did nothing,1
+1381,makes a ramp for it,makes a ramp for it,1
+1382,beats the game,beats the game,1
+1383,started in South Korea,is an American company,0
+1384,they went to the store,they went to the store,1
+1385,gets hit and is out,gets hit and is out,1
+1386,turns the lights off,turns the lights off,1
+1387,Goes to jail,acts like a dog,0
+1388,she whimpered in fear,she whimpered in fear,1
+1389,is actually a wasp,swoops in on its prey at high speeds like many other types of birds,0
+1390,reaches out to her doctor to task about potential surgery,reaches out to her doctor to task about potential surgery,1
+1391,catches the football as he jumps into the end zone,catches the football as he jumps into the end zone,1
+1392,draws a horse,draws a horse,1
+1393,are fearful because they live in a red state,think so,0
+1394,think the political climate makes this unacceptable,think so,0
+1395,needs them for a recipe,is not determined,0
+1396,wants to accomplish something that is impossible,wants to accomplish something that is impossible,1
+1397,have a hard time managing,have a hard time managing,1
+1398,is trying something new,feels claustrophobic,0
+1399,sprints to the ball and scores a goal,sprints to the ball and scores a goal,1
+1400,captured the audiences attention,captured the audiences attention,1
+1401,dons a dress,is flawed,0
+1402,is venting,is venting,1
+1403,feels terrible,purchases a purse so she can eat,0
+1404,oftentimes wears false lashes,oftentimes wears false lashes,1
+1405,doesnt notice,runs after the squirrel,0
+1406,is in drag,is in drag,1
+1407,drove,drove,1
+1408,lost them somewhere,lost them somewhere,1
+1409,is confused,is confused,1
+1410,is not too warm,is not too warm,1
+1411,is transitioning,is transitioning,1
+1412,is transitioning,is transitioning,1
+1413,wants to feel better,wants to feel better,1
+1414,cannot afford the risks,need to have more eggs on your basket,0
+1415,to leave because I dont like the animals,to leave because I dont like the animals,1
+1416,jumps on the mouse,jumps on the mouse,1
+1417,wants to help animals,wants to help animals,1
+1418,forget all the unhappy memories,be healthy again,0
+1419,is surrounded by love,is surrounded by candy,0
+1420,am searching a new job,could attend a new course,0
+1421,says something racist,says something racist,1
+1422,are on fire,are chinos,0
+1423,was tired,was tired,1
+1424,is not a sandwich,is not a sandwich,1
+1425,wants to present differently,wants to present differently,1
+1426,begin to grow facial hair,begin to grow facial hair,1
+1427,easy to break,often important to make a point of speaking at meeting,0
+1428,is on a boat,is the lead guitarist in his band,0
+1429,pulled him over and gave him a sobriety test,pulled him over and gave him a sobriety test,1
+1430,likes a picture of an elephant,laughs at a eulogy post,0
+1431,was too big,was too big,1
+1432,hidden,hidden,1
+1433,is an honest person,is an honest person,1
+1434,blended in with the environment,blended in with the environment,1
+1435,quiet,quiet,1
+1436,told him to drive slower,told him to drive slower,1
+1437,had one,is walking on the street,0
+1438,dirty,dirty,1
+1439,is in the soundproof bathroom,is in the soundproof bathroom,1
+1440,is not only a composer but a dancer,may sing in a terrible way,0
+1441,lucky enough that I work where they are common,lucky enough that I work where they are common,1
+1442,too loud,too loud,1
+1443,told them to go away,told them to go away,1
+1444,want to have no alarm,want to be blown out of your bed,0
+1445,went inside,went inside,1
+1446,he realized it was used,he realized it was used,1
+1447,takes the taxi to school today,takes the taxi to school today,1
+1448,relatively easy,poorly written,0
+1449,were busy,were busy,1
+1450,had trouble finding willing participants,had trouble finding willing participants,1
+1451,has stage fright,has stage fright,1
+1452,comes in second place,comes in first place,0
+1453,he was playing music on his speakers,he was playing music on his speakers,1
+1454,then sprinted towards his friend,then sprinted towards his friend,1
+1455,began to sing louder,began to sing louder,1
+1456,lost the game,suddenly started running in the opposite direction,0
+1457,would help her with her property,would help her with her property,1
+1458,is approached by a ton of her friends,is approached by a ton of her friends,1
+1459,had to separate with her child,had to separate with her child,1
+1460,doesnt know how to start her essay,doesnt know how to start her essay,1
+1461,is the guitarist,is the guitarist,1
+1462,acted like we were dead,acted like we were dead,1
+1463,will retaliate,will retaliate,1
+1464,asked him what was wrong,asked him what was wrong,1
+1465,lives there,lives there,1
+1466,marinates the entree,marinates the entree,1
+1467,saw through the ruse,saw through the ruse,1
+1468,cant be eaten any more,cant be eaten any more,1
+1469,jumped out of her skin,was like a bull in a china shop,0
+1470,of course flies anyway,of course flies anyway,1
+1471,has applications in function limits,has applications in function limits,1
+1472,has infinite surface area but finite volume,has infinite surface area but finite volume,1
+1473,likes sciences,likes sciences,1
+1474,connects to all your devices accesses your data and the other is a hardware standard,connects to all your devices accesses your data and the other is a hardware standard,1
+1475,asked him to fetch me something to drink,caught him with an inflatable pool under his arm,0
+1476,washed my face and drank some water,washed my face and drank some water,1
+1477,listens what his parents told him not to do,listens what his parents told him not to do,1
+1478,was extremely messy so we cleaned it up,was home to a colony of turtles and their king,0
+1479,beats some eggs,eggs her kitchen,0
+1480,is the goal keeper,is the goal keeper,1
+1481,feels unsafe at far places,feels unsafe at far places,1
+1482,was too shy to say anything,watched my soup fly away,0
+1483,was not used by any Machine Learning group because they did not believe me,gets 100 accuracy on every single dataset whether it is training validation or test,0
+1484,is afraid of other people knowing his act,is afraid of other people knowing his act,1
+1485,is trying to spot his Uber,is making a noise,0
+1486,follow the leader to their next destination,follow the leader to their next destination,1
+1487,accepted me because I stood out from the other applicants,accepted me because I stood out from the other applicants,1
+1488,is watching her play,is watching her play,1
+1489,wont leave his mom alone,wont leave his mom alone,1
+1490,notices a dead rat,notices a dead rat,1
+1491,stood on one leg,could move large amounts of metal,0
+1492,is reading an article from the Wall Street Journal website,is reading an article from the Wall Street Journal website,1
+1493,adjusts his earphones,adjusts his earphones,1
+1494,is waiting at the Genius Bar for a repair service,is waiting at the Genius Bar for a repair service,1
+1495,would leave in a few days,dont know what to do,0
+1496,gasps in disbelief,gasps in disbelief,1
+1497,use the voice control to select my destination,use the voice control to select my destination,1
+1498,is given food and some money by the man,is given food and some money by the man,1
+1499,offers the boy food and some money,offers the boy food and some money,1
+1500,helps his girl to get on the swing,helps his girl to get on the swing,1
+1501,I can cancel it from my smartwatch if I want,I can cancel it from my smartwatch if I want,1
+1502,is ready to sleep,is ready to sleep,1
+1503,likes spiders,likes spiders,1
+1504,likes novels that consumes brain power,likes novels that consumes brain power,1
+1505,is on a large ceramic pot,is on a large ceramic pot,1
+1506,are playing a video game on the newly setup Nintendo Wii,are discussing the reason why they are alive,0
+1507,I finally got to go to a real concert,I finally got to go to a real concert,1
+1508,each have a look at it then start their own planning on how to approach the problem,each have a look at it then start their own planning on how to approach the problem,1
+1509,are all texting,are all furiously scribbling notes,0
+1510,runs toward the shuttle in a hasty manner,runs toward the shuttle in a hasty manner,1
+1511,I sold the property to a more experienced operator,I sold the property to a more experienced operator,1
+1512,is asking if he needs help with his work,is asking if he needs help with his work,1
+1513,a great form of low impact cardio,a great form of low impact cardio,1
+1514,is heavy,is heavy,1
+1515,asks her out on a date,asks her out on a date,1
+1516,just curled up next to my chair,did fetch me water albeit slowly,0
+1517,puts his napkin on his nap,orders the rock,0
+1518,doesnt look like its ever been opened,doesnt look like its ever been opened,1
+1519,grades papers,grades papers,1
+1520,waits for her friend to join her,lets the ice cream melt,0
+1521,books a clown,books a clown,1
+1522,was picked up by no one,may have cried all night,0
+1523,thinks she should help her,wants to run her over,0
+1524,feels the energy of the audience,feels the energy of the audience,1
+1525,rests under the chin of the woman,needs the desperate attention to be restored,0
+1526,starts washing it under hot water,starts washing it under hot water,1
+1527,picks the hottest field to study,goes for a ride,0
+1528,wants to play with its owner,wants to play with its owner,1
+1529,was discussed often,was discussed often,1
+1530,didnt want to talk about it,were making music in the forest,0
+1531,couldnt handle the issue,couldnt handle the issue,1
+1532,growth speed will not be slower,growth speed will not be slower,1
+1533,Leave yourself options,Leave yourself options,1
+1534,would not let a bad idea go,would not let a bad idea go,1
+1535,was overwhelmed,felt really hot,0
+1536,Fed up with the situation,Fed up with the situation,1
+1537,hates that stuff,hates that stuff,1
+1538,did everything and more for the job,did everything and more for the job,1
+1539,revealed his secret,released the cat from the bag it was hiding in,0
+1540,places a flag at the peak,grows a second leg,0
+1541,went to sleep,punched the hay,0
+1542,had some nervous ticks to get over,left the habits with a bruise,0
+1543,needs to learn how to be honest,wants to play,0
+1544,holding an umbrella,holding an umbrella,1
+1545,thought it was really funny,thought it was really funny,1
+1546,then goes to the park,catches the frisbee in her mouth,0
+1547,is different in summer and winter,should be higher in summer,0
+1548,was relaxing,was relaxing,1
+1549,asks him about his hobbies,starts smashing away at the ice with his new friend,0
+1550,paid for their own meals,became Dutch,0
+1551,kept watch of the food in the oven,kept watch of the food in the oven,1
+1552,roll the dice,roll the dice,1
+1553,wouldnt talk to him,placed her cold shoulder onto Johnny,0
+1554,lied to his girlfriend,lied to his girlfriend,1
+1555,tells us a horror story,puts his stick of potatoes in the fire,0
+1556,asks someone attending the university,goes to school in the northwestern region of the country and asks the students there for feedback,0
+1557,didnt want to say something bad,didnt want to say something bad,1
+1558,didnt have to work for anything,didnt have to work for anything,1
+1559,was in danger,was a duck that was sitting,0
+1560,feels happy,feels happy,1
+1561,accepted his fate,accepted his fate,1
+1562,often criticized others from a position in hindsight,was a quarterback but played only on Mondays,0
+1563,needs to relax,is on medication to lower his temperature,0
+1564,could answer the question in the course,could answer the question in the course,1
+1565,was losing her mind,could not locate where her few precious marbles were at,0
+1566,does research on the effects of tar,does research on the effects of tar,1
+1567,alarm wasnt set properly,job wasnt for her,0
+1568,snow,purple and azure elephants,0
+1569,asks a professor for insight,asks a professor for insight,1
+1570,rode in the front passenger seat,declared the shotgun his,0
+1571,tries to input random answers,tries to input random answers,1
+1572,will reschedule the event,will see if its raining outside,0
+1573,to tell the secret,to tell the secret,1
+1574,panics,panics,1
+1575,has tenure at Northwestern University,has tenure at Northwestern University,1
+1576,participates in a competitive internship program,takes a class on building a computer,0
+1577,crosses the road,turns into an eggs,0
+1578,enter the theater to watch it,enter the theater to watch it,1
+1579,put all your eggs in one basket,put all your eggs in one basket,1
+1580,asked if it was familiar,asked if it was familiar,1
+1581,stole a lot of money,had fingers that would stick to things,0
+1582,reeled in,reeled in,1
+1583,goes on Amazon Turk to finish tasks,goes on Amazon Turk to finish tasks,1
+1584,the vehicle can go,the vehicle can go,1
+1585,instincts,instincts,1
+1586,made great margins,made great margins,1
+1587,I can not run,I can not run,1
+1588,is a useful course,is a combination of real world and unrealistic,0
+1589,I can vote,I can vote,1
+1590,knew he was pretending to read,knew he was pretending to read,1
+1591,then puts it down and goes to bed,then puts it down and goes to bed,1
+1592,I know how to drive a car,I know how to drive a car,1
+1593,Korean is really bad,Spanish classes helped prepare me to speak the native language,0
+1594,today is not Tuesday,yesterday was not Sunday,0
+1595,changes the channel during a commercial break,changes the channel during a commercial break,1
+1596,decided to hit the sack,decided to hit the sack,1
+1597,to relinquish the weight,to relinquish the weight,1
+1598,huddle around a fire to keep warm,huddle around a fire to keep warm,1
+1599,lets the child off the hook with a warning,punishes the vase for breaking the kid,0
+1600,realized the trace contents when I looked very hard,realized the trace contents when I looked very hard,1
+1601,gets one from his backpack,uses the pencil to sharpen the sharpener,0
+1602,was poured into his bowl,was poured into his bowl,1
+1603,depression in low interest rates,depression in low interest rates,1
+1604,very slow moving,very slow moving,1
+1605,lifts the pan and moves it around to mix the batter,lifts the pan and moves it around to mix the batter,1
+1606,will not eat dinner tonight,will not eat dinner tonight,1
+1607,was taking extra classes,did not have legs to walk home,0
+1608,checkin my baggage 3 hours before,checkin my baggage 3 hours before,1
+1609,ran far away from him chasing a seagull,ran far away from him chasing a seagull,1
+1610,is looking at his own reflection created on water,is looking at his own reflection created on water,1
+1611,walks up a side walk,walks up a side walk,1
+1612,lathers it and wipes it down,lathers it and wipes it down,1
+1613,be patient like everybody else and wait your turn,be patient like everybody else and wait your turn,1
+1614,rolls a tire over to a piece of equipment,rolls a tire over to a piece of equipment,1
+1615,sits down on the dock and then gets into the water,wanders off doing the same thing,0
+1616,do a routine in the field,maneuver three legs up then flip over the trampoline using kicks and feet from doing together,0
+1617,rides the motorcycle down the hall and into the elevator,makes his way past it and peers out a window,0
+1618,better for your heart,better for your heart,1
+1619,search the room,search the room,1
+1620,approaches them from the other side of the street,approaches them from the other side of the street,1
+1621,wait until youre of age,wait until youre of age,1
+1622,study more to do better next time,study more to do better next time,1
+1623,take time to heal,take time to heal,1
+1624,wear a jacket before going out,wear a jacket before going out,1
+1625,reaches for their gun,reaches for their gun,1
+1626,wears a pair of lenses,wears a pair of lenses,1
+1627,turns the knob,hears his mother insult him,0
+1628,safer for your knees,safer for your knees,1
+1629,practice to do better next time,practice to do better next time,1
+1630,to do his routine on the bars,to do his routine on the bars,1
+1631,make sure to get a good nights rest for today,make sure to get a good nights rest for today,1
+1632,drives into a ditch,drives into a ditch,1
+1633,five,six,0
+1634,learn how to code,search the web how to learn,0
+1635,4,4,1
+1636,register to vote,register to vote,1
+1637,gets up unsteadily,gets up unsteadily,1
+1638,workout,workout,1
+1639,shuts the lid and walks away,types on his keyboard until it lights on fire,0
+1640,wait for the person to come out,go inside the stall anyways because you have to use the bathroom,0
+1641,plan ahead to brainstorm a good gift,plan ahead to brainstorm a good gift,1
+1642,smells that old book smell,smells that old book smell,1
+1643,save up money,save up money,1
+1644,search online and go to various pet stores,search online and go to various pet stores,1
+1645,puts the bags on a cart,puts the bags on a cart,1
+1646,remember to buy soap when you leave and come back,remember to buy soap when you leave and come back,1
+1647,straightens his tie,knocks the door down,0
+1648,schedule a day to go skydiving and figure out where you can,schedule a day to go skydiving and figure out where you can,1
+1649,buy a new computer,buy a new computer,1
+1650,slips in unnoticed,slips in unnoticed,1
+1651,file a police report,file a police report,1
+1652,brainstorm ideas,brainstorm ideas,1
+1653,aims it at the criminal,aims it at the criminal,1
+1654,is running after a ball,is searching for food,0
+1655,was made of beef and pork,exploded into a million tiny pieces,0
+1656,aimed it at the deer,aimed it at the deer,1
+1657,will soon be sent to the slaughterhouse,will soon be sent to the slaughterhouse,1
+1658,congratulates them,addresses the podium,0
+1659,asks him about climate change,signals left,0
+1660,bombed a test,bombed a test,1
+1661,turns to smile at the camera,drops his hand on the ground,0
+1662,rewards it with something it likes,rewards it with something it likes,1
+1663,was afraid to go home in case her parents beat her,was afraid to go home in case her parents beat her,1
+1664,grabs the cash,grabs the cash,1
+1665,aims at the warlord,aims at the warlord,1
+1666,picks up the apple,picks up the apple,1
+1667,tries to calm the screaming child,puts the shot in her leg,0
+1668,ran to the piano and pretended he was practicing,ran to the piano and pretended he was practicing,1
+1669,gets into the control booth,gets into the control booth,1
+1670,was mad Shaggy ate all the snacks,was mad Shaggy ate all the snacks,1
+1671,tied waiting for the owner,tied waiting for the owner,1
+1672,shoots the ball and scores,passes the ball to his mom in the stands,0
+1673,will lose weight if he keeps exercising like this consistently,will lose weight if he keeps exercising like this consistently,1
+1674,politely asked for a replacement,politely asked for a replacement,1
+1675,will have to pay a lot of money to cover the cost,will have to pay a lot of money to cover the cost,1
+1676,is probably wet,is probably wet,1
+1677,get it fixed from a store,get it fixed from a store,1
+1678,practice everyday,practice everyday,1
+1679,takes a bath in a sink,runs outside chasing a ball,0
+1680,contained around three dollars,contained around three dollars,1
+1681,take melatonin,take melatonin,1
+1682,decides she likes dragons better,is approached by a fairy,0
+1683,practice cooking more,practice cooking more,1
+1684,was afraid her parents would scold her,was afraid her parents would scold her,1
+1685,get a new passport,get a new passport,1
+1686,ran to his textbook,threw the game controller out the window,0
+1687,practices her lines everyday,practices her lines everyday,1
+1688,probably sad,probably sad,1
+1689,going on his honeymoon,going on his honeymoon,1
+1690,watches a sushi documentary,watches a sushi documentary,1
+1691,will face consequences,will face consequences,1
+1692,sing the song Let It Go,sing the song Let It Go,1
+1693,waits for the start sound and prepares,waits for the start sound and prepares,1
+1694,studies a lot for them,studies a lot for them,1
+1695,was given a stern talking to,was given a stern talking to,1
+1696,swiped at it with a paw,swiped at it with a paw,1
+1697,gets coffee,gets coffee,1
+1698,well dressed,well dressed,1
+1699,gets them from a convenience store,gets them from a convenience store,1
+1700,contemplates for a week before deciding,contemplates for a week before deciding,1
+1701,wants to visit Disneyland next winter break,wants to visit Disneyland next winter break,1
+1702,gurgled and fell asleep,gurgled and fell asleep,1
+1703,enjoys watching them at the zoo,hates monkeys and pets,0
+1704,had to start over,had to start over,1
+1705,was mad at him for forgetting their anniversary,was mad at him for forgetting their anniversary,1
+1706,looks like it will rain cats and dogs,looks like it will rain cats and dogs,1
+1707,takes him in for questioning,takes him in for questioning,1
+1708,are not perpendicular to each other,are perpendicular to each other,0
+1709,pees on her,returns the football,0
+1710,innocent civilians were killed,innocent civilians were killed,1
+1711,we need to get it back in the hearse,we need to get it back in the hearse,1
+1712,went to her funeral,went to her funeral,1
+1713,cannabis stocks skyrocketed,cannabis stocks skyrocketed,1
+1714,thought it would rain cats and dogs,thought it would rain cats and dogs,1
+1715,is constantly aware of its surroundings to survive,is constantly aware of its surroundings to survive,1
+1716,calls Papa Johns,hungry John hungry John,0
+1717,goes to Starbucks,calls dog tired Mary,0
+1718,makes herself a coffee,Mary dog tired dog Mary Mary,0
+1719,do not though,is one example of this unique relationship,0
+1720,goes inside to get shelter,goes inside to get shelter,1
+1721,bought groceries,bought groceries,1
+1722,are often hunted by cats,are predators known to hunt prey,0
+1723,they gave it tranquilizer,they gave it tranquilizer,1
+1724,cannot survive in these conditions,cannot survive in these conditions,1
+1725,opened a can of worms,opened a can of worms,1
+1726,is not one of them,is not one of them,1
+1727,opened a can of worms,boss steve boss and work,0
+1728,has the best of both worlds,has the best of both worlds,1
+1729,met her friends at the gate,met her friends at the gate,1
+1730,Sitting,sitting,0
+1731,the glass is half empty,the glass is half empty,1
+1732,Carol,Carol,1
+1733,drunk,drunk,1
+1734,Sober,Drunk,0
+1735,sitting,sitting,1
+1736,realized it was used,realized it was used,1
+1737,cook chicken to eat with my rice,cook the rice again,0
+1738,checks her email,checks her email,1
+1739,looks in the cosmetics aisle,looks in the cosmetics aisle,1
+1740,is driving in the rain,has great vision,0
+1741,watch a video on my phone,watch a video on my phone,1
+1742,is trailing behind,is trailing behind,1
+1743,has black hair,has black hair,1
+1744,Walk around the block,Walk around the block,1
+1745,has blond hair,has blond hair,1
+1746,were cheering for the Bears,were cheering for the Bears,1
+1747,are very common,are very common,1
+1748,was cheering,was cheering,1
+1749,falls peacefully asleep,causes the stroller to collapse under her immense weight,0
+1750,is listening to pop music,is listening to pop music,1
+1751,still wobbles on her feet,still wobbles on her feet,1
+1752,does not understand the content,does not understand the content,1
+1753,then giggles gleefully,then giggles gleefully,1
+1754,drinks water,drinks water,1
+1755,I like dogs,I like dogs,1
+1756,starts to swim,is wearing normal clothes,0
+1757,should use every drop of water cautiously,should use every drop of water cautiously,1
+1758,remembers the feeling of being young with fondness,remembers the feeling of being young with fondness,1
+1759,get out their pencils and put away their textbooks,study the relationship between sitting and standing,0
+1760,he does not want honey on his pancakes,he does not want honey on his pancakes,1
+1761,has cooked mashed potatoes for the family,has cooked mashed potatoes for the family,1
+1762,gave them another chance,gave them another chance,1
+1763,he might be electrocuted,Sally did not want the toaster to get wet,0
+1764,pour water in my water bottle,go to the store,0
+1765,is getting coffee,is giving a session,0
+1766,need to put on acne cream,need to put on acne cream,1
+1767,am not a big fan of Sachin,am not a big fan of Sachin,1
+1768,they are eating food,the dinner is not ready,0
+1769,put on his galoshes,put on his galoshes,1
+1770,firstly takes the turkey out of the oven,cuts her pet bird in half with scissors,0
+1771,eat food,eat food,1
+1772,think it is an average model,think it is an average model,1
+1773,not happy by their performance,not happy by their performance,1
+1774,there is a tail,there is a tail,1
+1775,happy to have solved it,happy to have solved it,1
+1776,happy to have solved the questions,happy to have solved the questions,1
+1777,scans her waiting room questionnaire,scans her waiting room questionnaire,1
+1778,have exceeded his expectations,have exceeded his expectations,1
+1779,decided not to take her words too seriously,decided not to take her words too seriously,1
+1780,is very nervous as she starts playing,is very nervous as she starts playing,1
+1781,feel very cold,feel very cold,1
+1782,visit Switzerland,visit Switzerland,1
+1783,is very nervous as she starts playing,is very nervous as she starts playing,1
+1784,chases the ball after it ricochets off the rim,chases the ball after it ricochets off the rim,1
+1785,starts playing the piano,starts playing the piano,1
+1786,the sun was out,the sun was out,1
+1787,keeps messing up and swears out of frustration,keeps messing up and swears out of frustration,1
+1788,wont see him playing next year,wont see him playing next year,1
+1789,is crying as it is his last match,is not emotional as it is his last match,0
+1790,dont play cricket anymore,dont play cricket anymore,1
+1791,dont like my cat,dont like my cat,1
+1792,the sunlight,the sunlight,1
+1793,think god exists,think god exists,1
+1794,licks his owner,licks his owner,1
+1795,annoys me a lot,annoys me a lot,1
+1796,is very strict,is very strict,1
+1797,we can go for a game,we can go for a game,1
+1798,sad that he hasnt got the full marks,sad that he hasnt got the full marks,1
+1799,felt sad,felt sad,1
+1800,other months are hotter than January,other months are hotter than January,1
+1801,how to compute the derivative,how to compute the derivative,1
+1802,doesnt teach Biology at all,doesnt teach Biology at all,1
+1803,the bacon,the bacon,1
+1804,cracked,cracked,1
+1805,he believed himself to be ugly,he believed himself to be ugly,1
+1806,a projector,a projector,1
+1807,has red hair,has red hair,1
+1808,has blond hair,has blond hair,1
+1809,milk,milk,1
+1810,throw it in the trash,throw it outside the other people houses,0
+1811,has blond hair as well,has brown hair,0
+1812,the word bears phonetic similarity to a racial slur,the word bears phonetic similarity to a racial slur,1
+1813,talking loudly about their tests they had just gotten back,talking loudly about their tests they had just gotten back,1
+1814,wash your hands,wash your hands,1
+1815,gave him some medicine,told him to come inside,0
+1816,chases a squirrel,chases a squirrel,1
+1817,gone to a party,gone to a party,1
+1818,study less,study less,1
+1819,it was raining,it was raining,1
+1820,throw out his cigarettes,throw out his cigarettes,1
+1821,boring,boring,1
+1822,admires Daqian Zhang most,admires Daqian Zhang most,1
+1823,eats some reeds,eats some reeds,1
+1824,felt sick,felt sick,1
+1825,2 left,2 left,1
+1826,Tuesday,Tuesday,1
+1827,apologized for everything he had said,apologized for everything he had said,1
+1828,calls the fire department,sends the dog up to get it,0
+1829,vegetarians cant eat meat,vegetarians cant eat meat,1
+1830,fell on the ground,fell on the ground,1
+1831,does a header,gets a touchdown,0
+1832,has a good memory,has a good memory,1
+1833,spread to other parts of the body like the brain and spine,spread to other parts of the body like the brain and spine,1
+1834,embarrassed him,embarrassed him,1
+1835,calls animal control,calls animal control,1
+1836,is on the sidewalk,is on the sidewalk,1
+1837,having an injury,having an injury,1
+1838,held up a lighter,danced around the question,0
+1839,learn to do them backwards,learn to do them backwards,1
+1840,he heard his kids calling his name for homework help so he ran and hid,the TV picked up the remote,0
+1841,pass with flying colors,pass with flying colors,1
+1842,put a hold on my account,put a hold on my account,1
+1843,does not care and continues its day,does not care and continues its day,1
+1844,shreds his exam paper,tells this situation to his parent with smile face,0
+1845,is awesome,is really bad,0
+1846,stays home from work,stays home from work,1
+1847,used the bellows he inherited from grandfather,used the bellows he inherited from grandfather,1
+1848,realized he needed to buy new clothes,realized he needed to buy new clothes,1
+1849,love playing with my cat,love playing with my cat,1
+1850,get sorbet for dessert,order vegetables with sausage,0
+1851,yells at the dog for going to the bathroom,yells at the dog for going to the bathroom,1
+1852,schadenfreude is real,schadenfreude is real,1
+1853,planned to take his own life,planned to take his own life,1
+1854,failed to evaluate healthy lakes and rivers,undervalue the cost of protecting the countrys bodies of water,0
+1855,three billion dollars,three billion dollars,1
+1856,was smiling,was smiling,1
+1857,his owner realized he only had a tennis ball,his owner realized he only had a tennis ball,1
+1858,we are not able to solve it,we are not able to solve it,1
+1859,the office hour,the office hour,1
+1860,and then gave the dog a treat,to speak on his phone,0
+1861,his dog was much smaller than the others,the dogs would always let their owners run without a leash,0
+1862,gets good grades now,gets good grades now,1
+1863,does not enjoy the same widespread use in Anglophone areas,does not enjoy the same widespread use in Anglophone areas,1
+1864,Abraham Lincoln has been dead for decades,Abraham Lincoln has been dead for decades,1
+1865,is a bad president,is a bad president,1
+1866,Steven is blind,Steven is a homosexual,0
+1867,dont buy it because I dont have enough money,dont buy it because I dont have enough money,1
+1868,are productive when they are hardworking,are productive when they are hardworking,1
+1869,suffered damage to his eyes,suffered damage to his eyes,1
+1870,started a wave and watched it go around the crowd,started a wave and watched it go around the crowd,1
+1871,should not be shown to children as they grow,should not be shown to children as they grow,1
+1872,only desire was to sleep,only desire was to sleep,1
+1873,I am rich,I am rich,1
+1874,does not like brian,does not like brian,1
+1875,can not do two things at once,can not do two things at once,1
+1876,had leftover food,called the police,0
+1877,needed some golf gloves,saw a giant bat fly around and cause a giant racket,0
+1878,hid under his blanket and quivered in fear,hid under his blanket and quivered in fear,1
+1879,checked out nearby outlets for something stylish,checked out nearby outlets for something stylish,1
+1880,he like helping,he like helping,1
+1881,a toy that she enjoys to play,another cat that she hates,0
+1882,is napping,is napping,1
+1883,thinks he knows the history of his homeland,thinks he doesnt know the history of his homeland,0
+1884,went out at night to kick back and relax,visited a lake and filled our water bottles with water,0
+1885,amongst the seats,amongst the seats,1
+1886,She goes for a walk,She goes for a walk,1
+1887,so there will be a class,so there will be a class,1
+1888,because he wanted to remain in peak physical condition,because brain cancer is lifethreatening,0
+1889,bites its neck,bites its neck,1
+1890,I feel fat,I feel fat,1
+1891,avoids them,avoids them,1
+1892,answers two when some others asks for the result of one plus one,answers two when some others asks for the result of one plus one,1
+1893,to dry her eyes,to dry her eyes,1
+1894,Her friend says Break a leg,Her friend says Break a leg,1
+1895,runs away,runs away,1
+1896,stopped at McDonalds,hungry work and Molly,0
+1897,I will have a job,I will have a job,1
+1898,usually eats tofu now,usually eats tofu now,1
+1899,Cried in his scuba mask,Picked up his cell phone and called his mother,0
+1900,is lit,is lit,1
+1901,stopped at the grocery store,stopped at the grocery store,1
+1902,wasnt interested,wasnt interested,1
+1903,She loves candies so much,She loves candies so much,1
+1904,many people enjoy the golf range,it has a fireplace,0
+1905,round,intended to ward off evil spirits,0
+1906,braces,braces,1
+1907,talking about living in the present in his songs,talking about living in the present in his songs,1
+1908,refused to let go,refused to let go,1
+1909,it handles loans registration and other essential services,it handles loans registration and other essential services,1
+1910,need a mint,need a shower,0
+1911,should offer her some water,should offer her some water,1
+1912,cuts his nails,cuts his nails,1
+1913,buy her a toy that keep her company,leave her at home with no food,0
+1914,turns on the microwave,turns on the microwave,1
+1915,did some cardio,did some cardio,1
+1916,includes carrots,includes carrots,1
+1917,progressives ran against people in their same party,progressives ran against people in their same party,1
+1918,traffic jam,jam and jam and traffic,0
+1919,pumped some iron,pumped some iron,1
+1920,got an xray and cast,got an xray and cast,1
+1921,knows 10 times 10 equal 100,knows 10 times 10 equal 100,1
+1922,tells her Dont be a chicken,tells her Dont be a chicken,1
+1923,he used data to help identify patterns,he used data to help identify patterns,1
+1924,whether he understood the material,whether he understood the material,1
+1925,screeches,screeches,1
+1926,suggests using Spotify instead,suggests using Spotify instead,1
+1927,global shifts in temperatures,global shifts in temperatures,1
+1928,is talking about different ways to secure extra credit,is not concerned about his students grades,0
+1929,bought a magic wand,pats her sister to sleep,0
+1930,places a gloved hand over the kitchen glass and pulls the cloth forward before removing the diamond from under her,places a gloved hand over the kitchen glass and pulls the cloth forward before removing the diamond from under her,1
+1931,dives into the water,dives into the water,1
+1932,hate each other,hate each other,1
+1933,watches as he paws at the upholstery,tries to grab the book then cowers as a man crashes and tumbles in the ground,0
+1934,used to play when I was a kid,released some wind,0
+1935,is not loyal,is not loyal,1
+1936,might fail the class,might fail the class,1
+1937,stands in front of the goal where another man in a green shirt wins the ball,stands in front of the goal where another man in a green shirt wins the ball,1
+1938,Google,Google,1
+1939,stuff me up very quickly,stuff me up very quickly,1
+1940,got 10 points while most student got 1 points,got 10 points while most student got 1 points,1
+1941,waves while spinning in a circle and then runs to the side of the gym floor,stands on the hula bars and attempts back flips and jumps in the air,0
+1942,think the camera quality is most important,think the camera quality is most important,1
+1943,runs to a nearby burrow for shelter,runs to a nearby burrow for shelter,1
+1944,decided to foreswear peanuts,decided to forewear peanuts,0
+1945,spent half an hours to understand a knowledge while others may need 10 days,spent half an hours to understand a knowledge while others may only need 1 day,0
+1946,its too cold here,its too cold here,1
+1947,like tuna rolls,like tuna rolls,1
+1948,spent half an hours to understand a knowledge while others may need 10 days,spent half an hour to understand a knowledge while others may need 10 days,0
+1949,killed two birds with one stone,killed two birds with one stone,1
+1950,think if done properly theyre wonderful,think if done properly theyre wonderful,1
+1951,security confronted a pickpocket,security confronted a pickpocket,1
+1952,cars are rushing by,the light turns blue,0
+1953,should apply there,should apply there,1
+1954,dont watch Jeopardy often but this was a software outperforming a human being,dont watch Jeopardy often but this was a software outperforming a human being,1
+1955,lives in America,lives in America,1
+1956,was afraid of going to school,shaved his head,0
+1957,lifts the weight gradually at first and then swiftly picks himself up to raise the weights,lifts the weight gradually at first and then swiftly picks himself up to raise the weights,1
+1958,love gingerbread cookies best,love gingerbread cookies best,1
+1959,cars stop and let people cross the street,cars are still rushing by,0
+1960,gain a few pounds,gain a few pounds,1
+1961,was made of metal,was a chair a prank and a bolt,0
+1962,answers two could be divided by one plus one,answers two could be divided by one plus one,1
+1963,Mona makes a short funny clip displaying her friends unconscious habits,Mona makes a short funny clip displaying her friends unconscious habits,1
+1964,is seen crawling on the bottom of a lake,is seen crawling on the bottom of a lake,1
+1965,scared,scared,1
+1966,that a bird in hand is worth two in the bush,that a bird in hand is worth two in the bush,1
+1967,Noah studies with his classmates and learns the material,Noah studies with his classmates and learns the material,1
+1968,it got warmer,it got warmer,1
+1969,began to doubt his romantic prospects,began to doubt his romantic prospects,1
+1970,replies that she understands and thanks her anyway,replies that she understands and thanks her anyway,1
+1971,knows earthquake is coming,knows earthquake is coming,1
+1972,Hes excited to see all of his favorite bands,Hes excited to see all of his favorite bands,1
+1973,lives with the weight of the blood on his hands,lives with the weight of the blood on his hands,1
+1974,George asked them to be quieter,George asked them to be quieter,1
+1975,of a certain state and governed by that state,of a certain state and governed by that state,1
+1976,thanked that person,thought it was a good tip,0
+1977,He politely declines and goes home to sleep,He politely declines and goes home to sleep,1
+1978,the early bird gets the worm,the early bird gets the worm,1
+1979,are laughing,are laughing,1
+1980,are not happy about that,are not happy about that,1
+1981,is suddenly attacked by a murder of crows,is suddenly attacked by a mouse,0
+1982,freezes with fear,freezes with fear,1
+1983,does graffiti,does graffiti,1
+1984,She wakes up early and spends the morning cooking,She wakes up early and spends the morning cooking,1
+1985,stopped and let people cross the street,are still rushing by,0
+1986,is a fearsome monster,often entertains maze enthusiasts,0
+1987,pledged to be more cautious,pledged to be more cautious,1
+1988,jumped over the table,ordered a fruit milk shake,0
+1989,grabs an umbrella,grabs an umbrella,1
+1990,He goes to the refrigerator and grabs the jug,He goes to the refrigerator and grabs the jug,1
+1991,tries to figure out what kind of birds they are,hatches an egg and places it in his tree,0
+1992,is very frustrated,is very frustrated,1
+1993,checked her baggage,missed her flight because she suddenly disappeared in thin air,0
+1994,holds the boys hands,holds the boys hands,1
+1995,will take us two hours to get home,is calling my name,0
+1996,hugs the boy,holds the boys feet,0
+1997,asks the girl if she likes the song playing,asks the girl if she likes the song playing,1
+1998,is a capable man,is a capable man,1
+1999,realized he had acted rudely,realized he had acted rudely,1
+2000,volunteered that they go and see Eeyore,volunteered that they go and see Eeyore,1
+2001,squeezed some lemon juice,squeezed some lemon juice,1
+2002,he was going to hit the hay,he was going to hit the hay,1
+2003,beat around the bush,beat around the bush,1
+2004,might struggle to play the piano,might struggle to play the piano,1
+2005,spots a trashcan and climbs in,spots a trashcan and climbs in,1
+2006,enjoyed the stroll,enjoyed the stroll,1
+2007,gazed longingly out the window,gazed longingly out the window,1
+2008,asks his friend to kill a monster in the game,is teaching his student in his classroom,0
+2009,has a lot of information and resources,should not be so clumsy,0
+2010,likes cheese,likes cheese,1
+2011,suggested to his date that they go dutch,asked for the dessert menu,0
+2012,hate Toblerone,hate Toblerone,1
+2013,waited for the car to arrive,waited for the car to arrive,1
+2014,suggested to his date that they split the bill,suggested to his date that they split the bill,1
+2015,is starving,is starving,1
+2016,calls to order a pizza,puts on her blinker,0
+2017,however wants to go to the ocean,however wants to go to the ocean,1
+2018,eat elsewhere,eat elsewhere,1
+2019,easy does it,I should do this quickly,0
+2020,asks the driver for his license and registration,asks the driver for his license and registration,1
+2021,did not care about the rain,only had a few dollars in his coat that he would use to buy another glass of the double malt whiskey he enjoyed,0
+2022,ran after the cat,ate small humans,0
+2023,got something to drink,got something to drink,1
+2024,continue to sing the controversial song,continue to sing the controversial song,1
+2025,is bad in chemistry,is bad in chemistry,1
+2026,prints out his work to check the grammar,prints out his work to check the grammar,1
+2027,visit Switzerland,visit Switzerland,1
+2028,decided he did not need to study as much,decided he did not need to study as much,1
+2029,had been rejected by a boy,had been rejected by a boy,1
+2030,will talk about it in the future,will talk about it in the future,1
+2031,we can go for a game,we can go for a game,1
+2032,to escape,to escape,1
+2033,gets tired,gets tired,1
+2034,pulls a stitch and has to start over,pulls a stitch and has to start over,1
+2035,misses the frisbee,frisbee runs to the dog,0
+2036,is paying all attention on the TV,is paying all attention on the TV,1
+2037,adds in some flower pots,bought a saxophone,0
+2038,props his head up so he doesnt fall asleep,told the customer that it would be 399,0
+2039,it got full of ink,it turned my cold coffee into warm,0
+2040,chased the cat,it emerged victorious in Americas Got Talent,0
+2041,brushes her teeth and washes her face,brushes her teeth and washes her face,1
+2042,is clean,is clean,1
+2043,I should enjoy,I should enjoy,1
+2044,picks up the paint bucket and walks up the sidewalk,talk about the process that the gentleman was making,0
+2045,continues hitting the drums while speaking to the camera and singing along,continues her movements while pausing to speak to the camera and showing several more shots of her well plays,0
+2046,wants to relax a bit,wants to relax a bit,1
+2047,holds the boys hands,holds the boys hands,1
+2048,spent an afternoon finding a boon of honey,spent an afternoon finding a boon of honey,1
+2049,turns on his blinker and merges into the left lane,washes his hands thoroughly so as to drive away bacteria,0
+2050,do not dance on Saturday,do not dance on Saturday,1
+2051,I never cheated,I never cheated,1
+2052,falls unconscious,falls unconscious,1
+2053,and she was unable to join the band,and she was unable to join the band,1
+2054,launched a missile,launched a missile,1
+2055,furious over the governors decision to welcome Chinese investments,furious over the governors decision to welcome Chinese investments,1
+2056,told him to pony up the cash,told him to pony up the cash,1
+2057,it will be tough to get a job,it will be tough to get a job,1
+2058,plants his flag in the ground,plants his flag in the ground,1
+2059,hates chocolate,hates chocolate,1
+2060,is thirsty,is thirsty,1
+2061,a color and a type of pants,a color and a type of pants,1
+2062,sleeps with its family,leaps through the air and catches the frisbee in its mouth,0
+2063,of chocolate cookies,of oatmeal cookies and chocolate cookies,0
+2064,put on protective gear,put on protective gear,1
+2065,is fancy to look at,sounds good,0
+2066,was nice and cold,was nice and cold,1
+2067,paid her bill,paid her bill,1
+2068,study for other things instead,study for other things instead,1
+2069,is bringing me soup,is out partying,0
+2070,then jumps on to the rope,then jumps on to the rope,1
+2071,look for a charger,attempt CPR on it,0
+2072,gets distracted by a squirrel and forgets about the frisbee,catches the frisbee and throws it back,0
+2073,wondered if he had anything left to live for,wondered if he had anything left to live for,1
+2074,hate hanging out with Bob,hate hanging out with Bob,1
+2075,invited both of them to dinner,is great at fixing appliances,0
+2076,go to the store to buy another one,go to the store to buy another one,1
+2077,turned on his computer to analyze the evidence,turned on his computer to analyze the evidence,1
+2078,maintained a beautiful garden,maintained a beautiful garden,1
+2079,saw some animals,saw some animals,1
+2080,is harmful to cut down the rainforest,is harmful to cut down the rainforest,1
+2081,like pizza,like pizza,1
+2082,one bit me when I was younger,one bit me when I was younger,1
+2083,discusses how to design a for loop,discusses how to design a for loop,1
+2084,bounced off his chest,bounced off his chest,1
+2085,is filthy,is filthy,1
+2086,loves computer games,loves computer games,1
+2087,was very happy,helped her picked it up,0
+2088,is stupid,is stupid,1
+2089,violins playing in the background,violins playing in the background,1
+2090,cues the oboes at the beginning of the symphony,cues the oboes at the beginning of the symphony,1
+2091,looks down in embarrassment,looks down in embarrassment,1
+2092,doesnt want to stop,doesnt want to stop,1
+2093,decided to only throw that pitch,decided to only throw that pitch,1
+2094,doesnt play football,doesnt play football,1
+2095,is not very responsible,is not very responsible,1
+2096,were typing out everything,were typing out everything,1
+2097,helped her to feel better,helped her to feel better,1
+2098,brought a hose,brought a hose,1
+2099,understood the stupid risk he took,understood the stupid risk he took,1
+2100,trod towards the river,walk on two legs slowly to the shepherd,0
+2101,cycling,cycling,1
+2102,paints a lot of paintings herself,paints a lot of paintings herself,1
+2103,gullible,lazy,0
+2104,struggled to be a functional member of society,struggled to be a functional member of society,1
+2105,ruthless,ruthless,1
+2106,is appeasing him,is his mother,0
+2107,was holding for a long time,was holding for a long time,1
+2108,wants him to be quiet,wants him to be quiet,1
+2109,called a plumber,called a plumber,1
+2110,called after some time,called after some time,1
+2111,waves at the crowd and walks off,jumps high and falls and does a series of cartwheels,0
+2112,cant sleep,is his mother,0
+2113,could not shower,smeared jam onto the pipe,0
+2114,cut off all of his fingers,cut off all of his fingers,1
+2115,takes out her medical instrument,takes out her medical instrument,1
+2116,is a bad student,is a bad student,1
+2117,stay somewhere else instead,stay somewhere else instead,1
+2118,couldnt find the newest model that he wanted,couldnt find the newest model that he wanted,1
+2119,enrolled in computer science,enrolled in computer science,1
+2120,parks it near the exit,parks it near the exit,1
+2121,find an optimal blend of ideas,find an optimal blend of ideas,1
+2122,wrote his name down in their list,traded some stocks with his tip,0
+2123,saw Sarah coming towards him,stopped it,0
+2124,was arrested,smelled like fish,0
+2125,tried to run past the police,tried to run past the police,1
+2126,could have put more effort,could have put more effort,1
+2127,had a bunch of drinks,had a bunch of drinks,1
+2128,not better than summer,not better than summer,1
+2129,then puts his belt on,puts his shirt on,0
+2130,handhold tore off,handhold tore off,1
+2131,is watching her painting,is watching her painting,1
+2132,begins shaving his beard with a razor,then brushes the hair off and wipes it off,0
+2133,feels sad when he sees runners now,feels sad when he sees runners now,1
+2134,1 finger,13 fingers,0
+2135,am working it out,am working it out,1
+2136,then fills each wine glass with champagne,serves the food onto the dining table,0
+2137,put on a pair of headphones,began her avionics experiment,0
+2138,fastened her seatbelt,began her avionics experiment,0
+2139,calm down,calm down,1
+2140,have passed through great difficulty,have passed through great difficulty,1
+2141,kissing his students,kissing his students,1
+2142,got really good seats,reached the airport and went back,0
+2143,feels happy,feels happy,1
+2144,asks whether the robber was wearing a red sweatshirt,asks whether the robber was wearing a red sweatshirt,1
+2145,stopped taking her seriously,became concerned Sally would pull his leg off,0
+2146,lost,lost,1
+2147,needed assistance with everyday tasks,needed assistance with everyday tasks,1
+2148,uses extra egg,uses extra egg,1
+2149,told the truth,told the truth,1
+2150,loses control of the wheel and crashes,loses control of the wheel and crashes,1
+2151,upgrade my phone,upgrade my phone,1
+2152,left me coal,left me coal,1
+2153,go out to sea,go out to sea,1
+2154,its big,its big,1
+2155,wins all the money and is happy,wins all the money and is happy,1
+2156,fell asleep during it,fell asleep during it,1
+2157,recommend that people should control their sleeping time to avoid cardiovascular diseases,recommend that people should control their sleeping time to avoid cardiovascular diseases,1
+2158,comes back to him,comes back to him,1
+2159,ate my chips,ate my chips,1
+2160,will be fine soon,will be fine soon,1
+2161,really struggled with the exam,really struggled with the exam,1
+2162,carried surfers into shore,were broken into pieces all over the ground,0
+2163,am a dollar richer,am a dollar richer,1
+2164,I wish I lived in California,I wish I lived in Alaska,0
+2165,switch to Mac OS,switch to Mac OS,1
+2166,I wish I lived in Alaska,I wish I lived in Alaska,1
+2167,I know how to spell onomatopoeia,I know how to spell onomatopoeia,1
+2168,eat sandwiches,eat sandwiches,1
+2169,worried that he might be being bullied on account of his sexual orientation,worried that he might be being bullied on account of his sexual orientation,1
+2170,doesnt know the material though,doesnt know the material though,1
+2171,comment,comment,1
+2172,needs to feed all three pets everyday,needs to feed all four pets everyday,0
+2173,glisten,freeze and shatter,0
+2174,going to eat,going to eat,1
+2175,is faster than me,is faster than me,1
+2176,had no interest in talking,had no interest in talking,1
+2177,starts a fire,shrinks into a tiny ball of cloth,0
+2178,basks in the sun,basks in the sun,1
+2179,did it by running on the treadmill,did it by running on the treadmill,1
+2180,was not comfortable being ruthless,was not comfortable being ruthless,1
+2181,was not being nice,was not being nice,1
+2182,left them in the dark,left them in the dark,1
+2183,found extensive evidence of bleaching in the population,found extensive evidence of bleaching in the population,1
+2184,buys laundry detergent that is on sale,buys laundry detergent that is on sale,1
+2185,is cleaning himself,is cleaning himself,1
+2186,will finish it up tonight,will finish it up tonight,1
+2187,owns one cat,owns two cats,0
+2188,live far away,live far away,1
+2189,stuck to his guns pleading innocence,stuck to his guns pleading innocence,1
+2190,need to charge it,need to charge it,1
+2191,is working on a job for a client,is using painters tape on their painting,0
+2192,people began to avoid her company,people began to avoid her company,1
+2193,broke it,broke it,1
+2194,got drunk,got drunk,1
+2195,prefers to do her work while lying down,prefers to do her work while lying down,1
+2196,leaves a trace of white smoke from its engines as it glides,leaves a trace of white smoke from its engines as it glides,1
+2197,sat at home alone,sat at home alone,1
+2198,will wait until it cools,will wait until it cools,1
+2199,was cleared of the remnants with filtering,was cleared of the remnants with filtering,1
+2200,plays well,plays well,1
+2201,gives two cookies to each child,gives two cookies to each child,1
+2202,is scared away,is scared away,1
+2203,seems very happy,seems very happy,1
+2204,level,level,1
+2205,grieved for his wifes death,grieved for his wifes death,1
+2206,is very sweet,is very sweet,1
+2207,puts all six fruit in a basket,gives two apples to each orange,0
+2208,was found to be harboring foreign agents,understood chemistry well acing its exam later that week,0
+2209,wants to be able to get her Mercedes out of the garage,wants to be able to get her Mercedes out of the garage,1
+2210,did nothing,did nothing,1
+2211,find them very convenient,find them very convenient,1
+2212,play a different one,play a different one,1
+2213,kisses both of them goodnight,kisses both of them goodnight,1
+2214,was inaccurately colored by a child with hues of pink purple and orange,was inaccurately colored by a child with hues of pink purple and orange,1
+2215,eats grass,eats grass,1
+2216,quak,quak,1
+2217,thanked her,feared for his leg,0
+2218,wags its tail,wags its tail,1
+2219,gives a cookie to each child,gives two cookies to each child,0
+2220,lose interest in buying a drink,lose interest in buying a drink,1
+2221,wags its tail,wags its tail,1
+2222,inadequate,inadequate,1
+2223,need money for college,need money for college,1
+2224,opened his eyes and blew out candles,opened his eyes and blew out candles,1
+2225,will be in third grade,will be in third grade,1
+2226,can hear it clearly now,can hear it clearly now,1
+2227,we still didnt understand the question,we still didnt understand the question,1
+2228,could not help but overreact,could not help but overreact,1
+2229,catches the frisbee,catches the frisbee,1
+2230,need sunscreen,need sunscreen,1
+2231,catches the frisbee,catches the frisbee,1
+2232,drank a glass of it,poured the entire bottle of red wine down the sink not drinking a single sip of it,0
+2233,want to watch it again,want to watch it again,1
+2234,playing soccer,playing soccer,1
+2235,checks his rifle and aims at one of the targets,checks his rifle and aims at one of the targets,1
+2236,he went out to smoke yesterday,he went out to smoke yesterday,1
+2237,wags its tail,wags its tail,1
+2238,got a bullseye,got a bullseye,1
+2239,was surprised to realize that once she arrived none of her equipment was in her car,was surprised to realize that once she arrived none of her equipment was in her car,1
+2240,need to buy a new one,need to buy a new one,1
+2241,was more sleep,was more sleep,1
+2242,felt isolated,felt isolated,1
+2243,hit the hay,hit the hay,1
+2244,eats both fruits at lunch,cannot compare them,0
+2245,scratches his chin and looks down at a pile of magazines on the table,stands picks up his file and places it together,0
+2246,won such a beautiful award,won such a beautiful award,1
+2247,refills his glass and gives him a sunny smile,refills his glass and gives him a sunny smile,1
+2248,come here at the middle of the night,come here at the middle of the night,1
+2249,takes in the usual collection of festive social drinkers out enjoying a christmas drink,takes in the usual collection of festive social drinkers out enjoying a christmas drink,1
+2250,put a bandaid on the wound,put a bandaid on the wound,1
+2251,developed a bruise,developed a bruise,1
+2252,gets up and walks into a barber shop,stretches on a ring extremely far,0
+2253,escaped a near collision,escaped a near collision,1
+2254,ran up to him,chased a squirrel,0
+2255,are in danger,are in danger,1
+2256,comes up and comes back down doing a kneeling squat,begins to spin her legs around and raise her entire body to the end,0
+2257,is lying motionlessly on the operating table,is lying motionlessly on the operating table,1
+2258,must make sure that any product or medication they take does not contain a prohibited substance,must make sure that any product or medication they take does not contain a prohibited substance,1
+2259,places the final ingredients into the bowl while talking to the camera and pans out on the meal he made,places the final ingredients into the bowl while talking to the camera and pans out on the meal he made,1
+2260,doesnt know how to complete it before midnight,doesnt know how to complete it before midnight,1
+2261,treat myself to a cookie as well,treat myself to a cookie as well,1
+2262,hear over it,hear over it,1
+2263,picks him up in her arms,enters the shop and peeks through a window then leans beside him,0
+2264,bottling up his anger,bottling up his anger,1
+2265,drank a glass of red wine,drank a glass of red wine,1
+2266,cried in pain,cried in pain,1
+2267,was sitting on the ground,parked his car on the book,0
+2268,would rather play dodgeball,wants his friend to be mean to him for playing tag,0
+2269,needs to exercise more often,needs to exercise more often,1
+2270,needs to feed all ten pets everyday,needs to feed all five pets everyday,0
+2271,is relieved,answered correctly,0
+2272,know no bounds,know no bounds,1
+2273,was talking about her day,is getting married to her husband tomorrow in a venue next to the picnic,0
+2274,pass each dish to each other,pass each dish to each other,1
+2275,discriminated against the Jews,discriminated against the Jews,1
+2276,had a chip on his shoulder,had a chip on his shoulder,1
+2277,is the shortest,is the shortest,1
+2278,speaks to the anchor back in the studio,speaks to the anchor back in the studio,1
+2279,had higher cost metrics on nonCaucasian samples,used computational power modern hardware and neural networks to hack the Internet,0
+2280,was all Greek to her,was all Greek to her,1
+2281,want food from my bag,will take my best friend,0
+2282,the perpetrator eluded us,the perpetrator eluded us,1
+2283,makes a painting every day,doesnt like staring at the zookeeper,0
+2284,bought the dress,bought the dress,1
+2285,picks up his mail,teaches a class there,0
+2286,has strong paternal instincts,has strong paternal instincts,1
+2287,she stayed strong and accomplished her goals,she stayed strong and accomplished her goals,1
+2288,moves slowly showing various martial arts moves,moves slowly showing various martial arts moves,1
+2289,likes her job,wants to work quickly so she can go back to work,0
+2290,saw water drip from the ceiling,saw water drip from the ceiling,1
+2291,needs to feed all five pets everyday,loves all three of her pets equally,0
+2292,must be hungry,must be hungry,1
+2293,quickly located the key to the washroom,briefly sent the emoji to him,0
+2294,was out of milk,was out of milk,1
+2295,lost,lost,1
+2296,didnt perform adequately,didnt perform adequately,1
+2297,now owns two cats,now has fewer cats than her sister,0
+2298,says to wash your hands,says to wash your hands,1
+2299,failed to compile upon training,failed to compile upon training,1
+2300,looked exactly alike,looked exactly alike,1
+2301,does another lap,does another lap,1
+2302,recommends the book,recommends the book,1
+2303,try to balance the boom and the mainsail,try to balance the boom and the mainsail,1
+2304,laughed uproariously at it,hit his knee very hard,0
+2305,dragged the other up the steps with me,nothing,0
+2306,celebrates as the home team wins,celebrates as the home team wins,1
+2307,desperately needed to find food,desperately needed to find food,1
+2308,am starting to feel nauseated,feel hungrier than before,0
+2309,is cracked,is cracked,1
+2310,catches a breather,catches a breather,1
+2311,celebrates as the home team wins,celebrates as the home team wins,1
+2312,try to find outstanding students for a project,try to find outstanding students for a project,1
+2313,likes growing her hair and can manage long hair,likes growing her hair and can manage long hair,1
+2314,observed the zebras waiting for their turn,observed the zebras waiting for their turn,1
+2315,picks up his fork,picks up his fork,1
+2316,is reading an article from the Wall Street Journal website,is reading an article from the Wall Street Journal website,1
+2317,discuss current events,discuss current events,1
+2318,is selected for his dream job,is selected for his dream job,1
+2319,ate the tomatoes,started a conversation with the tomatoes she harvested,0
+2320,asks him whether he enjoyed his day,puts him down at home,0
+2321,is used in mathematical notations,is used in mathematical notations,1
+2322,asked him where he got it,knew something was fishy when he grew to ten times the size of a normal human,0
+2323,realizes they are Velcro,realizes they are Velcro,1
+2324,breach the surface,breaches the surface,0
+2325,wrote a holiday message in the card,immediately threw out the Christmas card into the trash can in front of CVS,0
+2326,lived high on the hog,lived high on the hog,1
+2327,is there to smell for drugs,is there to smell for drugs,1
+2328,is doing a tough job,is doing a tough job,1
+2329,was sad that his pet had died,was sad that his pet had died,1
+2330,is about fifteen years old,doesnt want to be a dog,0
+2331,eats his lunch,eats his lunch,1
+2332,will go to the mall afterwards,want their mom to cry,0
+2333,had to go to the emergency room after experiencing an allergic reaction,had to go to the emergency room after experiencing an allergic reaction,1
+2334,started swimming,forgot that he actually never swam in his entire life and started drowning,0
+2335,played a prank on Joe,wouldnt let go of Joes leg,0
+2336,his intern handle the most difficult tasks,his intern handle the most difficult tasks,1
+2337,are carrying food to their home,are carrying food to their home,1
+2338,outgrew the tank again,outgrew the tank again,1
+2339,congratulate the married couple,congratulate the married couple,1
+2340,doesnt move,doesnt move,1
+2341,was grey brown and white,was grey brown and white,1
+2342,to write his new book,to write his new book,1
+2343,started bleeding and got medical attention,started bleeding and got medical attention,1
+2344,doesnt move,doesnt move,1
+2345,confides about the ordeal in her partner,confides about the ordeal in her partner,1
+2346,catches a break,catches a crack,0
+2347,buys a sandwich,lees the scene,0
+2348,I still failed the test,I still failed the test,1
+2349,is sleeping quietly,is sleeping quietly,1
+2350,pulls the sword from the stone,pulls the sword from the stone,1
+2351,points to the drawing board,points to the drawing board,1
+2352,should take some time off from his job for once,didnt stay up to watch the game tomorrow,0
+2353,keeps losing her inhaler all the time,keeps losing her inhaler all the time,1
+2354,was colored red with artificial dyes,was spilling its emotions to the other items in the refrigerator,0
+2355,proceeded to watch the eleventh episode,suddenly threw the laptop she was watching Black Mirror on at her roommate who was also binging Netflix next to her,0
+2356,orders a cup of water,orders a cup of water,1
+2357,draws up a plan,draws up a plan,1
+2358,however were stranded at the base for long time,however were stranded at the base for long time,1
+2359,appear in front of the judge,appear in front of the judge,1
+2360,the punishment he had received,the punishment he had received,1
+2361,begin fencing,begin fencing,1
+2362,will not do good compared to his previous time,will not do good compared to his previous time,1
+2363,lost,lost,1
+2364,puts the triangular prism into the squareshaped hole,puts the triangular prism into the sign,0
+2365,takes out a bottle of whiskey,puts the glasses on,0
+2366,doesnt just put up a fence,doesnt just put up a fence,1
+2367,start playing against each other,start playing against each other,1
+2368,flew away in the tumultuous wind,sat patiently until it trapped a deer,0
+2369,did not buy it,did not buy it,1
+2370,doesnt just read the textbook,copies his own work,0
+2371,described the abuse of the victim,described the abuse of the victim,1
+2372,files a complaint with the police,files a complaint with the police,1
+2373,slide down her nose,slide down her nose,1
+2374,walks towards its owner,walks towards its owner,1
+2375,likes to hang out with Beth,likes to hang out with Beth,1
+2376,looks at people underneath,inhales some air,0
+2377,stop for icecream,stop and stare,0
+2378,was the one she wore to the event,was the one she wore to the event,1
+2379,have had great players like Ponting and Gilchrist,have had great players like Ponting and Gilchrist,1
+2380,drinks water from the lake,drinks water from the lake,1
+2381,was relieved that he barely escaped trouble,thanked the bell for its help,0
+2382,went back home because she forgot to bring money,went back home because she forgot to bring money,1
+2383,looks very long,enters the tunnel,0
+2384,download an app,download an app,1
+2385,had seen my grades,had seen how bad at videogames I was,0
+2386,is worse at coding than Amit,is worse at coding than Amit,1
+2387,go on a diet,go on a diet,1
+2388,was disappointed to learn that his reservation for dinner which was supposed to mark the start of a perfect night had been cancelled,was disappointed to learn that his reservation for dinner which was supposed to mark the start of a perfect night had been cancelled,1
+2389,drink beer,each pay for their own decaf at the cafe,0
+2390,go to the store and get another one,go to the store and get another one,1
+2391,has to tidy up his room,has to tidy up his room,1
+2392,stay somewhere else,stay somewhere else,1
+2393,is eating a pizza he snuck in with him,is facing the wrong way,0
+2394,he was able to focus more on work,he was able to focus more on work,1
+2395,cant fly,cant fly,1
+2396,flushes with embarrassment,flushes with embarrassment,1
+2397,is eating popcorn,delivers mail to everyone in the audience,0
+2398,Feared that something was amiss with the situation,Feared that something was amiss in the situation,0
+2399,accidentally spilled coffee on it,accidentally spilled coffee on it,1
+2400,is the goto place for searching publications,is the goto place for searching publications,1
+2401,drink coffee,each pay for their own drink at the nightclub,0
+2402,skating,kobe bryant,0
+2403,james,james,1
+2404,is worse at coding than Amit,is better at coding than Amit,0
+2405,order a cheesecake,order a cheesecake,1
+2406,cajoled her friend to do the talking on her behalf,cajoled her friend to do the talking on her behalf,1
+2407,others,playing basketball,0
+2408,drips butter on him,husks itself,0
+2409,likes Bill,doesnt like Bill,0
+2410,is enjoying her pasta,is enjoying her pasta,1
+2411,warm,warm,1
+2412,slowly discovered that Joe was using weighted dice,realized that Joe was cheating in bingo by using playing cards that were actually from Uno the family friendly game,0
+2413,order dinner,order dinner,1
+2414,argued the opposite side of many arguments,argued the opposite side of many arguments,1
+2415,prepared to start the race,prepared to start the race,1
+2416,tells them about his three children,counts the money one more time just to be sure,0
+2417,thought I was the only one for her,thought I was the only one for her,1
+2418,somehow forgot to register for it,was very negligent towards his health,0
+2419,concentrate on his work,concentrate on his work,1
+2420,arrived at work and began to brew coffee,arrived at work and began to brew coffee,1
+2421,sends out a few letters,sends out a few letters,1
+2422,Eason,Eason,1
+2423,remains unaffected by the bullet,remains unaffected by the bullet,1
+2424,decided to hit the books,decided to hit the books,1
+2425,thursday,thursday,1
+2426,attempted to dip a cookie into the drink but accidentally dropped it,attempted to dip a cookie into the drink but accidentally dropped it,1
+2427,invites his friends to get themselves warm,invites his friends to get themselves warm,1
+2428,she worked in government he worked at a tech startup,he worked as a software developer she was his supervisor,0
+2429,dad,dad,1
+2430,lies down and falls asleep,lies down and falls asleep,1
+2431,wandered away from the group and got hit by a car,wandered away from the group and got hit by a car,1
+2432,take the plunge and just ask courageously,take the plunge and just ask courageously,1
+2433,are searching through their store,are searching through their store,1
+2434,have led to great progress in the economy of remote places,have led to great progress in the economy of remote places,1
+2435,wear thick pants,wear thick pants,1
+2436,passes on the glasses to his friends,passes on the glasses to his friends,1
+2437,steered clear of an area that he had already completed,steered clear of an area that he had already completed,1
+2438,3,3,1
+2439,knock on their door and tell them to lower the volume,knock their door and tell them to lower the volume,0
+2440,decided to wear a red dress instead of a white one,read her book carefully so she wouldnt miss a single detail,0
+2441,circles the area,circles the area,1
+2442,was interrupted by the large caravan going by,was interrupted by the large caravan going by,1
+2443,have a good rest for several days,have a good rest for several days,1
+2444,prepare to dive into the water,prepare to dive into the water,1
+2445,circles the area,circles the area,1
+2446,drink water,drink water,1
+2447,others were not acknowledging him,others were not acknowledging him,1
+2448,got tired halfway through and laid down to take a nap,got tired halfway through and laid down to take a nap,1
+2449,immediately go to the nearest cafe,immediately go to the nearest cafe,1
+2450,invested in bringing the product to market,invested in bringing the product to market,1
+2451,charged towards them in anger,charged towards them in anger,1
+2452,was very nervous,wanted to get his feet warmed,0
+2453,are losing the game,are losing the game,1
+2454,eat hamburgers,eat hamburgers,1
+2455,is trying to stop this action,is trying to stop this action,1
+2456,swims around the boat occasionally surfacing,waves at the harpoon for removing the fisherman,0
+2457,brews a cup of coffee to stay awake,brews a cup of coffee to stay awake,1
+2458,5,5,1
+2459,had a hard time due to his disability,had a hard time due to his disability,1
+2460,is wearing heavy jackets,is wearing heavy jackets,1
+2461,do nothing,do nothing,1
+2462,stupid,stupid,1
+2463,go to see doctors,go to see doctors,1
+2464,would win just enough to break even,would win just enough to break even,1
+2465,had no memories of the next few hours,had no memories of the next few hours,1
+2466,grabbed a beer with his brother,grabbed a beer with his brother,1
+2467,is therefore recommended that while dieting one should allow himself to eat once a week whatever he desires,must be addressed by a doctor,0
+2468,eats leafy greens from tall trees,eats leafy greens from tall trees,1
+2469,japan,japan,1
+2470,was in a great deal of trouble,was in a great deal of trouble,1
+2471,ignored Sam,ignored Sam,1
+2472,rest at home,rest at home,1
+2473,heats up the grill,heats up the grill,1
+2474,did it,did it,1
+2475,let the cat out of the bag,let the cat out of the bag,1
+2476,sees lots of colorful organisms,sees lots of colorful organisms,1
+2477,demanded a lot of money for the item,demanded a lot of money for the item,1
+2478,b trees,database,0
+2479,may major in chemistry,may major in chemistry,1
+2480,move to Miami,move to Miami,1
+2481,see cinema once in a blue moon,see cinema once in a blue moon,1
+2482,purchases a gallon of milk,purchases a gallon of milk,1
+2483,didnt go sleep until midnight,didnt go sleep until midnight,1
+2484,bites the boy really hard,bites the boy really hard,1
+2485,acknowledged both were struggling in the class,acknowledged both were struggling in the class,1
+2486,had turned dark and smelled horrible,had turned dark and smelled horrible,1
+2487,may have a Play Station 4,may have a Play Station 4,1
+2488,picks out a really cool hat to wear,picks a really cool hat to wear,0
+2489,is caught by his supervisor and fired,passes the test with an A,0
+2490,beat others,beat others,1
+2491,facing East at 530 am,facing East at 530 am,1
+2492,may have a boyfriend,may have a Play Station 4,0
+2493,throws the ball as far as he can,throws the ball as far as he can,1
+2494,witnessed huge attendance this year,was an occasion for people to give feedback on each others sartorial choices,0
+2495,starts yelling foul words,starts yelling foul words,1
+2496,rolls doubles three times in a row and has to go to jail,rolls doubles three times in a row and has to go to jail,1
+2497,goes back into the woods,goes back into the woods,1
+2498,like to stay in library,like to stay in library,1
+2499,like to stay in library,like to stay in library,1
+2500,thought dorm housing is too expensive,thought dorm housing is too expensive,1
+2501,runs away,runs away,1
+2502,friday,friday,1
+2503,move to New York,go to Key West cause its hot,0
+2504,has to reach her parents house by midnight,has to reach her parents house by midnight,1
+2505,stopped working and went home,stopped working and went home,1
+2506,swims away,swims away,1
+2507,likes classical music,likes classical music,1
+2508,falls to the ground,falls to the ground,1
+2509,leaps for joy,leaps for joy,1
+2510,usa,usa,1
+2511,talk to my friend there in English,travel to Italy with no translater,0
+2512,likes beef,likes beef,1
+2513,had gotten caught cheating on a test,had gotten caught cheating on a test,1
+2514,tries a sip,tries a sip,1
+2515,get high grades,get high grades,1
+2516,kept working,kept working,1
+2517,buy a large popcorn and a large drink,begin to brew a large cup of coffee so they dont fall asleep,0
+2518,was trying to teach Sam restraint,was trying to teach Sam restraint,1
+2519,dips his brush,dips his paint into the brush,0
+2520,eat out,eat out,1
+2521,was in trouble because he was caught cheating,was in trouble because he was caught cheating,1
+2522,takes it out and puts it on the counter,takes it out and puts it on the counter,1
+2523,asks if theyve been drinking,asks if theyve been drinking,1
+2524,thought the test was easy,thought the test was easy,1
+2525,is single,is single,1
+2526,couldnt afford the rent there,couldnt afford the rent there,1
+2527,unwraps her hands,unwraps her hands,1
+2528,stay at home,stay at home,1
+2529,PUMA,BEIJING,0
+2530,was failing to answer the test questions,was failing to answer the test questions,1
+2531,is very interested in this action,doesnt care this,0
+2532,email,operating system,0
+2533,cant fly,can fly,0
+2534,provides support by wearing an eyepatch,provides support by wearing an eyepatch,1
+2535,is better than Shanghai,is better than Shanghai,1
+2536,lies down to take a nap,lies down to take a nap,1
+2537,watched Harry Potter,watched Harry Potter,1
+2538,4,4,1
+2539,figured out later when to meet Sam,figured out later when to meet Sam,1
+2540,was very angry at his friends for leaving him out,had eaten a very spicy pepper,0
+2541,throws a glance at the junk food aisle but eventually passes it,throws a glance at the junk food aisle but eventually passes it,1
+2542,needed to replace the batteries,needed to replace the batteries,1
+2543,take some time,take some time,1
+2544,forgot to take out the garbage,forgot to take out the garbage,1
+2545,call Papa Johns or Dominoes,call Papa Johns or Dominos,0
+2546,downs four beers in ten seconds,downs four beers in ten seconds,1
+2547,asked them to examine it,asked them to examine it,1
+2548,was very upset,was frustrated a bee got caught in her hair,0
+2549,eat outside,eat outside,1
+2550,prepare to sprint forwards,prepare to sprint forwards,1
+2551,reduce his speed to the speed limit,reduce his speed to the speed limit,1
+2552,is returned to surface water systems,is returned to surface water systems,1
+2553,does not like great gatsby,does not like great gatsby,1
+2554,one of my classmates,one of my classmates,1
+2555,gives,gives,1
+2556,just watch them play in the pool,go to sleep,0
+2557,6,6,1
+2558,turn it off,turn off the battery saving mode,0
+2559,cleaned up the room immediately,cleaned up the room immediately,1
+2560,it depends on my performance,it depends on my performance,1
+2561,order a Uber,order a Uber,1
+2562,see a doctor about cigarette alternatives,see a doctor about cigarette alternatives,1
+2563,needs to buy some clothes at the mall,drives her tractor through the passenger car,0
+2564,misses the catch after running too far,leaps through the frisbee and catches the air in its mouth,0
+2565,decides to make a fruit smoothie,decides to make a fruit smoothie,1
+2566,circles the area,circles the area,1
+2567,sits in traffic and swears at neighboring cars,writes a program to teleport his car to his destination on time,0
+2568,responsible,responsible,1
+2569,needed a needle and a thread,needed a needle and a thread,1
+2570,returns to the owner,returns to the owner,1
+2571,yawns,yawns,1
+2572,picks off pieces of her snack and puts them into her mouth,picks off pieces of her snack and puts them into her mouth,1
+2573,scoops up some soil,scoops up some soil,1
+2574,hundred,thirty,0
+2575,remove items from his bag,remove items from his bag,1
+2576,looks delighted at posters,looks delighted at posters,1
+2577,bakes some cookies to bring with her,bakes some cookies to bring with her,1
+2578,mixes in liquor and juice,mixes in liquor and juice,1
+2579,gets hit by a baseball,gets hit by a baseball,1
+2580,Paris,Paris,1
+2581,go home,go home,1
+2582,dies,dies,1
+2583,store it in a locker,store it in a locker,1
+2584,made a weird variant of tomato salsa,made a weird variant of tomato salsa,1
+2585,grabs his umbrella,is concerned the cats and dogs will get wounded,0
+2586,nervous,nervous,1
+2587,is refutable,is refutable,1
+2588,attracts attention from the audience,attracts attention from the audience,1
+2589,lies in the front,lies in the front,1
+2590,over,over,1
+2591,will make hot chocolate to warm up,will make hot chocolate to warm up,1
+2592,looks for his credit card,gives the cashier ten million dollars,0
+2593,was telling his son to stop being so curious,used a previous cat as an example of curiosity going wrong,0
+2594,circles around for food,circles around for food,1
+2595,is not as clean as northwestern,has a dirty campus than northwestern,0
+2596,had some reasons associated with it,had some reasons associated with it,1
+2597,told Sam to wait and be patient,was annoyed Sams horses were roaming wild,0
+2598,circles around asking for food,circles around asking for food,1
+2599,they are hard to predict,they are hard to predict,1
+2600,jet,large turtle,0
+2601,take more classes,take more classes,1
+2602,dirties the floor,tells the babies to not bark loudly,0
+2603,operate similarly this year,operate similarly this year,1
+2604,was faking his tears,was faking his tears,1
+2605,does not like to go out dancing,does not like to go out dancing,1
+2606,cut the tree down,cut the tree down,1
+2607,wanted to be liked by his teachers,wanted to be liked by his teachers,1
+2608,studies more than Amit,studies more than Amit,1
+2609,run out of the building,run out of the building,1
+2610,bites the device,bites the device,1
+2611,stayed up late everyday,was keen on catching his prey,0
+2612,eye to eye,the best in people,0
+2613,was a sauce that was made out of soy or oysters and didnt contain tomatoes,was a sauce that was made out of soy or oysters and didnt contain tomatoes,1
+2614,was made out of soy or oysters and didnt contain tomatoes,was made out of soy or oysters and didnt contain tomatoes,1
+2615,is immediately chased out by the security guard,is immediately chased out by the security guard,1
+2616,was made out of soy or oysters,began the transformation to todays sweet potato in the late 1700s,0
+2617,was turning an unimportant argument into a big deal,was turning an unimportant argument into a big deal,1
+2618,6,6,1
+2619,a dime a dozen,a dime a dozen,1
+2620,was made out of soy or oysters,quickly changed ingredients to include mashed cotton and sweet pepper,0
+2621,writing one more assignment,writing one more assignment,1
+2622,go to the stylist,go to the stylist,1
+2623,is chased out,is chased out,1
+2624,cut him some slack,cut him some slack,1
+2625,hid after hearing guns going off in the distance,hid after hearing guns going off in the distance,1
+2626,let her off the hook,let her off the hook,1
+2627,listen to her,listen to her,1
+2628,puts some ice in it,puts some ice in it,1
+2629,stops to take a drink at a water fountain,turns on her left blinker and runs into the left turn lane,0
+2630,Im feeling under the weather,Im feeling under the weather,1
+2631,would enjoy the movie without the bonus scenes,likes his desert to have icing when watching his favorite movie,0
+2632,is in your court,is in your court,1
+2633,dies,dies,1
+2634,let Alex know about a secret,let Alex know about a secret,1
+2635,was indicted for defrauding customers,was indicted for defrauding customers,1
+2636,Be clear with me,Be clear with me,1
+2637,a bad grade,a bad grade,1
+2638,play devils advocate,play devils advocate,1
+2639,is talking to the fans,slams the ball back,0
+2640,diversify your equity,diversify your equity,1
+2641,rescue that person,rescue that person,1
+2642,enjoys teasing his brother,enjoys teasing his brother,1
+2643,made the wrong decision,made the wrong decision,1
+2644,got an A in the class,got an A in the class,1
+2645,details,entire story,0
+2646,was willing to take this responsibility for his family,was not confident about his choices earlier,0
+2647,disagrees with Tom,disagrees with Tom,1
+2648,rainy,rainy,1
+2649,piece of cake,piece of cake,1
+2650,research more about it,research more about it,1
+2651,was avoiding saying what he meant,was avoiding saying what he meant,1
+2652,a taste of his own medicine,a taste of his own medicine,1
+2653,move on with your life,move on with your life,1
+2654,jumps over the bar and sets a record for the high jump,flaps his wings to gain altitude,0
+2655,You should give it a chance before you make any assumptions,You should give it a chance before you make any assumptions,1
+2656,couldnt see the ambiguity in the sentence,couldnt see the ambiguity in the sentence,1
+2657,was going to bed,was going to bed,1
+2658,study hard at home,study hard at home,1
+2659,talks to a starving child and an unsympathetic dictator,talks to a starving child and an unsympathetic dictator,1
+2660,believes you will always be happy when you consider a place home,believes you will always be happy when you consider a place home,1
+2661,was getting sick,was getting sick,1
+2662,had to be careful of anyone overhearing him,had to be careful of anyone overhearing him,1
+2663,call my roommates for help,turn off the tap by myself,0
+2664,think he is feeling sleepy,think he is hungry,0
+2665,leaps into my arm and starts licking my hand,found his tail where he left it,0
+2666,pained,pained,1
+2667,wanted to make people more comfortable with friendly competition,wanted to make people more comfortable with friendly competition,1
+2668,sees everything in an optimistic point of view,sees everything in an optimistic point of view,1
+2669,waves to her friend out the window,answers the teachers question and passes the test,0
+2670,am alone,am alone,1
+2671,snores a lot in the night,snores a lot at night,0
+2672,was adamant to meet the budget while procuring the best option out there,was adamant to meet the budget while procuring the best option out there,1
+2673,loved spinach and used to snore a lot in the night,loved spinach and used to snore a lot at night,0
+2674,failed to make any conclusion,failed to make any conclusion,1
+2675,always got what he wanted when he grew up,had a hard time eating his food,0
+2676,goes to the bus stop and waits for his bus,takes off his clothes and freezes to death,0
+2677,is in hot summer right now,is in hot summer right now,1
+2678,are waiting to hunt salmons,are waiting to hunt salmons,1
+2679,did not want people to clean up the house after the party,did not want people to clean up the house after the party,1
+2680,realized she took on a project that she could not finish,realized she took on a project that she could not finish,1
+2681,has 3 apples,has half an apple,0
+2682,had been caught badmouthing her friends,was worried one small movement would plunge them into the lake,0
+2683,was mistaken about Sams helpfulness,was mistaken about Sams helpfulness,1
+2684,goes well with Salsa sauce,goes well with Salsa sauce,1
+2685,is preparing for the presentation,is preparing for the presentation,1
+2686,was being cautious and wanted to give herself the most opportunities,was being cautious and wanted to give herself the most opportunities,1
+2687,will feel good in the summer,will feel good in the summer,1
+2688,are discussing their schedules,are discussing their schedules,1
+2689,has a flag that depicts its leaf,has a flag that depicts its leaf,1
+2690,called to postpone the date,called to postpone the date,1
+2691,want to plan according to their schedules for the day,want to plan according to their schedules for the day,1
+2692,willing to plan according to their schedules,willing to plan according to their schedules,1
+2693,sells a lot of maple syrup,is located in North America,0
+2694,thought for a second and then made the decision,thought for a second and then made the decision,1
+2695,The man is chasing his dog,The man is chasing his dog,1
+2696,did not want to be left out of what everyone else was doing,did not want to be left out of what everyone else was doing,1
+2697,was analyzing his reflection,was analyzing his reflection,1
+2698,gave away a big secret,gave away a big secret,1
+2699,smiles,smiles,1
+2700,think our electricity bills are going to be large,want to turn the temperature down a lot inside,0
+2701,had not been this happy in a very long time,had not been this happy in a very long time,1
+2702,suddenly remembers the face,suddenly remembers the face,1
+2703,Will get three pieces of pizza,Will get three pieces of pizza,1
+2704,Will get three pieces of pizza,Will get three pieces of pizza,1
+2705,gave away a secret,gave away a secret,1
+2706,Sixteen cups and eight plates,Sixteen cups and eight plates,1
+2707,reaches for his credit card,reaches for his credit card,1
+2708,were suffocated by the oil spill in the ocean,were the victims of the beach parties gone wild,0
+2709,Five strawberries and fourteen blueberries,Sixteen strawberries and sixteen blueberries,0
+2710,continued to work on his relationships with them,continued to work on his relationships with them,1
+2711,called a friend on the phone,called a friend on the phone,1
+2712,Goes and catches the frisbee,Goes and catches the frisbee,1
+2713,are starting to take some concrete steps in making pay parity a reality,adhere to high levels of professionalism and transparency,0
+2714,are considered healthy in adequate amount,are considered healthy in adequate amount,1
+2715,am not short,am not short,1
+2716,wants to talk to me,is not interested in me,0
+2717,make it across but lose part of the flock,make it across but lose part of the flock,1
+2718,did his chores for the week,prepped for his final,0
+2719,stands underneath the tree,stands underneath the tree,1
+2720,assures him that he will be alright,assures him that he will be alright,1
+2721,is because of the speed of light is a fixed value,is because of the speed of light is a fixed value,1
+2722,need support and encouragement like anybody else,need support and encouragement like anybody else,1
+2723,played video games,produced some honey,0
+2724,didnt understand me,refused and ate pizza instead,0
+2725,knew he couldnt give up,knew he couldnt give up,1
+2726,asks the driver if theyve been drinking,signals right to the swerving car and lets it pass,0
+2727,her taking a flight there,her taking a flight there,1
+2728,Put on some soothing lotion,Put on some soothing lotion,1
+2729,always appeared in my dreams,always appeared in my dreams,1
+2730,needed to tell the truth and get over it because it was inevitable,needed to tell the truth and get over it because it was inevitable,1
+2731,lets them off with a warning,lets them off with a warning,1
+2732,run to his next meeting,run to his next meeting,1
+2733,was afraid of the snake,was eager to get away from humans,0
+2734,are very common,are very common,1
+2735,just repeated what I said to it,just repeated what I said to it,1
+2736,tells the driver to stay in the car,tells the driver to stay in the car,1
+2737,I hit the brakes,I hit the brakes,1
+2738,told him it looks ugly,told him it looks ugly,1
+2739,is walkable from my home,is walkable from my home,1
+2740,The man is chasing his dog,The man is chasing his dog,1
+2741,a gift card to pay for my tickets,smiling advice so they could be better employees,0
+2742,wanted to joke with someone,wanted to joke with someone,1
+2743,I pull my hat down over my ears,I pull my hat down over my ears,1
+2744,ask her to move in with him,ask her to move in with him,1
+2745,purchased a new one online,like it because the electricity bill will get lower,0
+2746,to tell them that in person,to tell them that in person,1
+2747,didnt understand math,couldnt package her brain inside a textbook,0
+2748,smiles at them,wants to take the baby away,0
+2749,really dry,really dry,1
+2750,she always ordered a taxi home at night,walked home by herself so she was safe,0
+2751,to wait for two months until he could proceed further,to wait two months until he could proceed further,0
+2752,go to the event by herself,decide to flake on her last week instead,0
+2753,loves to bat specifically,loves to bat specifically,1
+2754,being in charge of her own company,being in charge of her own company,1
+2755,saved the rest for later to give to his coworker who wasnt hungry when he asked earlier,marked his territory on the forest floor because he was full of chicken nuggets,0
+2756,asked for a manager,congratulated the worked for a burger well done,0
+2757,got to have a soda,got to have a soda,1
+2758,was able to reach high objects,was able to reach high objects,1
+2759,packed her bags and went home,packed her bags and went home,1
+2760,knew it wasnt too complicated,knew it wasnt too complicated,1
+2761,couldnt afford the car,couldnt afford the car,1
+2762,ignored Monica,ignored Monica,1
+2763,walks to work rarely,walks to work rarely,1
+2764,didnt take her so seriously,didnt take her so seriously,1
+2765,didnt take her so seriously,didnt take her so seriously,1
+2766,went all out for the experience,went all out for the experience,1
+2767,made a big deal about a small problem,made a big deal about a small problem,1
+2768,was in good health,was in good health,1
+2769,was not concentrating on the test,was not concentrating on the test,1
+2770,were always together,were always together,1
+2771,was very happy,was very happy,1
+2772,ran fast,ran fast,1
+2773,answered the question exactly right,answered the question exactly right,1
+2774,knew it would be easy,knew it would be easy,1
+2775,took credit for something he didnt do,took credit for something he didnt do,1

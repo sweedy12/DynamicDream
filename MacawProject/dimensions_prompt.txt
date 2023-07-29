@@ -1,0 +1,286 @@
+You are given a SITUATION and possible answers for the situation in ANSWERS.
+Your task is to choose the best four dimensions that will help you find the correct answer on the SITUATION.
+After you chose the dimensions, please elaborate on the scene with these dimensions.
+Here is the list of possible dimensions:
+'IsA' : 'A is a subtype or a specific instance of B.
+'PartOf' : 'A is a part of B.
+'HasA / has part' : 'B belongs to A, either as an inherent part or due to a social construct of possession. HasA is often the reverse of PartOf.'.
+'UsedFor' : 'A is used for B; the purpose of A is B.'.
+'CapableOf' : 'Something that A can typically do is B.'.
+'AtLocation' : 'A is a typical location for B, or A is the inherent location of B.
+'Causes' : 'A and B are events, and it is typical for A to cause B.'.
+'HasPrerequisite' : 'In order for A to happen, B needs to happen; B is a dependency of A.'.
+'HasProperty' : 'A has B as a property; A can be described as B.'.
+'Motivation' : 'motivation of character(s) before S'.
+'ObstructedBy' : 'A is a goal that can be prevented by B; B is an obstacle in the way of A.'.
+'CreatedBy' : 'B is a process or agent that creates A.'.
+'LocatedNear' : 'A and B are typically found near each other. Symmetric.'.
+'MadeOf' : 'A is made of B.'.
+'ReceivesAction' : 'B can be done to A.'.
+'Consequence' : 'likely consequence of action described in S'.
+'ROT: general Rule of Thumb (ROT)' : 'that guides whether action described in S is socially acceptable or not (social norm)'.
+'Emotion' : 'emotion of character(s) after S has happened'.
+'X Attribute' : 'The Attribute of Person X'.
+'X Effect' : 'The Effect on Person X'.
+'X Intent' : 'The Intent of person X'.
+'X Need' : 'What Person X needs'.
+'X React' : 'The reaction of Person X'.
+'X Want' : 'What Person X wants'.
+'Other React ' : 'The reaction of Person Y'.
+'Other Want' : 'What Person Y wants'.
+'Other Attribute' : 'The Attribute of Person Y'.
+'Other Effect' : 'The Effect on Person Y'.
+'Other Intent' : 'The Intent of person Y'.
+'Other Need' : 'What Person Y needs'.
+'ComparedTo' : 'A has attribute X to a greater extent than B'.
+Inputs: SITUATION, ANSWERS
+Outputs: CHOSEN_DIMENSIONS, ELABORATIONS
+
+Inputs:
+SITUATION: Sammy wanted to go to where the people were.  Where might he go?
+ANSWERS: (A) race track (B) populated areas (C) the desert (D) apartment (E) roadblock 
+Outputs:
+CHOSEN_DIMENSIONS:
+AtLocation
+HasProperty
+ELABORATIONS:[AtLocation]: many people are located at populated areas
+[HasProperty]: Desert is less populated than cities
+Inputs:
+SITUATION: What home entertainment equipment requires cable?
+ANSWERS: (A) radio shack (B) substation (C) cabinet (D) television (E) desk 
+Outputs:
+CHOSEN_DIMENSIONS:
+HasA
+ELABORATIONS:[HasA]: A television has a dedicated port for power cable
+Inputs:
+SITUATION: Where is a business restaurant likely to be located?
+ANSWERS: (A) town (B) at hotel (C) mall (D) business sector (E) yellow pages 
+Outputs:
+CHOSEN_DIMENSIONS:
+LocatedNear
+AtLocation
+ELABORATIONS:[LocatedNear]: business venues are often located near businesses
+[AtLocation]: many businesses are located at the business sector
+Inputs:
+SITUATION: When boiling butter, when it's ready, you can
+ANSWERS: (A) Pour it onto a plate (B) Pour it into a jar
+Outputs:
+CHOSEN_DIMENSIONS:
+hasProperty
+UsedFor
+ELABORATIONS:[hasProperty]: A jar has a wide-mouth opening
+[UsedFor]: a jar is used for storage
+Inputs:
+SITUATION: To permanently attach metal legs to a chair, you can
+ANSWERS: (A) Weld the metal together to get it to stay firmly in place (B) Nail the metal together to get it to stay firmly in place
+Outputs:
+CHOSEN_DIMENSIONS:
+ReceivesAction
+MadeOf
+Causes
+ELABORATIONS:[ReceivesAction]: Welding can be done to metal
+[MadeOf]: a chair is typically made of wood or metal
+[Causes]: welding causes two metal objects to attach
+Inputs:
+SITUATION: how do you taste something?
+ANSWERS: (A) smell it enough to taste it. (B) place it in your mouth to taste.
+Outputs:
+CHOSEN_DIMENSIONS:
+HasPrerequisite
+ELABORATIONS:[HasPrerequisite]: Tasting requires putting something in your mouth
+Inputs:
+SITUATION: To create a makeshift ice pack,
+ANSWERS: (A) take a sponge and soak it in oil. Put the sponge in a refrigerator and let it freeze. Once frozen, take it out and put it in a ziploc bag. You can now use it as an ice pack. (B) take a sponge and soak it in water. Put the sponge in a refrigerator and let it freeze. Once frozen, take it out and put it in a ziploc bag. You can now use it as an ice pack.
+Outputs:
+CHOSEN_DIMENSIONS:
+CapableOf
+IsA
+Contains
+CreatedBy
+ELABORATIONS:[IsA]: water is a type of liquid
+[CapableOf]: a freezer is capable of freezing water
+[CreatedBy]: an ice pack is created by freezing an object that contains liquid
+[Contains]: an ice pack contains frozen liquid 
+Inputs:
+SITUATION: Cameron decided to have a barbecue and gathered her friends together. How would Others feel as a result?
+ANSWERS: (A) like attending (B) like staying home (C) a good friend to have 
+Outputs:
+CHOSEN_DIMENSIONS:
+OtherWant
+Xintent
+ELABORATIONS:[OtherWant]: Cameron's friends would want to go to the barbecue,
+[Xintent]: Cameron intended for her friends to attent the barbecue
+Inputs:
+SITUATION: Remy was an expert fisherman and was on the water with Kai. Remy baited Kai's hook. What will Remy want to do next?
+ANSWERS: (A) cast the line (B) put the boat in the water (C) invite Kai out on the boat 
+Outputs:
+CHOSEN_DIMENSIONS:
+XWant
+HasPrerequisite
+ELABORATIONS:[XWant]: Remy wanted to catch fish
+[HasPrerequisite]: before casting the line, you need to bait the hook
+Inputs:
+SITUATION: Kendall ran back and thanked Lee for helping her find the dog. How would you describe Kendall?
+ANSWERS: (A) grateful (B) super (C) amazing 
+Outputs:
+CHOSEN_DIMENSIONS:
+XEffect
+ELABORATIONS:[XEffect]: Kendall was relived and happy that her dog was found
+Inputs:
+SITUATION: Kendall worked the weekend at the steakhouse and made bank on tips. What will Kendall want to do next?
+ANSWERS: (A) Save the money (B) get hired at the steakhouse (C) Quit her job 
+Outputs:
+CHOSEN_DIMENSIONS:
+XReact
+ELABORATIONS:[XReact]: After getting the money, Kendall will probably want to use it
+Inputs:
+SITUATION: I have a cucumber and a cactus. I will
+ANSWERS: (A) sit on the cucumber. (B) eat the cucumber. (C) eat the cactus. (D) sit on the cactus. 
+Outputs:
+CHOSEN_DIMENSIONS:
+PartOf
+ObstructedBy
+ELABORATIONS:[PartOf]: spikes are a part of a cactus
+[ObstructedBy]: spikes can interfere eating
+[ReceivesAction]: a cucumber can be eaten
+Inputs:
+SITUATION: It is a cold winter day. I will
+ANSWERS: (A) bask in the sun. (B) wear a large down parka. (C) have cereal for breakfast. (D) imagine the infinite possibilities of the day. 
+Outputs:
+CHOSEN_DIMENSIONS:
+XNeed
+ELABORATIONS:[XNeed]: I need to wear something warm to keep from the cold 
+Inputs:
+SITUATION: Sydney was a school teacher and made sure their students learned well. How would you describe Sydney?
+ANSWERS: (A) As someone that asked for a job (B) As someone that takes teaching seriously (C) Like a leader 
+Outputs:
+CHOSEN_DIMENSIONS:
+XAttribute
+ELABORATIONS:[XAttribute]: Sydney is responsible and dedicated
+Inputs:
+SITUATION: Austin saw that someone left their purse on top of their car as they drove away so he ran along side them to get their attention. Why did Austin do this?
+ANSWERS: (A) be nice (B) help another person (C) practice for a marathon 
+Outputs:
+CHOSEN_DIMENSIONS:
+OtherReact
+XWant
+ELABORATIONS:[OtherReact]: The person would be happy to get his wallet back
+[XWant]: Austin wants to bring the wallet back
+Inputs:
+SITUATION: Jordan had a handful of lottery tickets, and gave Taylor the right one to win the jackpot. What will happen to Taylor?
+ANSWERS: (A) Have more money than before (B) jealous they gave Taylor the ticket (C) Buy more lottery tickets next time 
+Outputs:
+CHOSEN_DIMENSIONS:
+OtherEffect
+ELABORATIONS:[OtherEffect]: Taylor would win the lottery
+Inputs:
+SITUATION: I am always very hungry before I go to bed. I am
+ANSWERS: (A) concerned that this is an illness. (B) glad that I do not have a kitchen. (C) fearful that there are monsters under my bed. (D) tempted to snack when I feel this way. 
+Outputs:
+CHOSEN_DIMENSIONS:
+XNeed
+Consequence
+ELABORATIONS:[XNeed]: I need to eat
+[Consequence]: I will probably eat something
+Inputs:
+SITUATION: I am feeling nervous about my midterm tomorrow. I fear that
+ANSWERS: (A) the professor will delay the midterm. (B) I will doodle on my exam and receive points for it. (C) my grandpa has diabetes. (D) I will fail. 
+Outputs:
+CHOSEN_DIMENSIONS:
+Motivation
+IsA
+ELABORATIONS:[Motivation]: I want to pass my midterms
+[IsA]: a midterm is a type of test
+Inputs:
+SITUATION: My brother is very good at math. He
+ANSWERS: (A) has a watermelon in his shirt. (B) is flying out the window. (C) looks like Billy Bob Buddle. (D) won a math competition when he was 5. 
+Outputs:
+CHOSEN_DIMENSIONS:
+OtherAttribute
+ROT
+HasPrerequisite
+OtherEffect
+ELABORATIONS:[OtherAttribute]: My brother is smart
+[ROT]: You often want to engage in activities that showcase your strengths
+[HasPrerequisite]: Particpating in math contest requires being good at math
+[OtherEffect]: My brother would like to use his math skills
+Inputs:
+SITUATION: I feel sickly. I think
+ANSWERS: (A) I will have a great time. (B) I will see my brother at the casino. (C) I will fly out the window. (D) I will not go to school today. 
+Outputs:
+CHOSEN_DIMENSIONS:
+ROT
+ELABORATIONS:
+[ROT]: Prioritize self-care and staying home when sick
+Inputs:
+SITUATION: I am feeling clumsy today. I think
+ANSWERS: (A) it is the end of the world. (B) I didn't get enough sleep. (C) have a lot of troubles. (D) I am secretly a panda. 
+Outputs:
+CHOSEN_DIMENSIONS:
+ObstructedBy
+Consequence
+ELABORATIONS:
+[ObstructedBy]: Cognitive and physical functioning are effected by lack of sleep
+[Consequence]: I would be less focused since I didn't get much sleep
+Inputs:
+SITUATION: Doug likes nachos.  He
+ANSWERS: (A) keeps his coin collection inside. (B) uses them as a missile defense system. (C) pours milk all over them for crispiness. (D) enjoys the chips and melted cheese. 
+Outputs:
+CHOSEN_DIMENSIONS:
+IsA
+UsedFor
+ELABORATIONS:
+[IsA]: Nachos are tortilla chips served with different toppings
+[UsedFor]: Melted cheese is used as a topping or side serve for many dishes
+Inputs:
+SITUATION: Paul was riding an elephant and accidentally fell off.  Paul
+ANSWERS: (A) had a trunk and four legs. (B) never left the elephant's back. (C) vowed to never ride an elephant again. (D) asked the elephant to order him two milkshakes. 
+Outputs:
+CHOSEN_DIMENSIONS:
+Emotion
+XEffect
+XWant
+ELABORATIONS:
+[Emotion]: Paul felt upset
+[XEffect]: Paul hurt himself
+[XWant]: Paul would not want to fall off again
+Inputs:
+SITUATION: I go to Northwestern. I
+ANSWERS: (A) think the directions are north, then west. (B) study computer science. (C) dress warmly. (D) say "go cats" first thing in the morning. 
+Outputs:
+CHOSEN_DIMENSIONS:
+IsA
+Motivation
+ELABORATIONS:
+[IsA]: Northwestern is a university
+[Motivation]: I want to go to school
+Inputs:
+SITUATION: Jan needed to give out jobs for an upcoming project at work. What will Others want to do next?
+ANSWERS: (A) disagree with Jan (B) get to work (C) argue with the assignments 
+Outputs:
+CHOSEN_DIMENSIONS:
+OtherEffect
+OtherWant
+ELABORATIONS:
+[OtherEffect]: Others would be assigned with jobs
+[OtherWant]: Others would would to work on the assigned jobs
+Inputs:
+SITUATION: Kai found one for sale online but it was too much money for her. What does Kai need to do before this?
+ANSWERS: (A) cheaper (B) Open up her laptop (C) save money 
+Outputs:
+CHOSEN_DIMENSIONS:
+ObstructedBy
+Motivation
+ELABORATIONS:
+[ObstructedBy]: You cannot online before opening your computer
+[OtherWant]: Kai wanted to buy something online
+Inputs:
+SITUATION: Skylar set the mouse free and hoped it would be ok. What will Skylar want to do next?
+ANSWERS: (A) see the mouse run off next (B) put out poison next (C) kill the mouse 
+Outputs:
+CHOSEN_DIMENSIONS:
+XAttribute
+XWant
+ELABORATIONS:
+[XAttribute]: Riley cares about animals
+[XWant]: Riley wants the mouse to go back to nature

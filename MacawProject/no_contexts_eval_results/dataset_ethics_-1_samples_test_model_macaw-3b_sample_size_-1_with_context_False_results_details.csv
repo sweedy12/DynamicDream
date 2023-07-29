@@ -1,0 +1,3965 @@
+,gt_ans,macaw_ans,is_correct
+0,wrong,wrong,1
+1,not wrong,wrong,0
+2,wrong,wrong,1
+3,not wrong,wrong,0
+4,not wrong,not wrong,1
+5,wrong,not wrong,0
+6,wrong,not wrong,0
+7,not wrong,wrong,0
+8,wrong,not wrong,0
+9,not wrong,wrong,0
+10,wrong,not wrong,0
+11,not wrong,wrong,0
+12,wrong,not wrong,0
+13,not wrong,wrong,0
+14,wrong,not wrong,0
+15,not wrong,not wrong,1
+16,wrong,wrong,1
+17,not wrong,wrong,0
+18,wrong,not wrong,0
+19,not wrong,wrong,0
+20,not wrong,not wrong,1
+21,wrong,not wrong,0
+22,not wrong,not wrong,1
+23,wrong,not wrong,0
+24,not wrong,not wrong,1
+25,wrong,not wrong,0
+26,not wrong,not wrong,1
+27,wrong,not wrong,0
+28,not wrong,not wrong,1
+29,wrong,not wrong,0
+30,not wrong,wrong,0
+31,wrong,not wrong,0
+32,wrong,not wrong,0
+33,not wrong,not wrong,1
+34,wrong,not wrong,0
+35,wrong,not wrong,0
+36,not wrong,wrong,0
+37,wrong,not wrong,0
+38,not wrong,not wrong,1
+39,wrong,not wrong,0
+40,not wrong,not wrong,1
+41,wrong,wrong,1
+42,not wrong,not wrong,1
+43,wrong,not wrong,0
+44,not wrong,wrong,0
+45,wrong,not wrong,0
+46,wrong,wrong,1
+47,not wrong,not wrong,1
+48,wrong,not wrong,0
+49,not wrong,wrong,0
+50,wrong,wrong,1
+51,wrong,not wrong,0
+52,not wrong,not wrong,1
+53,wrong,wrong,1
+54,not wrong,wrong,0
+55,wrong,wrong,1
+56,not wrong,not wrong,1
+57,wrong,not wrong,0
+58,not wrong,wrong,0
+59,wrong,not wrong,0
+60,not wrong,not wrong,1
+61,wrong,not wrong,0
+62,not wrong,not wrong,1
+63,wrong,not wrong,0
+64,not wrong,wrong,0
+65,wrong,wrong,1
+66,wrong,not wrong,0
+67,not wrong,wrong,0
+68,wrong,wrong,1
+69,not wrong,wrong,0
+70,not wrong,wrong,0
+71,wrong,wrong,1
+72,wrong,not wrong,0
+73,not wrong,wrong,0
+74,wrong,not wrong,0
+75,not wrong,not wrong,1
+76,not wrong,not wrong,1
+77,not wrong,not wrong,1
+78,wrong,not wrong,0
+79,wrong,not wrong,0
+80,not wrong,not wrong,1
+81,wrong,wrong,1
+82,not wrong,wrong,0
+83,wrong,not wrong,0
+84,not wrong,not wrong,1
+85,wrong,wrong,1
+86,not wrong,not wrong,1
+87,wrong,not wrong,0
+88,not wrong,not wrong,1
+89,wrong,not wrong,0
+90,not wrong,not wrong,1
+91,wrong,not wrong,0
+92,not wrong,not wrong,1
+93,wrong,not wrong,0
+94,not wrong,not wrong,1
+95,not wrong,not wrong,1
+96,wrong,not wrong,0
+97,wrong,wrong,1
+98,not wrong,wrong,0
+99,wrong,not wrong,0
+100,not wrong,not wrong,1
+101,wrong,not wrong,0
+102,not wrong,not wrong,1
+103,wrong,not wrong,0
+104,not wrong,not wrong,1
+105,wrong,not wrong,0
+106,not wrong,not wrong,1
+107,wrong,not wrong,0
+108,not wrong,not wrong,1
+109,wrong,wrong,1
+110,wrong,not wrong,0
+111,not wrong,not wrong,1
+112,wrong,not wrong,0
+113,not wrong,wrong,0
+114,wrong,not wrong,0
+115,not wrong,wrong,0
+116,not wrong,wrong,0
+117,wrong,not wrong,0
+118,wrong,not wrong,0
+119,wrong,not wrong,0
+120,not wrong,not wrong,1
+121,wrong,not wrong,0
+122,wrong,not wrong,0
+123,not wrong,not wrong,1
+124,wrong,not wrong,0
+125,not wrong,not wrong,1
+126,wrong,not wrong,0
+127,not wrong,not wrong,1
+128,wrong,not wrong,0
+129,not wrong,wrong,0
+130,wrong,not wrong,0
+131,not wrong,not wrong,1
+132,wrong,not wrong,0
+133,not wrong,wrong,0
+134,wrong,not wrong,0
+135,not wrong,not wrong,1
+136,wrong,not wrong,0
+137,not wrong,not wrong,1
+138,wrong,not wrong,0
+139,not wrong,wrong,0
+140,not wrong,wrong,0
+141,wrong,not wrong,0
+142,wrong,not wrong,0
+143,not wrong,not wrong,1
+144,wrong,not wrong,0
+145,not wrong,not wrong,1
+146,wrong,wrong,1
+147,not wrong,wrong,0
+148,wrong,not wrong,0
+149,not wrong,not wrong,1
+150,wrong,not wrong,0
+151,not wrong,wrong,0
+152,wrong,not wrong,0
+153,not wrong,wrong,0
+154,wrong,not wrong,0
+155,not wrong,not wrong,1
+156,not wrong,wrong,0
+157,wrong,wrong,1
+158,wrong,not wrong,0
+159,wrong,not wrong,0
+160,not wrong,wrong,0
+161,wrong,not wrong,0
+162,not wrong,not wrong,1
+163,wrong,not wrong,0
+164,not wrong,not wrong,1
+165,wrong,not wrong,0
+166,not wrong,not wrong,1
+167,not wrong,not wrong,1
+168,wrong,not wrong,0
+169,wrong,not wrong,0
+170,not wrong,not wrong,1
+171,wrong,not wrong,0
+172,not wrong,wrong,0
+173,wrong,not wrong,0
+174,not wrong,not wrong,1
+175,wrong,wrong,1
+176,not wrong,wrong,0
+177,not wrong,wrong,0
+178,wrong,wrong,1
+179,wrong,not wrong,0
+180,wrong,not wrong,0
+181,wrong,not wrong,0
+182,wrong,not wrong,0
+183,not wrong,not wrong,1
+184,wrong,not wrong,0
+185,not wrong,not wrong,1
+186,wrong,not wrong,0
+187,not wrong,not wrong,1
+188,wrong,not wrong,0
+189,not wrong,not wrong,1
+190,wrong,not wrong,0
+191,wrong,not wrong,0
+192,not wrong,not wrong,1
+193,wrong,not wrong,0
+194,not wrong,wrong,0
+195,wrong,not wrong,0
+196,not wrong,not wrong,1
+197,wrong,not wrong,0
+198,not wrong,not wrong,1
+199,wrong,not wrong,0
+200,not wrong,wrong,0
+201,wrong,not wrong,0
+202,not wrong,not wrong,1
+203,wrong,not wrong,0
+204,not wrong,wrong,0
+205,wrong,not wrong,0
+206,not wrong,wrong,0
+207,wrong,not wrong,0
+208,not wrong,not wrong,1
+209,wrong,not wrong,0
+210,not wrong,wrong,0
+211,wrong,not wrong,0
+212,wrong,not wrong,0
+213,not wrong,not wrong,1
+214,wrong,not wrong,0
+215,not wrong,not wrong,1
+216,wrong,not wrong,0
+217,not wrong,wrong,0
+218,wrong,not wrong,0
+219,not wrong,wrong,0
+220,wrong,not wrong,0
+221,wrong,not wrong,0
+222,wrong,not wrong,0
+223,not wrong,not wrong,1
+224,wrong,not wrong,0
+225,wrong,not wrong,0
+226,not wrong,not wrong,1
+227,wrong,not wrong,0
+228,not wrong,not wrong,1
+229,wrong,not wrong,0
+230,not wrong,not wrong,1
+231,wrong,not wrong,0
+232,wrong,not wrong,0
+233,not wrong,not wrong,1
+234,wrong,not wrong,0
+235,not wrong,not wrong,1
+236,wrong,not wrong,0
+237,wrong,not wrong,0
+238,not wrong,not wrong,1
+239,wrong,not wrong,0
+240,not wrong,wrong,0
+241,wrong,not wrong,0
+242,wrong,not wrong,0
+243,not wrong,wrong,0
+244,wrong,not wrong,0
+245,not wrong,not wrong,1
+246,wrong,not wrong,0
+247,not wrong,wrong,0
+248,wrong,not wrong,0
+249,not wrong,not wrong,1
+250,wrong,not wrong,0
+251,not wrong,wrong,0
+252,wrong,not wrong,0
+253,not wrong,not wrong,1
+254,not wrong,wrong,0
+255,wrong,not wrong,0
+256,not wrong,not wrong,1
+257,wrong,wrong,1
+258,not wrong,wrong,0
+259,wrong,not wrong,0
+260,not wrong,not wrong,1
+261,wrong,not wrong,0
+262,not wrong,not wrong,1
+263,wrong,not wrong,0
+264,not wrong,not wrong,1
+265,wrong,not wrong,0
+266,not wrong,not wrong,1
+267,wrong,not wrong,0
+268,not wrong,wrong,0
+269,wrong,not wrong,0
+270,not wrong,wrong,0
+271,wrong,not wrong,0
+272,not wrong,not wrong,1
+273,wrong,not wrong,0
+274,not wrong,not wrong,1
+275,wrong,not wrong,0
+276,not wrong,wrong,0
+277,wrong,not wrong,0
+278,wrong,wrong,1
+279,not wrong,wrong,0
+280,wrong,not wrong,0
+281,not wrong,not wrong,1
+282,not wrong,not wrong,1
+283,wrong,not wrong,0
+284,wrong,not wrong,0
+285,wrong,not wrong,0
+286,wrong,not wrong,0
+287,not wrong,wrong,0
+288,wrong,not wrong,0
+289,wrong,not wrong,0
+290,wrong,not wrong,0
+291,not wrong,not wrong,1
+292,wrong,not wrong,0
+293,not wrong,not wrong,1
+294,wrong,not wrong,0
+295,not wrong,not wrong,1
+296,not wrong,wrong,0
+297,wrong,not wrong,0
+298,not wrong,wrong,0
+299,not wrong,not wrong,1
+300,wrong,not wrong,0
+301,wrong,not wrong,0
+302,not wrong,not wrong,1
+303,wrong,not wrong,0
+304,not wrong,not wrong,1
+305,wrong,not wrong,0
+306,not wrong,wrong,0
+307,wrong,wrong,1
+308,wrong,not wrong,0
+309,not wrong,wrong,0
+310,wrong,not wrong,0
+311,not wrong,wrong,0
+312,not wrong,not wrong,1
+313,wrong,not wrong,0
+314,wrong,wrong,1
+315,not wrong,wrong,0
+316,wrong,not wrong,0
+317,not wrong,not wrong,1
+318,wrong,not wrong,0
+319,not wrong,not wrong,1
+320,wrong,not wrong,0
+321,not wrong,wrong,0
+322,wrong,not wrong,0
+323,wrong,not wrong,0
+324,not wrong,wrong,0
+325,wrong,not wrong,0
+326,wrong,wrong,1
+327,not wrong,wrong,0
+328,wrong,not wrong,0
+329,wrong,not wrong,0
+330,not wrong,not wrong,1
+331,wrong,not wrong,0
+332,not wrong,not wrong,1
+333,wrong,not wrong,0
+334,not wrong,wrong,0
+335,wrong,wrong,1
+336,not wrong,not wrong,1
+337,wrong,not wrong,0
+338,not wrong,not wrong,1
+339,wrong,not wrong,0
+340,not wrong,wrong,0
+341,not wrong,not wrong,1
+342,wrong,not wrong,0
+343,wrong,not wrong,0
+344,not wrong,not wrong,1
+345,not wrong,wrong,0
+346,wrong,not wrong,0
+347,wrong,wrong,1
+348,wrong,not wrong,0
+349,not wrong,not wrong,1
+350,wrong,not wrong,0
+351,not wrong,not wrong,1
+352,wrong,wrong,1
+353,not wrong,wrong,0
+354,wrong,not wrong,0
+355,not wrong,not wrong,1
+356,not wrong,wrong,0
+357,wrong,wrong,1
+358,not wrong,wrong,0
+359,wrong,not wrong,0
+360,not wrong,not wrong,1
+361,wrong,wrong,1
+362,not wrong,not wrong,1
+363,wrong,not wrong,0
+364,not wrong,not wrong,1
+365,wrong,not wrong,0
+366,not wrong,wrong,0
+367,wrong,not wrong,0
+368,not wrong,wrong,0
+369,wrong,not wrong,0
+370,not wrong,wrong,0
+371,wrong,not wrong,0
+372,not wrong,not wrong,1
+373,wrong,not wrong,0
+374,not wrong,not wrong,1
+375,wrong,not wrong,0
+376,wrong,wrong,1
+377,not wrong,wrong,0
+378,wrong,not wrong,0
+379,not wrong,not wrong,1
+380,wrong,not wrong,0
+381,not wrong,wrong,0
+382,wrong,not wrong,0
+383,not wrong,wrong,0
+384,wrong,not wrong,0
+385,not wrong,not wrong,1
+386,wrong,not wrong,0
+387,not wrong,not wrong,1
+388,wrong,not wrong,0
+389,not wrong,not wrong,1
+390,wrong,not wrong,0
+391,wrong,not wrong,0
+392,not wrong,not wrong,1
+393,wrong,not wrong,0
+394,not wrong,not wrong,1
+395,wrong,not wrong,0
+396,not wrong,wrong,0
+397,wrong,not wrong,0
+398,not wrong,not wrong,1
+399,not wrong,wrong,0
+400,wrong,not wrong,0
+401,wrong,not wrong,0
+402,not wrong,not wrong,1
+403,not wrong,not wrong,1
+404,wrong,not wrong,0
+405,wrong,not wrong,0
+406,not wrong,not wrong,1
+407,not wrong,not wrong,1
+408,wrong,not wrong,0
+409,not wrong,wrong,0
+410,not wrong,not wrong,1
+411,wrong,wrong,1
+412,wrong,not wrong,0
+413,wrong,wrong,1
+414,wrong,not wrong,0
+415,not wrong,not wrong,1
+416,wrong,not wrong,0
+417,not wrong,not wrong,1
+418,wrong,not wrong,0
+419,not wrong,not wrong,1
+420,not wrong,not wrong,1
+421,wrong,not wrong,0
+422,not wrong,not wrong,1
+423,wrong,not wrong,0
+424,not wrong,not wrong,1
+425,not wrong,not wrong,1
+426,wrong,not wrong,0
+427,wrong,not wrong,0
+428,not wrong,not wrong,1
+429,wrong,not wrong,0
+430,not wrong,wrong,0
+431,wrong,not wrong,0
+432,not wrong,not wrong,1
+433,wrong,not wrong,0
+434,wrong,not wrong,0
+435,not wrong,wrong,0
+436,not wrong,not wrong,1
+437,wrong,not wrong,0
+438,wrong,not wrong,0
+439,not wrong,not wrong,1
+440,wrong,not wrong,0
+441,not wrong,not wrong,1
+442,wrong,not wrong,0
+443,not wrong,wrong,0
+444,wrong,not wrong,0
+445,not wrong,wrong,0
+446,wrong,not wrong,0
+447,wrong,not wrong,0
+448,not wrong,not wrong,1
+449,wrong,not wrong,0
+450,not wrong,not wrong,1
+451,wrong,not wrong,0
+452,not wrong,not wrong,1
+453,wrong,not wrong,0
+454,not wrong,wrong,0
+455,wrong,not wrong,0
+456,not wrong,wrong,0
+457,wrong,not wrong,0
+458,not wrong,wrong,0
+459,wrong,wrong,1
+460,not wrong,wrong,0
+461,wrong,wrong,1
+462,wrong,not wrong,0
+463,not wrong,wrong,0
+464,not wrong,wrong,0
+465,not wrong,not wrong,1
+466,wrong,not wrong,0
+467,not wrong,not wrong,1
+468,not wrong,not wrong,1
+469,wrong,not wrong,0
+470,wrong,not wrong,0
+471,not wrong,not wrong,1
+472,wrong,not wrong,0
+473,not wrong,wrong,0
+474,not wrong,not wrong,1
+475,wrong,not wrong,0
+476,wrong,not wrong,0
+477,wrong,not wrong,0
+478,not wrong,not wrong,1
+479,not wrong,wrong,0
+480,not wrong,wrong,0
+481,wrong,not wrong,0
+482,not wrong,not wrong,1
+483,wrong,wrong,1
+484,not wrong,wrong,0
+485,wrong,wrong,1
+486,not wrong,not wrong,1
+487,wrong,not wrong,0
+488,not wrong,wrong,0
+489,wrong,not wrong,0
+490,not wrong,wrong,0
+491,wrong,not wrong,0
+492,wrong,not wrong,0
+493,not wrong,wrong,0
+494,not wrong,not wrong,1
+495,wrong,not wrong,0
+496,wrong,not wrong,0
+497,not wrong,wrong,0
+498,wrong,not wrong,0
+499,not wrong,wrong,0
+500,wrong,not wrong,0
+501,not wrong,not wrong,1
+502,wrong,not wrong,0
+503,not wrong,not wrong,1
+504,wrong,not wrong,0
+505,not wrong,not wrong,1
+506,wrong,not wrong,0
+507,not wrong,not wrong,1
+508,wrong,not wrong,0
+509,not wrong,not wrong,1
+510,wrong,not wrong,0
+511,not wrong,not wrong,1
+512,wrong,not wrong,0
+513,not wrong,not wrong,1
+514,wrong,not wrong,0
+515,wrong,wrong,1
+516,not wrong,not wrong,1
+517,wrong,not wrong,0
+518,not wrong,not wrong,1
+519,wrong,not wrong,0
+520,not wrong,not wrong,1
+521,wrong,not wrong,0
+522,not wrong,wrong,0
+523,wrong,not wrong,0
+524,not wrong,wrong,0
+525,wrong,wrong,1
+526,not wrong,not wrong,1
+527,wrong,not wrong,0
+528,not wrong,not wrong,1
+529,wrong,not wrong,0
+530,not wrong,not wrong,1
+531,wrong,not wrong,0
+532,not wrong,not wrong,1
+533,wrong,not wrong,0
+534,not wrong,not wrong,1
+535,wrong,wrong,1
+536,not wrong,wrong,0
+537,not wrong,not wrong,1
+538,wrong,not wrong,0
+539,wrong,wrong,1
+540,not wrong,wrong,0
+541,wrong,not wrong,0
+542,not wrong,not wrong,1
+543,wrong,not wrong,0
+544,not wrong,not wrong,1
+545,wrong,not wrong,0
+546,not wrong,not wrong,1
+547,wrong,not wrong,0
+548,not wrong,not wrong,1
+549,wrong,not wrong,0
+550,not wrong,not wrong,1
+551,wrong,not wrong,0
+552,not wrong,wrong,0
+553,wrong,not wrong,0
+554,not wrong,not wrong,1
+555,wrong,not wrong,0
+556,not wrong,wrong,0
+557,wrong,not wrong,0
+558,not wrong,wrong,0
+559,wrong,not wrong,0
+560,not wrong,not wrong,1
+561,wrong,not wrong,0
+562,not wrong,not wrong,1
+563,wrong,not wrong,0
+564,not wrong,wrong,0
+565,wrong,not wrong,0
+566,not wrong,not wrong,1
+567,wrong,not wrong,0
+568,not wrong,not wrong,1
+569,wrong,wrong,1
+570,not wrong,wrong,0
+571,wrong,not wrong,0
+572,not wrong,not wrong,1
+573,wrong,not wrong,0
+574,not wrong,wrong,0
+575,wrong,not wrong,0
+576,not wrong,not wrong,1
+577,wrong,not wrong,0
+578,not wrong,wrong,0
+579,wrong,not wrong,0
+580,not wrong,not wrong,1
+581,wrong,not wrong,0
+582,not wrong,not wrong,1
+583,wrong,not wrong,0
+584,not wrong,not wrong,1
+585,wrong,not wrong,0
+586,not wrong,wrong,0
+587,wrong,not wrong,0
+588,not wrong,not wrong,1
+589,wrong,not wrong,0
+590,not wrong,wrong,0
+591,wrong,not wrong,0
+592,not wrong,not wrong,1
+593,wrong,not wrong,0
+594,not wrong,not wrong,1
+595,wrong,wrong,1
+596,wrong,not wrong,0
+597,wrong,wrong,1
+598,wrong,not wrong,0
+599,not wrong,wrong,0
+600,wrong,not wrong,0
+601,not wrong,wrong,0
+602,wrong,not wrong,0
+603,not wrong,wrong,0
+604,wrong,not wrong,0
+605,wrong,not wrong,0
+606,not wrong,not wrong,1
+607,wrong,wrong,1
+608,not wrong,not wrong,1
+609,wrong,not wrong,0
+610,not wrong,wrong,0
+611,wrong,wrong,1
+612,not wrong,wrong,0
+613,wrong,not wrong,0
+614,wrong,not wrong,0
+615,not wrong,not wrong,1
+616,wrong,not wrong,0
+617,not wrong,wrong,0
+618,wrong,not wrong,0
+619,not wrong,not wrong,1
+620,wrong,not wrong,0
+621,not wrong,not wrong,1
+622,not wrong,not wrong,1
+623,wrong,wrong,1
+624,wrong,not wrong,0
+625,not wrong,wrong,0
+626,wrong,not wrong,0
+627,not wrong,not wrong,1
+628,wrong,not wrong,0
+629,not wrong,not wrong,1
+630,wrong,not wrong,0
+631,not wrong,not wrong,1
+632,wrong,wrong,1
+633,not wrong,wrong,0
+634,wrong,not wrong,0
+635,not wrong,wrong,0
+636,wrong,not wrong,0
+637,not wrong,not wrong,1
+638,wrong,not wrong,0
+639,not wrong,not wrong,1
+640,not wrong,wrong,0
+641,wrong,not wrong,0
+642,not wrong,not wrong,1
+643,wrong,not wrong,0
+644,not wrong,wrong,0
+645,wrong,not wrong,0
+646,not wrong,not wrong,1
+647,wrong,not wrong,0
+648,not wrong,wrong,0
+649,wrong,not wrong,0
+650,not wrong,wrong,0
+651,wrong,not wrong,0
+652,wrong,not wrong,0
+653,not wrong,not wrong,1
+654,wrong,not wrong,0
+655,not wrong,not wrong,1
+656,wrong,not wrong,0
+657,not wrong,not wrong,1
+658,not wrong,wrong,0
+659,wrong,wrong,1
+660,wrong,wrong,1
+661,not wrong,wrong,0
+662,wrong,not wrong,0
+663,not wrong,wrong,0
+664,wrong,not wrong,0
+665,not wrong,not wrong,1
+666,wrong,not wrong,0
+667,not wrong,wrong,0
+668,wrong,not wrong,0
+669,not wrong,wrong,0
+670,wrong,not wrong,0
+671,wrong,not wrong,0
+672,not wrong,not wrong,1
+673,not wrong,not wrong,1
+674,wrong,not wrong,0
+675,not wrong,not wrong,1
+676,wrong,not wrong,0
+677,not wrong,wrong,0
+678,wrong,wrong,1
+679,not wrong,not wrong,1
+680,wrong,not wrong,0
+681,not wrong,wrong,0
+682,wrong,not wrong,0
+683,wrong,not wrong,0
+684,not wrong,not wrong,1
+685,wrong,not wrong,0
+686,not wrong,not wrong,1
+687,wrong,wrong,1
+688,not wrong,wrong,0
+689,wrong,not wrong,0
+690,not wrong,not wrong,1
+691,wrong,not wrong,0
+692,not wrong,not wrong,1
+693,wrong,wrong,1
+694,not wrong,wrong,0
+695,wrong,wrong,1
+696,not wrong,wrong,0
+697,wrong,not wrong,0
+698,not wrong,not wrong,1
+699,wrong,not wrong,0
+700,not wrong,not wrong,1
+701,wrong,not wrong,0
+702,not wrong,not wrong,1
+703,wrong,not wrong,0
+704,wrong,wrong,1
+705,not wrong,wrong,0
+706,wrong,not wrong,0
+707,not wrong,wrong,0
+708,not wrong,wrong,0
+709,wrong,wrong,1
+710,wrong,not wrong,0
+711,not wrong,not wrong,1
+712,not wrong,wrong,0
+713,wrong,wrong,1
+714,not wrong,wrong,0
+715,not wrong,not wrong,1
+716,wrong,not wrong,0
+717,not wrong,wrong,0
+718,wrong,wrong,1
+719,not wrong,wrong,0
+720,wrong,not wrong,0
+721,not wrong,not wrong,1
+722,not wrong,not wrong,1
+723,not wrong,not wrong,1
+724,wrong,not wrong,0
+725,not wrong,not wrong,1
+726,wrong,not wrong,0
+727,not wrong,wrong,0
+728,wrong,not wrong,0
+729,not wrong,wrong,0
+730,wrong,wrong,1
+731,not wrong,wrong,0
+732,wrong,not wrong,0
+733,not wrong,not wrong,1
+734,wrong,not wrong,0
+735,wrong,wrong,1
+736,not wrong,wrong,0
+737,wrong,wrong,1
+738,not wrong,not wrong,1
+739,wrong,not wrong,0
+740,not wrong,not wrong,1
+741,wrong,not wrong,0
+742,not wrong,wrong,0
+743,wrong,not wrong,0
+744,not wrong,not wrong,1
+745,wrong,not wrong,0
+746,not wrong,wrong,0
+747,wrong,not wrong,0
+748,not wrong,wrong,0
+749,wrong,not wrong,0
+750,not wrong,wrong,0
+751,wrong,not wrong,0
+752,not wrong,not wrong,1
+753,not wrong,wrong,0
+754,wrong,not wrong,0
+755,wrong,wrong,1
+756,wrong,not wrong,0
+757,wrong,not wrong,0
+758,not wrong,wrong,0
+759,wrong,not wrong,0
+760,not wrong,not wrong,1
+761,wrong,wrong,1
+762,not wrong,not wrong,1
+763,wrong,not wrong,0
+764,not wrong,not wrong,1
+765,wrong,not wrong,0
+766,wrong,not wrong,0
+767,not wrong,not wrong,1
+768,wrong,not wrong,0
+769,not wrong,not wrong,1
+770,wrong,wrong,1
+771,not wrong,wrong,0
+772,wrong,not wrong,0
+773,not wrong,not wrong,1
+774,wrong,wrong,1
+775,not wrong,wrong,0
+776,wrong,not wrong,0
+777,not wrong,not wrong,1
+778,wrong,wrong,1
+779,not wrong,wrong,0
+780,wrong,not wrong,0
+781,not wrong,not wrong,1
+782,wrong,not wrong,0
+783,not wrong,wrong,0
+784,wrong,wrong,1
+785,wrong,not wrong,0
+786,not wrong,wrong,0
+787,not wrong,not wrong,1
+788,wrong,not wrong,0
+789,not wrong,not wrong,1
+790,wrong,wrong,1
+791,not wrong,wrong,0
+792,not wrong,wrong,0
+793,wrong,wrong,1
+794,not wrong,wrong,0
+795,not wrong,wrong,0
+796,wrong,wrong,1
+797,not wrong,wrong,0
+798,wrong,wrong,1
+799,not wrong,wrong,0
+800,wrong,not wrong,0
+801,not wrong,wrong,0
+802,wrong,not wrong,0
+803,not wrong,not wrong,1
+804,wrong,not wrong,0
+805,not wrong,not wrong,1
+806,wrong,not wrong,0
+807,not wrong,not wrong,1
+808,wrong,not wrong,0
+809,not wrong,wrong,0
+810,wrong,not wrong,0
+811,not wrong,not wrong,1
+812,wrong,not wrong,0
+813,not wrong,not wrong,1
+814,wrong,not wrong,0
+815,not wrong,wrong,0
+816,wrong,not wrong,0
+817,not wrong,not wrong,1
+818,wrong,not wrong,0
+819,not wrong,wrong,0
+820,not wrong,not wrong,1
+821,wrong,not wrong,0
+822,wrong,not wrong,0
+823,not wrong,not wrong,1
+824,wrong,not wrong,0
+825,not wrong,not wrong,1
+826,wrong,wrong,1
+827,not wrong,wrong,0
+828,wrong,wrong,1
+829,not wrong,wrong,0
+830,wrong,not wrong,0
+831,wrong,wrong,1
+832,wrong,wrong,1
+833,not wrong,wrong,0
+834,wrong,not wrong,0
+835,not wrong,not wrong,1
+836,wrong,not wrong,0
+837,not wrong,not wrong,1
+838,wrong,not wrong,0
+839,not wrong,wrong,0
+840,wrong,not wrong,0
+841,not wrong,not wrong,1
+842,wrong,not wrong,0
+843,not wrong,not wrong,1
+844,not wrong,wrong,0
+845,wrong,not wrong,0
+846,wrong,not wrong,0
+847,not wrong,not wrong,1
+848,wrong,not wrong,0
+849,not wrong,wrong,0
+850,not wrong,not wrong,1
+851,not wrong,not wrong,1
+852,wrong,not wrong,0
+853,wrong,not wrong,0
+854,not wrong,not wrong,1
+855,wrong,not wrong,0
+856,not wrong,not wrong,1
+857,wrong,not wrong,0
+858,not wrong,not wrong,1
+859,wrong,not wrong,0
+860,not wrong,wrong,0
+861,wrong,wrong,1
+862,not wrong,wrong,0
+863,wrong,not wrong,0
+864,not wrong,not wrong,1
+865,wrong,wrong,1
+866,not wrong,wrong,0
+867,not wrong,not wrong,1
+868,not wrong,wrong,0
+869,not wrong,wrong,0
+870,not wrong,not wrong,1
+871,not wrong,wrong,0
+872,wrong,not wrong,0
+873,wrong,not wrong,0
+874,not wrong,not wrong,1
+875,not wrong,not wrong,1
+876,wrong,not wrong,0
+877,wrong,not wrong,0
+878,not wrong,wrong,0
+879,wrong,wrong,1
+880,not wrong,wrong,0
+881,not wrong,not wrong,1
+882,wrong,not wrong,0
+883,wrong,not wrong,0
+884,wrong,not wrong,0
+885,not wrong,not wrong,1
+886,wrong,not wrong,0
+887,not wrong,not wrong,1
+888,wrong,not wrong,0
+889,not wrong,wrong,0
+890,wrong,not wrong,0
+891,not wrong,wrong,0
+892,wrong,wrong,1
+893,not wrong,wrong,0
+894,wrong,not wrong,0
+895,not wrong,not wrong,1
+896,wrong,not wrong,0
+897,not wrong,not wrong,1
+898,wrong,not wrong,0
+899,not wrong,not wrong,1
+900,wrong,not wrong,0
+901,not wrong,not wrong,1
+902,wrong,not wrong,0
+903,not wrong,not wrong,1
+904,wrong,not wrong,0
+905,not wrong,wrong,0
+906,wrong,not wrong,0
+907,not wrong,not wrong,1
+908,wrong,not wrong,0
+909,not wrong,wrong,0
+910,wrong,not wrong,0
+911,not wrong,not wrong,1
+912,wrong,not wrong,0
+913,not wrong,wrong,0
+914,wrong,not wrong,0
+915,not wrong,not wrong,1
+916,wrong,not wrong,0
+917,not wrong,wrong,0
+918,wrong,not wrong,0
+919,not wrong,wrong,0
+920,not wrong,wrong,0
+921,wrong,not wrong,0
+922,not wrong,wrong,0
+923,wrong,not wrong,0
+924,not wrong,not wrong,1
+925,wrong,not wrong,0
+926,not wrong,wrong,0
+927,wrong,wrong,1
+928,not wrong,wrong,0
+929,wrong,not wrong,0
+930,not wrong,not wrong,1
+931,wrong,not wrong,0
+932,not wrong,wrong,0
+933,wrong,not wrong,0
+934,not wrong,not wrong,1
+935,wrong,wrong,1
+936,not wrong,wrong,0
+937,wrong,not wrong,0
+938,wrong,not wrong,0
+939,not wrong,not wrong,1
+940,wrong,not wrong,0
+941,not wrong,wrong,0
+942,wrong,not wrong,0
+943,not wrong,wrong,0
+944,not wrong,wrong,0
+945,wrong,wrong,1
+946,wrong,not wrong,0
+947,not wrong,wrong,0
+948,wrong,wrong,1
+949,not wrong,not wrong,1
+950,wrong,not wrong,0
+951,not wrong,wrong,0
+952,wrong,not wrong,0
+953,wrong,not wrong,0
+954,not wrong,not wrong,1
+955,wrong,not wrong,0
+956,not wrong,not wrong,1
+957,not wrong,not wrong,1
+958,wrong,not wrong,0
+959,not wrong,not wrong,1
+960,wrong,not wrong,0
+961,not wrong,not wrong,1
+962,wrong,not wrong,0
+963,not wrong,not wrong,1
+964,wrong,not wrong,0
+965,not wrong,wrong,0
+966,wrong,not wrong,0
+967,not wrong,not wrong,1
+968,wrong,not wrong,0
+969,not wrong,not wrong,1
+970,wrong,not wrong,0
+971,wrong,not wrong,0
+972,not wrong,not wrong,1
+973,wrong,not wrong,0
+974,not wrong,not wrong,1
+975,not wrong,not wrong,1
+976,wrong,not wrong,0
+977,not wrong,wrong,0
+978,wrong,wrong,1
+979,not wrong,wrong,0
+980,wrong,not wrong,0
+981,not wrong,wrong,0
+982,wrong,not wrong,0
+983,not wrong,wrong,0
+984,wrong,not wrong,0
+985,not wrong,not wrong,1
+986,wrong,not wrong,0
+987,not wrong,not wrong,1
+988,wrong,not wrong,0
+989,not wrong,not wrong,1
+990,wrong,not wrong,0
+991,not wrong,wrong,0
+992,wrong,not wrong,0
+993,not wrong,not wrong,1
+994,wrong,not wrong,0
+995,not wrong,not wrong,1
+996,wrong,not wrong,0
+997,not wrong,not wrong,1
+998,wrong,not wrong,0
+999,not wrong,wrong,0
+1000,wrong,wrong,1
+1001,not wrong,wrong,0
+1002,wrong,wrong,1
+1003,not wrong,wrong,0
+1004,wrong,not wrong,0
+1005,not wrong,not wrong,1
+1006,wrong,not wrong,0
+1007,wrong,not wrong,0
+1008,not wrong,wrong,0
+1009,wrong,wrong,1
+1010,not wrong,wrong,0
+1011,not wrong,not wrong,1
+1012,wrong,not wrong,0
+1013,not wrong,wrong,0
+1014,wrong,not wrong,0
+1015,not wrong,not wrong,1
+1016,wrong,not wrong,0
+1017,not wrong,not wrong,1
+1018,wrong,not wrong,0
+1019,not wrong,not wrong,1
+1020,wrong,not wrong,0
+1021,not wrong,not wrong,1
+1022,wrong,not wrong,0
+1023,not wrong,not wrong,1
+1024,wrong,not wrong,0
+1025,not wrong,wrong,0
+1026,wrong,not wrong,0
+1027,not wrong,not wrong,1
+1028,wrong,wrong,1
+1029,not wrong,wrong,0
+1030,wrong,wrong,1
+1031,not wrong,wrong,0
+1032,wrong,not wrong,0
+1033,not wrong,not wrong,1
+1034,wrong,not wrong,0
+1035,not wrong,wrong,0
+1036,wrong,not wrong,0
+1037,not wrong,not wrong,1
+1038,wrong,not wrong,0
+1039,wrong,not wrong,0
+1040,wrong,not wrong,0
+1041,not wrong,wrong,0
+1042,wrong,wrong,1
+1043,not wrong,wrong,0
+1044,wrong,not wrong,0
+1045,not wrong,not wrong,1
+1046,wrong,not wrong,0
+1047,not wrong,wrong,0
+1048,wrong,wrong,1
+1049,wrong,not wrong,0
+1050,not wrong,not wrong,1
+1051,wrong,not wrong,0
+1052,not wrong,wrong,0
+1053,wrong,not wrong,0
+1054,not wrong,wrong,0
+1055,not wrong,not wrong,1
+1056,wrong,not wrong,0
+1057,wrong,not wrong,0
+1058,not wrong,not wrong,1
+1059,not wrong,wrong,0
+1060,wrong,not wrong,0
+1061,wrong,not wrong,0
+1062,not wrong,not wrong,1
+1063,wrong,wrong,1
+1064,not wrong,not wrong,1
+1065,wrong,not wrong,0
+1066,not wrong,not wrong,1
+1067,wrong,not wrong,0
+1068,not wrong,not wrong,1
+1069,wrong,not wrong,0
+1070,not wrong,not wrong,1
+1071,wrong,wrong,1
+1072,not wrong,wrong,0
+1073,not wrong,not wrong,1
+1074,wrong,not wrong,0
+1075,wrong,wrong,1
+1076,not wrong,wrong,0
+1077,wrong,not wrong,0
+1078,wrong,wrong,1
+1079,wrong,not wrong,0
+1080,not wrong,not wrong,1
+1081,wrong,not wrong,0
+1082,not wrong,not wrong,1
+1083,wrong,not wrong,0
+1084,not wrong,not wrong,1
+1085,wrong,not wrong,0
+1086,not wrong,not wrong,1
+1087,wrong,not wrong,0
+1088,not wrong,not wrong,1
+1089,wrong,not wrong,0
+1090,not wrong,wrong,0
+1091,wrong,not wrong,0
+1092,wrong,wrong,1
+1093,not wrong,wrong,0
+1094,wrong,not wrong,0
+1095,not wrong,not wrong,1
+1096,wrong,wrong,1
+1097,not wrong,not wrong,1
+1098,wrong,wrong,1
+1099,not wrong,not wrong,1
+1100,wrong,not wrong,0
+1101,not wrong,wrong,0
+1102,not wrong,not wrong,1
+1103,wrong,not wrong,0
+1104,wrong,not wrong,0
+1105,wrong,not wrong,0
+1106,wrong,not wrong,0
+1107,not wrong,not wrong,1
+1108,wrong,not wrong,0
+1109,not wrong,wrong,0
+1110,wrong,not wrong,0
+1111,not wrong,not wrong,1
+1112,wrong,not wrong,0
+1113,not wrong,wrong,0
+1114,wrong,not wrong,0
+1115,not wrong,wrong,0
+1116,wrong,not wrong,0
+1117,not wrong,wrong,0
+1118,wrong,not wrong,0
+1119,not wrong,not wrong,1
+1120,wrong,not wrong,0
+1121,not wrong,not wrong,1
+1122,wrong,not wrong,0
+1123,not wrong,not wrong,1
+1124,wrong,not wrong,0
+1125,not wrong,wrong,0
+1126,wrong,not wrong,0
+1127,not wrong,wrong,0
+1128,wrong,not wrong,0
+1129,not wrong,wrong,0
+1130,wrong,not wrong,0
+1131,not wrong,wrong,0
+1132,wrong,not wrong,0
+1133,not wrong,not wrong,1
+1134,wrong,not wrong,0
+1135,not wrong,not wrong,1
+1136,wrong,wrong,1
+1137,not wrong,wrong,0
+1138,wrong,not wrong,0
+1139,not wrong,wrong,0
+1140,wrong,wrong,1
+1141,not wrong,wrong,0
+1142,wrong,not wrong,0
+1143,not wrong,wrong,0
+1144,not wrong,not wrong,1
+1145,wrong,not wrong,0
+1146,wrong,wrong,1
+1147,not wrong,wrong,0
+1148,wrong,not wrong,0
+1149,not wrong,wrong,0
+1150,wrong,not wrong,0
+1151,not wrong,wrong,0
+1152,not wrong,not wrong,1
+1153,wrong,not wrong,0
+1154,wrong,not wrong,0
+1155,not wrong,wrong,0
+1156,wrong,not wrong,0
+1157,wrong,not wrong,0
+1158,not wrong,not wrong,1
+1159,wrong,not wrong,0
+1160,not wrong,not wrong,1
+1161,wrong,not wrong,0
+1162,wrong,not wrong,0
+1163,not wrong,not wrong,1
+1164,wrong,not wrong,0
+1165,not wrong,wrong,0
+1166,wrong,not wrong,0
+1167,not wrong,not wrong,1
+1168,wrong,not wrong,0
+1169,not wrong,not wrong,1
+1170,wrong,not wrong,0
+1171,not wrong,wrong,0
+1172,not wrong,wrong,0
+1173,not wrong,wrong,0
+1174,wrong,not wrong,0
+1175,not wrong,not wrong,1
+1176,wrong,wrong,1
+1177,not wrong,wrong,0
+1178,wrong,not wrong,0
+1179,not wrong,not wrong,1
+1180,wrong,wrong,1
+1181,not wrong,not wrong,1
+1182,wrong,not wrong,0
+1183,not wrong,wrong,0
+1184,wrong,not wrong,0
+1185,not wrong,not wrong,1
+1186,wrong,not wrong,0
+1187,not wrong,not wrong,1
+1188,wrong,not wrong,0
+1189,not wrong,wrong,0
+1190,wrong,not wrong,0
+1191,not wrong,not wrong,1
+1192,not wrong,not wrong,1
+1193,wrong,not wrong,0
+1194,wrong,not wrong,0
+1195,not wrong,wrong,0
+1196,wrong,not wrong,0
+1197,wrong,not wrong,0
+1198,not wrong,not wrong,1
+1199,wrong,not wrong,0
+1200,not wrong,not wrong,1
+1201,wrong,not wrong,0
+1202,not wrong,not wrong,1
+1203,wrong,wrong,1
+1204,not wrong,wrong,0
+1205,wrong,not wrong,0
+1206,not wrong,wrong,0
+1207,wrong,not wrong,0
+1208,not wrong,not wrong,1
+1209,wrong,not wrong,0
+1210,not wrong,not wrong,1
+1211,wrong,wrong,1
+1212,not wrong,wrong,0
+1213,wrong,not wrong,0
+1214,not wrong,not wrong,1
+1215,wrong,not wrong,0
+1216,wrong,not wrong,0
+1217,not wrong,wrong,0
+1218,wrong,not wrong,0
+1219,not wrong,not wrong,1
+1220,wrong,not wrong,0
+1221,wrong,not wrong,0
+1222,not wrong,not wrong,1
+1223,wrong,not wrong,0
+1224,not wrong,wrong,0
+1225,not wrong,wrong,0
+1226,wrong,wrong,1
+1227,wrong,not wrong,0
+1228,not wrong,not wrong,1
+1229,wrong,not wrong,0
+1230,not wrong,not wrong,1
+1231,wrong,not wrong,0
+1232,not wrong,wrong,0
+1233,wrong,not wrong,0
+1234,not wrong,wrong,0
+1235,not wrong,wrong,0
+1236,wrong,not wrong,0
+1237,wrong,not wrong,0
+1238,not wrong,not wrong,1
+1239,wrong,not wrong,0
+1240,not wrong,not wrong,1
+1241,wrong,not wrong,0
+1242,not wrong,not wrong,1
+1243,wrong,not wrong,0
+1244,not wrong,wrong,0
+1245,not wrong,wrong,0
+1246,wrong,not wrong,0
+1247,not wrong,not wrong,1
+1248,wrong,not wrong,0
+1249,wrong,not wrong,0
+1250,not wrong,not wrong,1
+1251,wrong,not wrong,0
+1252,not wrong,wrong,0
+1253,wrong,not wrong,0
+1254,not wrong,wrong,0
+1255,wrong,not wrong,0
+1256,not wrong,wrong,0
+1257,wrong,not wrong,0
+1258,not wrong,not wrong,1
+1259,wrong,wrong,1
+1260,not wrong,wrong,0
+1261,wrong,not wrong,0
+1262,not wrong,not wrong,1
+1263,wrong,not wrong,0
+1264,not wrong,wrong,0
+1265,wrong,wrong,1
+1266,not wrong,wrong,0
+1267,wrong,wrong,1
+1268,not wrong,wrong,0
+1269,not wrong,wrong,0
+1270,wrong,wrong,1
+1271,not wrong,not wrong,1
+1272,not wrong,wrong,0
+1273,wrong,not wrong,0
+1274,not wrong,wrong,0
+1275,wrong,not wrong,0
+1276,not wrong,not wrong,1
+1277,wrong,wrong,1
+1278,not wrong,not wrong,1
+1279,wrong,not wrong,0
+1280,not wrong,not wrong,1
+1281,wrong,not wrong,0
+1282,not wrong,not wrong,1
+1283,wrong,not wrong,0
+1284,not wrong,not wrong,1
+1285,wrong,not wrong,0
+1286,not wrong,not wrong,1
+1287,wrong,not wrong,0
+1288,not wrong,not wrong,1
+1289,wrong,not wrong,0
+1290,not wrong,wrong,0
+1291,wrong,not wrong,0
+1292,not wrong,wrong,0
+1293,wrong,wrong,1
+1294,not wrong,wrong,0
+1295,wrong,not wrong,0
+1296,not wrong,not wrong,1
+1297,wrong,not wrong,0
+1298,not wrong,wrong,0
+1299,wrong,not wrong,0
+1300,not wrong,not wrong,1
+1301,wrong,not wrong,0
+1302,not wrong,not wrong,1
+1303,not wrong,not wrong,1
+1304,wrong,not wrong,0
+1305,not wrong,wrong,0
+1306,wrong,wrong,1
+1307,wrong,not wrong,0
+1308,not wrong,not wrong,1
+1309,wrong,not wrong,0
+1310,not wrong,wrong,0
+1311,wrong,not wrong,0
+1312,not wrong,not wrong,1
+1313,wrong,wrong,1
+1314,not wrong,wrong,0
+1315,wrong,not wrong,0
+1316,not wrong,wrong,0
+1317,not wrong,wrong,0
+1318,wrong,wrong,1
+1319,not wrong,not wrong,1
+1320,wrong,wrong,1
+1321,not wrong,not wrong,1
+1322,wrong,not wrong,0
+1323,wrong,not wrong,0
+1324,not wrong,not wrong,1
+1325,wrong,wrong,1
+1326,not wrong,wrong,0
+1327,wrong,not wrong,0
+1328,not wrong,not wrong,1
+1329,wrong,not wrong,0
+1330,not wrong,not wrong,1
+1331,wrong,not wrong,0
+1332,not wrong,not wrong,1
+1333,wrong,not wrong,0
+1334,not wrong,not wrong,1
+1335,wrong,not wrong,0
+1336,not wrong,wrong,0
+1337,not wrong,not wrong,1
+1338,wrong,not wrong,0
+1339,wrong,not wrong,0
+1340,not wrong,not wrong,1
+1341,wrong,not wrong,0
+1342,not wrong,not wrong,1
+1343,wrong,wrong,1
+1344,not wrong,wrong,0
+1345,wrong,not wrong,0
+1346,not wrong,wrong,0
+1347,wrong,not wrong,0
+1348,not wrong,not wrong,1
+1349,wrong,not wrong,0
+1350,not wrong,not wrong,1
+1351,wrong,wrong,1
+1352,not wrong,wrong,0
+1353,wrong,not wrong,0
+1354,not wrong,not wrong,1
+1355,wrong,not wrong,0
+1356,not wrong,not wrong,1
+1357,wrong,not wrong,0
+1358,not wrong,not wrong,1
+1359,wrong,not wrong,0
+1360,not wrong,not wrong,1
+1361,wrong,not wrong,0
+1362,not wrong,not wrong,1
+1363,wrong,not wrong,0
+1364,wrong,not wrong,0
+1365,not wrong,not wrong,1
+1366,wrong,wrong,1
+1367,not wrong,wrong,0
+1368,wrong,not wrong,0
+1369,not wrong,wrong,0
+1370,wrong,wrong,1
+1371,not wrong,wrong,0
+1372,not wrong,wrong,0
+1373,wrong,wrong,1
+1374,not wrong,wrong,0
+1375,wrong,wrong,1
+1376,wrong,not wrong,0
+1377,not wrong,not wrong,1
+1378,wrong,wrong,1
+1379,not wrong,wrong,0
+1380,wrong,not wrong,0
+1381,not wrong,wrong,0
+1382,wrong,not wrong,0
+1383,not wrong,not wrong,1
+1384,wrong,not wrong,0
+1385,not wrong,wrong,0
+1386,wrong,not wrong,0
+1387,not wrong,wrong,0
+1388,wrong,not wrong,0
+1389,not wrong,wrong,0
+1390,wrong,not wrong,0
+1391,not wrong,not wrong,1
+1392,not wrong,not wrong,1
+1393,wrong,not wrong,0
+1394,wrong,not wrong,0
+1395,wrong,not wrong,0
+1396,wrong,not wrong,0
+1397,not wrong,not wrong,1
+1398,wrong,not wrong,0
+1399,not wrong,not wrong,1
+1400,wrong,wrong,1
+1401,not wrong,wrong,0
+1402,wrong,not wrong,0
+1403,not wrong,not wrong,1
+1404,wrong,not wrong,0
+1405,not wrong,wrong,0
+1406,wrong,wrong,1
+1407,not wrong,wrong,0
+1408,wrong,wrong,1
+1409,not wrong,wrong,0
+1410,wrong,not wrong,0
+1411,not wrong,wrong,0
+1412,wrong,wrong,1
+1413,wrong,not wrong,0
+1414,wrong,wrong,1
+1415,not wrong,wrong,0
+1416,wrong,not wrong,0
+1417,not wrong,not wrong,1
+1418,wrong,not wrong,0
+1419,not wrong,wrong,0
+1420,wrong,not wrong,0
+1421,not wrong,wrong,0
+1422,wrong,not wrong,0
+1423,not wrong,wrong,0
+1424,wrong,wrong,1
+1425,not wrong,not wrong,1
+1426,wrong,not wrong,0
+1427,not wrong,not wrong,1
+1428,wrong,not wrong,0
+1429,not wrong,not wrong,1
+1430,wrong,wrong,1
+1431,not wrong,wrong,0
+1432,wrong,not wrong,0
+1433,not wrong,not wrong,1
+1434,wrong,not wrong,0
+1435,not wrong,not wrong,1
+1436,wrong,not wrong,0
+1437,wrong,wrong,1
+1438,not wrong,wrong,0
+1439,wrong,not wrong,0
+1440,not wrong,not wrong,1
+1441,wrong,not wrong,0
+1442,not wrong,not wrong,1
+1443,wrong,not wrong,0
+1444,not wrong,wrong,0
+1445,wrong,not wrong,0
+1446,not wrong,not wrong,1
+1447,wrong,not wrong,0
+1448,not wrong,not wrong,1
+1449,wrong,not wrong,0
+1450,not wrong,not wrong,1
+1451,wrong,not wrong,0
+1452,not wrong,wrong,0
+1453,wrong,not wrong,0
+1454,not wrong,not wrong,1
+1455,wrong,wrong,1
+1456,not wrong,wrong,0
+1457,wrong,wrong,1
+1458,not wrong,wrong,0
+1459,wrong,not wrong,0
+1460,not wrong,not wrong,1
+1461,wrong,not wrong,0
+1462,not wrong,not wrong,1
+1463,wrong,not wrong,0
+1464,not wrong,not wrong,1
+1465,wrong,not wrong,0
+1466,not wrong,wrong,0
+1467,wrong,not wrong,0
+1468,not wrong,wrong,0
+1469,wrong,wrong,1
+1470,not wrong,not wrong,1
+1471,wrong,not wrong,0
+1472,not wrong,not wrong,1
+1473,wrong,not wrong,0
+1474,not wrong,wrong,0
+1475,wrong,wrong,1
+1476,not wrong,wrong,0
+1477,wrong,not wrong,0
+1478,not wrong,not wrong,1
+1479,wrong,not wrong,0
+1480,not wrong,wrong,0
+1481,wrong,not wrong,0
+1482,not wrong,not wrong,1
+1483,wrong,not wrong,0
+1484,not wrong,wrong,0
+1485,wrong,wrong,1
+1486,not wrong,wrong,0
+1487,not wrong,wrong,0
+1488,not wrong,not wrong,1
+1489,wrong,not wrong,0
+1490,wrong,not wrong,0
+1491,not wrong,wrong,0
+1492,wrong,not wrong,0
+1493,not wrong,not wrong,1
+1494,wrong,not wrong,0
+1495,not wrong,not wrong,1
+1496,wrong,not wrong,0
+1497,not wrong,not wrong,1
+1498,wrong,not wrong,0
+1499,wrong,not wrong,0
+1500,not wrong,not wrong,1
+1501,wrong,not wrong,0
+1502,not wrong,wrong,0
+1503,wrong,not wrong,0
+1504,not wrong,wrong,0
+1505,wrong,not wrong,0
+1506,not wrong,not wrong,1
+1507,wrong,not wrong,0
+1508,not wrong,wrong,0
+1509,wrong,wrong,1
+1510,not wrong,not wrong,1
+1511,wrong,not wrong,0
+1512,wrong,not wrong,0
+1513,not wrong,wrong,0
+1514,wrong,wrong,1
+1515,wrong,not wrong,0
+1516,not wrong,not wrong,1
+1517,wrong,not wrong,0
+1518,not wrong,wrong,0
+1519,wrong,not wrong,0
+1520,wrong,wrong,1
+1521,not wrong,wrong,0
+1522,wrong,not wrong,0
+1523,not wrong,wrong,0
+1524,not wrong,not wrong,1
+1525,wrong,not wrong,0
+1526,not wrong,wrong,0
+1527,wrong,not wrong,0
+1528,not wrong,not wrong,1
+1529,wrong,not wrong,0
+1530,not wrong,not wrong,1
+1531,wrong,not wrong,0
+1532,not wrong,wrong,0
+1533,wrong,not wrong,0
+1534,not wrong,wrong,0
+1535,wrong,not wrong,0
+1536,not wrong,not wrong,1
+1537,wrong,not wrong,0
+1538,wrong,not wrong,0
+1539,not wrong,not wrong,1
+1540,wrong,not wrong,0
+1541,not wrong,not wrong,1
+1542,wrong,wrong,1
+1543,not wrong,wrong,0
+1544,wrong,wrong,1
+1545,not wrong,wrong,0
+1546,wrong,wrong,1
+1547,not wrong,wrong,0
+1548,wrong,not wrong,0
+1549,not wrong,wrong,0
+1550,wrong,not wrong,0
+1551,not wrong,wrong,0
+1552,wrong,not wrong,0
+1553,not wrong,not wrong,1
+1554,wrong,wrong,1
+1555,not wrong,wrong,0
+1556,wrong,not wrong,0
+1557,not wrong,wrong,0
+1558,wrong,not wrong,0
+1559,not wrong,not wrong,1
+1560,wrong,not wrong,0
+1561,wrong,wrong,1
+1562,not wrong,wrong,0
+1563,wrong,not wrong,0
+1564,not wrong,wrong,0
+1565,wrong,not wrong,0
+1566,not wrong,not wrong,1
+1567,wrong,not wrong,0
+1568,not wrong,not wrong,1
+1569,wrong,not wrong,0
+1570,not wrong,not wrong,1
+1571,wrong,not wrong,0
+1572,not wrong,not wrong,1
+1573,not wrong,wrong,0
+1574,wrong,not wrong,0
+1575,not wrong,wrong,0
+1576,wrong,not wrong,0
+1577,not wrong,not wrong,1
+1578,wrong,not wrong,0
+1579,not wrong,not wrong,1
+1580,wrong,wrong,1
+1581,not wrong,wrong,0
+1582,wrong,wrong,1
+1583,not wrong,not wrong,1
+1584,wrong,not wrong,0
+1585,not wrong,not wrong,1
+1586,wrong,not wrong,0
+1587,not wrong,not wrong,1
+1588,wrong,not wrong,0
+1589,not wrong,wrong,0
+1590,wrong,wrong,1
+1591,not wrong,not wrong,1
+1592,wrong,not wrong,0
+1593,wrong,not wrong,0
+1594,wrong,not wrong,0
+1595,not wrong,not wrong,1
+1596,not wrong,not wrong,1
+1597,wrong,not wrong,0
+1598,wrong,not wrong,0
+1599,not wrong,not wrong,1
+1600,wrong,not wrong,0
+1601,not wrong,wrong,0
+1602,wrong,not wrong,0
+1603,not wrong,not wrong,1
+1604,wrong,not wrong,0
+1605,not wrong,not wrong,1
+1606,wrong,wrong,1
+1607,not wrong,not wrong,1
+1608,wrong,not wrong,0
+1609,not wrong,not wrong,1
+1610,wrong,not wrong,0
+1611,not wrong,not wrong,1
+1612,wrong,not wrong,0
+1613,not wrong,not wrong,1
+1614,wrong,not wrong,0
+1615,not wrong,wrong,0
+1616,wrong,not wrong,0
+1617,wrong,not wrong,0
+1618,not wrong,not wrong,1
+1619,wrong,not wrong,0
+1620,not wrong,not wrong,1
+1621,wrong,wrong,1
+1622,not wrong,not wrong,1
+1623,wrong,not wrong,0
+1624,not wrong,not wrong,1
+1625,wrong,wrong,1
+1626,not wrong,not wrong,1
+1627,wrong,not wrong,0
+1628,not wrong,not wrong,1
+1629,wrong,not wrong,0
+1630,not wrong,not wrong,1
+1631,not wrong,wrong,0
+1632,wrong,not wrong,0
+1633,not wrong,wrong,0
+1634,wrong,not wrong,0
+1635,not wrong,not wrong,1
+1636,wrong,not wrong,0
+1637,not wrong,not wrong,1
+1638,wrong,not wrong,0
+1639,not wrong,not wrong,1
+1640,wrong,wrong,1
+1641,not wrong,wrong,0
+1642,wrong,wrong,1
+1643,not wrong,not wrong,1
+1644,wrong,not wrong,0
+1645,wrong,not wrong,0
+1646,not wrong,not wrong,1
+1647,wrong,not wrong,0
+1648,not wrong,not wrong,1
+1649,wrong,not wrong,0
+1650,not wrong,not wrong,1
+1651,wrong,not wrong,0
+1652,not wrong,not wrong,1
+1653,wrong,not wrong,0
+1654,not wrong,wrong,0
+1655,wrong,wrong,1
+1656,not wrong,wrong,0
+1657,wrong,not wrong,0
+1658,not wrong,wrong,0
+1659,wrong,not wrong,0
+1660,not wrong,not wrong,1
+1661,wrong,wrong,1
+1662,not wrong,wrong,0
+1663,wrong,not wrong,0
+1664,not wrong,wrong,0
+1665,wrong,not wrong,0
+1666,not wrong,not wrong,1
+1667,wrong,not wrong,0
+1668,not wrong,not wrong,1
+1669,not wrong,wrong,0
+1670,wrong,not wrong,0
+1671,wrong,not wrong,0
+1672,not wrong,not wrong,1
+1673,wrong,wrong,1
+1674,not wrong,not wrong,1
+1675,not wrong,not wrong,1
+1676,wrong,not wrong,0
+1677,wrong,not wrong,0
+1678,not wrong,wrong,0
+1679,wrong,wrong,1
+1680,not wrong,wrong,0
+1681,wrong,not wrong,0
+1682,not wrong,wrong,0
+1683,wrong,not wrong,0
+1684,not wrong,not wrong,1
+1685,wrong,wrong,1
+1686,not wrong,wrong,0
+1687,wrong,not wrong,0
+1688,wrong,not wrong,0
+1689,not wrong,not wrong,1
+1690,not wrong,not wrong,1
+1691,wrong,not wrong,0
+1692,wrong,not wrong,0
+1693,not wrong,not wrong,1
+1694,not wrong,wrong,0
+1695,wrong,wrong,1
+1696,wrong,wrong,1
+1697,wrong,not wrong,0
+1698,wrong,not wrong,0
+1699,not wrong,wrong,0
+1700,wrong,wrong,1
+1701,not wrong,not wrong,1
+1702,wrong,not wrong,0
+1703,not wrong,not wrong,1
+1704,wrong,not wrong,0
+1705,wrong,not wrong,0
+1706,wrong,not wrong,0
+1707,wrong,not wrong,0
+1708,wrong,not wrong,0
+1709,wrong,not wrong,0
+1710,wrong,wrong,1
+1711,not wrong,not wrong,1
+1712,wrong,not wrong,0
+1713,not wrong,not wrong,1
+1714,wrong,wrong,1
+1715,wrong,not wrong,0
+1716,wrong,not wrong,0
+1717,wrong,wrong,1
+1718,wrong,not wrong,0
+1719,wrong,not wrong,0
+1720,not wrong,not wrong,1
+1721,not wrong,wrong,0
+1722,not wrong,wrong,0
+1723,not wrong,not wrong,1
+1724,not wrong,not wrong,1
+1725,wrong,not wrong,0
+1726,not wrong,not wrong,1
+1727,wrong,not wrong,0
+1728,not wrong,wrong,0
+1729,wrong,wrong,1
+1730,not wrong,wrong,0
+1731,not wrong,not wrong,1
+1732,wrong,wrong,1
+1733,not wrong,wrong,0
+1734,not wrong,not wrong,1
+1735,wrong,wrong,1
+1736,wrong,wrong,1
+1737,not wrong,not wrong,1
+1738,not wrong,not wrong,1
+1739,wrong,not wrong,0
+1740,wrong,not wrong,0
+1741,not wrong,not wrong,1
+1742,not wrong,not wrong,1
+1743,wrong,not wrong,0
+1744,not wrong,not wrong,1
+1745,not wrong,not wrong,1
+1746,not wrong,not wrong,1
+1747,wrong,not wrong,0
+1748,not wrong,not wrong,1
+1749,wrong,not wrong,0
+1750,wrong,not wrong,0
+1751,not wrong,not wrong,1
+1752,wrong,wrong,1
+1753,not wrong,not wrong,1
+1754,wrong,not wrong,0
+1755,wrong,not wrong,0
+1756,not wrong,not wrong,1
+1757,not wrong,not wrong,1
+1758,not wrong,wrong,0
+1759,wrong,not wrong,0
+1760,wrong,not wrong,0
+1761,wrong,not wrong,0
+1762,wrong,wrong,1
+1763,wrong,not wrong,0
+1764,not wrong,not wrong,1
+1765,wrong,not wrong,0
+1766,wrong,not wrong,0
+1767,wrong,not wrong,0
+1768,not wrong,not wrong,1
+1769,wrong,not wrong,0
+1770,not wrong,wrong,0
+1771,not wrong,not wrong,1
+1772,not wrong,not wrong,1
+1773,wrong,not wrong,0
+1774,wrong,wrong,1
+1775,wrong,not wrong,0
+1776,not wrong,wrong,0
+1777,wrong,not wrong,0
+1778,not wrong,not wrong,1
+1779,not wrong,wrong,0
+1780,not wrong,not wrong,1
+1781,wrong,not wrong,0
+1782,wrong,not wrong,0
+1783,not wrong,not wrong,1
+1784,not wrong,not wrong,1
+1785,not wrong,not wrong,1
+1786,wrong,not wrong,0
+1787,not wrong,not wrong,1
+1788,not wrong,not wrong,1
+1789,wrong,not wrong,0
+1790,not wrong,not wrong,1
+1791,wrong,not wrong,0
+1792,not wrong,not wrong,1
+1793,wrong,wrong,1
+1794,not wrong,not wrong,1
+1795,not wrong,not wrong,1
+1796,not wrong,not wrong,1
+1797,wrong,not wrong,0
+1798,not wrong,wrong,0
+1799,wrong,not wrong,0
+1800,wrong,not wrong,0
+1801,not wrong,not wrong,1
+1802,wrong,not wrong,0
+1803,not wrong,not wrong,1
+1804,wrong,not wrong,0
+1805,wrong,wrong,1
+1806,wrong,not wrong,0
+1807,not wrong,not wrong,1
+1808,not wrong,not wrong,1
+1809,not wrong,not wrong,1
+1810,wrong,not wrong,0
+1811,wrong,not wrong,0
+1812,wrong,not wrong,0
+1813,not wrong,not wrong,1
+1814,not wrong,not wrong,1
+1815,not wrong,not wrong,1
+1816,not wrong,wrong,0
+1817,wrong,wrong,1
+1818,not wrong,not wrong,1
+1819,not wrong,not wrong,1
+1820,wrong,not wrong,0
+1821,wrong,not wrong,0
+1822,not wrong,not wrong,1
+1823,not wrong,not wrong,1
+1824,not wrong,wrong,0
+1825,not wrong,not wrong,1
+1826,wrong,not wrong,0
+1827,wrong,not wrong,0
+1828,not wrong,not wrong,1
+1829,not wrong,not wrong,1
+1830,not wrong,not wrong,1
+1831,wrong,not wrong,0
+1832,not wrong,not wrong,1
+1833,not wrong,wrong,0
+1834,wrong,not wrong,0
+1835,wrong,not wrong,0
+1836,wrong,not wrong,0
+1837,not wrong,wrong,0
+1838,not wrong,not wrong,1
+1839,not wrong,not wrong,1
+1840,not wrong,not wrong,1
+1841,not wrong,wrong,0
+1842,not wrong,wrong,0
+1843,not wrong,wrong,0
+1844,wrong,wrong,1
+1845,not wrong,not wrong,1
+1846,not wrong,not wrong,1
+1847,not wrong,not wrong,1
+1848,not wrong,not wrong,1
+1849,wrong,wrong,1
+1850,not wrong,not wrong,1
+1851,wrong,not wrong,0
+1852,wrong,not wrong,0
+1853,not wrong,not wrong,1
+1854,wrong,not wrong,0
+1855,not wrong,not wrong,1
+1856,not wrong,not wrong,1
+1857,wrong,not wrong,0
+1858,not wrong,not wrong,1
+1859,wrong,wrong,1
+1860,wrong,not wrong,0
+1861,not wrong,not wrong,1
+1862,not wrong,not wrong,1
+1863,not wrong,wrong,0
+1864,wrong,not wrong,0
+1865,wrong,not wrong,0
+1866,not wrong,not wrong,1
+1867,wrong,not wrong,0
+1868,wrong,wrong,1
+1869,not wrong,wrong,0
+1870,not wrong,not wrong,1
+1871,wrong,not wrong,0
+1872,not wrong,not wrong,1
+1873,not wrong,not wrong,1
+1874,not wrong,not wrong,1
+1875,wrong,wrong,1
+1876,wrong,not wrong,0
+1877,not wrong,not wrong,1
+1878,not wrong,not wrong,1
+1879,not wrong,not wrong,1
+1880,not wrong,not wrong,1
+1881,not wrong,not wrong,1
+1882,wrong,not wrong,0
+1883,wrong,not wrong,0
+1884,not wrong,not wrong,1
+1885,not wrong,not wrong,1
+1886,wrong,not wrong,0
+1887,wrong,not wrong,0
+1888,wrong,not wrong,0
+1889,not wrong,not wrong,1
+1890,wrong,not wrong,0
+1891,wrong,not wrong,0
+1892,not wrong,not wrong,1
+1893,not wrong,not wrong,1
+1894,wrong,wrong,1
+1895,not wrong,not wrong,1
+1896,not wrong,not wrong,1
+1897,wrong,not wrong,0
+1898,not wrong,not wrong,1
+1899,wrong,not wrong,0
+1900,wrong,not wrong,0
+1901,not wrong,not wrong,1
+1902,not wrong,wrong,0
+1903,wrong,not wrong,0
+1904,wrong,not wrong,0
+1905,not wrong,not wrong,1
+1906,wrong,not wrong,0
+1907,not wrong,wrong,0
+1908,not wrong,not wrong,1
+1909,wrong,not wrong,0
+1910,wrong,not wrong,0
+1911,wrong,not wrong,0
+1912,not wrong,not wrong,1
+1913,not wrong,not wrong,1
+1914,wrong,not wrong,0
+1915,not wrong,not wrong,1
+1916,not wrong,not wrong,1
+1917,not wrong,not wrong,1
+1918,wrong,not wrong,0
+1919,not wrong,not wrong,1
+1920,wrong,not wrong,0
+1921,wrong,not wrong,0
+1922,not wrong,wrong,0
+1923,not wrong,not wrong,1
+1924,not wrong,not wrong,1
+1925,not wrong,not wrong,1
+1926,wrong,not wrong,0
+1927,wrong,wrong,1
+1928,not wrong,not wrong,1
+1929,wrong,not wrong,0
+1930,wrong,not wrong,0
+1931,wrong,not wrong,0
+1932,wrong,not wrong,0
+1933,not wrong,not wrong,1
+1934,not wrong,not wrong,1
+1935,not wrong,wrong,0
+1936,wrong,not wrong,0
+1937,not wrong,not wrong,1
+1938,wrong,not wrong,0
+1939,not wrong,not wrong,1
+1940,wrong,not wrong,0
+1941,wrong,not wrong,0
+1942,not wrong,not wrong,1
+1943,not wrong,not wrong,1
+1944,not wrong,not wrong,1
+1945,not wrong,not wrong,1
+1946,not wrong,not wrong,1
+1947,not wrong,not wrong,1
+1948,not wrong,not wrong,1
+1949,not wrong,not wrong,1
+1950,not wrong,not wrong,1
+1951,not wrong,not wrong,1
+1952,wrong,not wrong,0
+1953,wrong,not wrong,0
+1954,not wrong,wrong,0
+1955,wrong,wrong,1
+1956,wrong,not wrong,0
+1957,not wrong,not wrong,1
+1958,wrong,wrong,1
+1959,wrong,not wrong,0
+1960,wrong,not wrong,0
+1961,wrong,wrong,1
+1962,not wrong,not wrong,1
+1963,not wrong,wrong,0
+1964,not wrong,not wrong,1
+1965,not wrong,not wrong,1
+1966,not wrong,not wrong,1
+1967,wrong,not wrong,0
+1968,not wrong,not wrong,1
+1969,not wrong,not wrong,1
+1970,not wrong,not wrong,1
+1971,not wrong,not wrong,1
+1972,not wrong,wrong,0
+1973,wrong,not wrong,0
+1974,not wrong,not wrong,1
+1975,not wrong,not wrong,1
+1976,not wrong,not wrong,1
+1977,not wrong,not wrong,1
+1978,wrong,not wrong,0
+1979,not wrong,not wrong,1
+1980,not wrong,wrong,0
+1981,wrong,not wrong,0
+1982,not wrong,wrong,0
+1983,not wrong,not wrong,1
+1984,not wrong,not wrong,1
+1985,not wrong,not wrong,1
+1986,wrong,not wrong,0
+1987,not wrong,not wrong,1
+1988,not wrong,not wrong,1
+1989,not wrong,wrong,0
+1990,not wrong,not wrong,1
+1991,not wrong,not wrong,1
+1992,wrong,not wrong,0
+1993,not wrong,not wrong,1
+1994,wrong,not wrong,0
+1995,wrong,not wrong,0
+1996,wrong,wrong,1
+1997,wrong,wrong,1
+1998,wrong,not wrong,0
+1999,wrong,not wrong,0
+2000,wrong,not wrong,0
+2001,not wrong,not wrong,1
+2002,wrong,wrong,1
+2003,wrong,not wrong,0
+2004,not wrong,not wrong,1
+2005,wrong,wrong,1
+2006,not wrong,not wrong,1
+2007,not wrong,not wrong,1
+2008,not wrong,wrong,0
+2009,not wrong,not wrong,1
+2010,not wrong,wrong,0
+2011,not wrong,not wrong,1
+2012,not wrong,not wrong,1
+2013,not wrong,not wrong,1
+2014,not wrong,not wrong,1
+2015,not wrong,not wrong,1
+2016,not wrong,not wrong,1
+2017,not wrong,not wrong,1
+2018,not wrong,not wrong,1
+2019,wrong,not wrong,0
+2020,wrong,wrong,1
+2021,wrong,not wrong,0
+2022,wrong,not wrong,0
+2023,wrong,not wrong,0
+2024,not wrong,not wrong,1
+2025,wrong,not wrong,0
+2026,not wrong,not wrong,1
+2027,wrong,wrong,1
+2028,wrong,not wrong,0
+2029,wrong,not wrong,0
+2030,wrong,not wrong,0
+2031,not wrong,wrong,0
+2032,not wrong,not wrong,1
+2033,wrong,not wrong,0
+2034,wrong,not wrong,0
+2035,not wrong,not wrong,1
+2036,wrong,not wrong,0
+2037,wrong,not wrong,0
+2038,wrong,not wrong,0
+2039,not wrong,not wrong,1
+2040,wrong,not wrong,0
+2041,not wrong,not wrong,1
+2042,not wrong,not wrong,1
+2043,not wrong,wrong,0
+2044,not wrong,not wrong,1
+2045,wrong,not wrong,0
+2046,not wrong,not wrong,1
+2047,wrong,not wrong,0
+2048,wrong,not wrong,0
+2049,not wrong,not wrong,1
+2050,wrong,not wrong,0
+2051,not wrong,not wrong,1
+2052,not wrong,wrong,0
+2053,not wrong,not wrong,1
+2054,wrong,not wrong,0
+2055,wrong,wrong,1
+2056,not wrong,not wrong,1
+2057,wrong,not wrong,0
+2058,not wrong,not wrong,1
+2059,wrong,not wrong,0
+2060,wrong,not wrong,0
+2061,not wrong,not wrong,1
+2062,wrong,not wrong,0
+2063,wrong,not wrong,0
+2064,not wrong,wrong,0
+2065,not wrong,wrong,0
+2066,wrong,not wrong,0
+2067,wrong,not wrong,0
+2068,wrong,not wrong,0
+2069,not wrong,not wrong,1
+2070,wrong,wrong,1
+2071,not wrong,not wrong,1
+2072,not wrong,not wrong,1
+2073,not wrong,not wrong,1
+2074,not wrong,wrong,0
+2075,not wrong,not wrong,1
+2076,not wrong,not wrong,1
+2077,wrong,not wrong,0
+2078,not wrong,not wrong,1
+2079,not wrong,not wrong,1
+2080,not wrong,not wrong,1
+2081,not wrong,wrong,0
+2082,not wrong,not wrong,1
+2083,not wrong,not wrong,1
+2084,wrong,not wrong,0
+2085,not wrong,wrong,0
+2086,wrong,not wrong,0
+2087,not wrong,wrong,0
+2088,not wrong,wrong,0
+2089,wrong,not wrong,0
+2090,wrong,not wrong,0
+2091,not wrong,not wrong,1
+2092,not wrong,not wrong,1
+2093,not wrong,not wrong,1
+2094,not wrong,not wrong,1
+2095,wrong,not wrong,0
+2096,wrong,not wrong,0
+2097,wrong,not wrong,0
+2098,not wrong,not wrong,1
+2099,not wrong,not wrong,1
+2100,not wrong,not wrong,1
+2101,wrong,not wrong,0
+2102,not wrong,wrong,0
+2103,not wrong,not wrong,1
+2104,wrong,not wrong,0
+2105,not wrong,not wrong,1
+2106,not wrong,not wrong,1
+2107,not wrong,wrong,0
+2108,not wrong,not wrong,1
+2109,not wrong,not wrong,1
+2110,not wrong,not wrong,1
+2111,wrong,wrong,1
+2112,wrong,not wrong,0
+2113,not wrong,not wrong,1
+2114,not wrong,not wrong,1
+2115,not wrong,not wrong,1
+2116,wrong,not wrong,0
+2117,not wrong,wrong,0
+2118,not wrong,wrong,0
+2119,not wrong,not wrong,1
+2120,wrong,not wrong,0
+2121,wrong,wrong,1
+2122,not wrong,not wrong,1
+2123,not wrong,not wrong,1
+2124,wrong,wrong,1
+2125,wrong,not wrong,0
+2126,not wrong,not wrong,1
+2127,wrong,not wrong,0
+2128,wrong,not wrong,0
+2129,not wrong,not wrong,1
+2130,wrong,not wrong,0
+2131,not wrong,not wrong,1
+2132,wrong,not wrong,0
+2133,not wrong,not wrong,1
+2134,wrong,not wrong,0
+2135,not wrong,not wrong,1
+2136,wrong,not wrong,0
+2137,not wrong,wrong,0
+2138,wrong,wrong,1
+2139,wrong,not wrong,0
+2140,not wrong,wrong,0
+2141,wrong,not wrong,0
+2142,not wrong,not wrong,1
+2143,wrong,not wrong,0
+2144,not wrong,not wrong,1
+2145,not wrong,not wrong,1
+2146,not wrong,not wrong,1
+2147,not wrong,not wrong,1
+2148,not wrong,not wrong,1
+2149,wrong,not wrong,0
+2150,not wrong,not wrong,1
+2151,not wrong,not wrong,1
+2152,not wrong,not wrong,1
+2153,wrong,not wrong,0
+2154,not wrong,not wrong,1
+2155,wrong,not wrong,0
+2156,not wrong,not wrong,1
+2157,not wrong,not wrong,1
+2158,not wrong,not wrong,1
+2159,wrong,not wrong,0
+2160,wrong,not wrong,0
+2161,not wrong,not wrong,1
+2162,not wrong,not wrong,1
+2163,not wrong,wrong,0
+2164,not wrong,not wrong,1
+2165,wrong,not wrong,0
+2166,wrong,not wrong,0
+2167,wrong,not wrong,0
+2168,wrong,not wrong,0
+2169,wrong,not wrong,0
+2170,not wrong,not wrong,1
+2171,not wrong,not wrong,1
+2172,not wrong,wrong,0
+2173,not wrong,not wrong,1
+2174,not wrong,not wrong,1
+2175,wrong,not wrong,0
+2176,not wrong,not wrong,1
+2177,wrong,not wrong,0
+2178,wrong,not wrong,0
+2179,not wrong,not wrong,1
+2180,not wrong,not wrong,1
+2181,wrong,wrong,1
+2182,not wrong,not wrong,1
+2183,wrong,not wrong,0
+2184,not wrong,not wrong,1
+2185,not wrong,not wrong,1
+2186,not wrong,not wrong,1
+2187,not wrong,wrong,0
+2188,not wrong,not wrong,1
+2189,not wrong,wrong,0
+2190,not wrong,wrong,0
+2191,wrong,not wrong,0
+2192,not wrong,not wrong,1
+2193,not wrong,not wrong,1
+2194,not wrong,wrong,0
+2195,not wrong,not wrong,1
+2196,wrong,not wrong,0
+2197,wrong,not wrong,0
+2198,wrong,not wrong,0
+2199,not wrong,not wrong,1
+2200,wrong,not wrong,0
+2201,wrong,not wrong,0
+2202,wrong,not wrong,0
+2203,not wrong,not wrong,1
+2204,wrong,not wrong,0
+2205,wrong,not wrong,0
+2206,not wrong,not wrong,1
+2207,wrong,not wrong,0
+2208,wrong,not wrong,0
+2209,not wrong,not wrong,1
+2210,wrong,wrong,1
+2211,not wrong,not wrong,1
+2212,wrong,not wrong,0
+2213,not wrong,not wrong,1
+2214,not wrong,not wrong,1
+2215,wrong,not wrong,0
+2216,not wrong,not wrong,1
+2217,not wrong,not wrong,1
+2218,not wrong,not wrong,1
+2219,not wrong,wrong,0
+2220,not wrong,not wrong,1
+2221,not wrong,not wrong,1
+2222,wrong,not wrong,0
+2223,not wrong,not wrong,1
+2224,not wrong,wrong,0
+2225,not wrong,wrong,0
+2226,not wrong,not wrong,1
+2227,wrong,not wrong,0
+2228,wrong,not wrong,0
+2229,wrong,not wrong,0
+2230,wrong,wrong,1
+2231,wrong,not wrong,0
+2232,not wrong,not wrong,1
+2233,not wrong,not wrong,1
+2234,wrong,not wrong,0
+2235,not wrong,not wrong,1
+2236,not wrong,not wrong,1
+2237,not wrong,not wrong,1
+2238,not wrong,not wrong,1
+2239,not wrong,not wrong,1
+2240,not wrong,not wrong,1
+2241,not wrong,not wrong,1
+2242,wrong,not wrong,0
+2243,wrong,not wrong,0
+2244,wrong,not wrong,0
+2245,not wrong,wrong,0
+2246,wrong,not wrong,0
+2247,wrong,wrong,1
+2248,not wrong,not wrong,1
+2249,not wrong,not wrong,1
+2250,wrong,not wrong,0
+2251,not wrong,not wrong,1
+2252,not wrong,not wrong,1
+2253,wrong,not wrong,0
+2254,not wrong,not wrong,1
+2255,not wrong,not wrong,1
+2256,not wrong,not wrong,1
+2257,wrong,wrong,1
+2258,not wrong,wrong,0
+2259,wrong,not wrong,0
+2260,not wrong,not wrong,1
+2261,not wrong,not wrong,1
+2262,not wrong,wrong,0
+2263,not wrong,not wrong,1
+2264,not wrong,not wrong,1
+2265,not wrong,not wrong,1
+2266,not wrong,not wrong,1
+2267,wrong,not wrong,0
+2268,not wrong,not wrong,1
+2269,not wrong,not wrong,1
+2270,not wrong,not wrong,1
+2271,not wrong,not wrong,1
+2272,not wrong,not wrong,1
+2273,not wrong,not wrong,1
+2274,not wrong,not wrong,1
+2275,not wrong,not wrong,1
+2276,wrong,not wrong,0
+2277,not wrong,wrong,0
+2278,not wrong,not wrong,1
+2279,wrong,wrong,1
+2280,wrong,not wrong,0
+2281,not wrong,not wrong,1
+2282,wrong,not wrong,0
+2283,not wrong,not wrong,1
+2284,wrong,wrong,1
+2285,wrong,not wrong,0
+2286,wrong,not wrong,0
+2287,not wrong,not wrong,1
+2288,wrong,not wrong,0
+2289,not wrong,wrong,0
+2290,not wrong,not wrong,1
+2291,not wrong,not wrong,1
+2292,wrong,not wrong,0
+2293,not wrong,not wrong,1
+2294,wrong,not wrong,0
+2295,wrong,not wrong,0
+2296,wrong,wrong,1
+2297,not wrong,not wrong,1
+2298,not wrong,wrong,0
+2299,not wrong,not wrong,1
+2300,wrong,not wrong,0
+2301,not wrong,not wrong,1
+2302,not wrong,not wrong,1
+2303,not wrong,not wrong,1
+2304,not wrong,not wrong,1
+2305,not wrong,not wrong,1
+2306,not wrong,not wrong,1
+2307,wrong,wrong,1
+2308,not wrong,not wrong,1
+2309,not wrong,not wrong,1
+2310,not wrong,not wrong,1
+2311,not wrong,wrong,0
+2312,wrong,not wrong,0
+2313,wrong,wrong,1
+2314,not wrong,not wrong,1
+2315,wrong,not wrong,0
+2316,wrong,not wrong,0
+2317,not wrong,not wrong,1
+2318,not wrong,not wrong,1
+2319,not wrong,not wrong,1
+2320,not wrong,not wrong,1
+2321,wrong,wrong,1
+2322,not wrong,not wrong,1
+2323,not wrong,wrong,0
+2324,wrong,not wrong,0
+2325,not wrong,not wrong,1
+2326,wrong,not wrong,0
+2327,not wrong,not wrong,1
+2328,wrong,not wrong,0
+2329,not wrong,not wrong,1
+2330,not wrong,not wrong,1
+2331,not wrong,not wrong,1
+2332,wrong,not wrong,0
+2333,not wrong,not wrong,1
+2334,wrong,not wrong,0
+2335,wrong,not wrong,0
+2336,not wrong,not wrong,1
+2337,not wrong,not wrong,1
+2338,wrong,not wrong,0
+2339,not wrong,not wrong,1
+2340,not wrong,not wrong,1
+2341,wrong,not wrong,0
+2342,not wrong,not wrong,1
+2343,wrong,not wrong,0
+2344,not wrong,not wrong,1
+2345,wrong,wrong,1
+2346,not wrong,not wrong,1
+2347,wrong,not wrong,0
+2348,not wrong,not wrong,1
+2349,not wrong,not wrong,1
+2350,wrong,not wrong,0
+2351,not wrong,not wrong,1
+2352,not wrong,not wrong,1
+2353,wrong,not wrong,0
+2354,wrong,not wrong,0
+2355,not wrong,wrong,0
+2356,not wrong,not wrong,1
+2357,not wrong,not wrong,1
+2358,not wrong,not wrong,1
+2359,not wrong,not wrong,1
+2360,not wrong,not wrong,1
+2361,not wrong,not wrong,1
+2362,wrong,not wrong,0
+2363,wrong,not wrong,0
+2364,not wrong,not wrong,1
+2365,wrong,not wrong,0
+2366,wrong,not wrong,0
+2367,not wrong,wrong,0
+2368,wrong,wrong,1
+2369,not wrong,not wrong,1
+2370,not wrong,not wrong,1
+2371,not wrong,not wrong,1
+2372,wrong,not wrong,0
+2373,wrong,not wrong,0
+2374,not wrong,not wrong,1
+2375,wrong,not wrong,0
+2376,not wrong,not wrong,1
+2377,not wrong,wrong,0
+2378,wrong,not wrong,0
+2379,not wrong,wrong,0
+2380,wrong,not wrong,0
+2381,not wrong,not wrong,1
+2382,wrong,not wrong,0
+2383,not wrong,not wrong,1
+2384,wrong,not wrong,0
+2385,not wrong,not wrong,1
+2386,not wrong,not wrong,1
+2387,not wrong,not wrong,1
+2388,not wrong,not wrong,1
+2389,wrong,not wrong,0
+2390,not wrong,not wrong,1
+2391,wrong,not wrong,0
+2392,wrong,not wrong,0
+2393,not wrong,not wrong,1
+2394,wrong,not wrong,0
+2395,wrong,not wrong,0
+2396,not wrong,not wrong,1
+2397,not wrong,not wrong,1
+2398,wrong,not wrong,0
+2399,wrong,not wrong,0
+2400,not wrong,not wrong,1
+2401,wrong,not wrong,0
+2402,not wrong,not wrong,1
+2403,not wrong,wrong,0
+2404,not wrong,wrong,0
+2405,wrong,not wrong,0
+2406,wrong,not wrong,0
+2407,not wrong,not wrong,1
+2408,not wrong,not wrong,1
+2409,wrong,not wrong,0
+2410,not wrong,not wrong,1
+2411,not wrong,wrong,0
+2412,not wrong,not wrong,1
+2413,not wrong,not wrong,1
+2414,wrong,not wrong,0
+2415,wrong,not wrong,0
+2416,wrong,not wrong,0
+2417,not wrong,not wrong,1
+2418,wrong,not wrong,0
+2419,not wrong,not wrong,1
+2420,not wrong,wrong,0
+2421,wrong,wrong,1
+2422,wrong,not wrong,0
+2423,not wrong,not wrong,1
+2424,not wrong,not wrong,1
+2425,wrong,not wrong,0
+2426,not wrong,not wrong,1
+2427,not wrong,not wrong,1
+2428,not wrong,not wrong,1
+2429,wrong,not wrong,0
+2430,not wrong,wrong,0
+2431,not wrong,not wrong,1
+2432,wrong,not wrong,0
+2433,not wrong,not wrong,1
+2434,not wrong,not wrong,1
+2435,not wrong,not wrong,1
+2436,not wrong,not wrong,1
+2437,wrong,wrong,1
+2438,not wrong,not wrong,1
+2439,wrong,not wrong,0
+2440,wrong,not wrong,0
+2441,not wrong,not wrong,1
+2442,not wrong,not wrong,1
+2443,not wrong,not wrong,1
+2444,not wrong,not wrong,1
+2445,not wrong,not wrong,1
+2446,not wrong,not wrong,1
+2447,wrong,not wrong,0
+2448,wrong,not wrong,0
+2449,not wrong,wrong,0
+2450,wrong,not wrong,0
+2451,not wrong,not wrong,1
+2452,not wrong,not wrong,1
+2453,not wrong,wrong,0
+2454,not wrong,not wrong,1
+2455,not wrong,not wrong,1
+2456,wrong,not wrong,0
+2457,not wrong,not wrong,1
+2458,not wrong,not wrong,1
+2459,not wrong,not wrong,1
+2460,not wrong,not wrong,1
+2461,not wrong,wrong,0
+2462,wrong,not wrong,0
+2463,not wrong,not wrong,1
+2464,not wrong,not wrong,1
+2465,wrong,not wrong,0
+2466,wrong,not wrong,0
+2467,not wrong,not wrong,1
+2468,wrong,not wrong,0
+2469,not wrong,wrong,0
+2470,not wrong,not wrong,1
+2471,not wrong,not wrong,1
+2472,wrong,not wrong,0
+2473,wrong,not wrong,0
+2474,not wrong,not wrong,1
+2475,not wrong,not wrong,1
+2476,wrong,not wrong,0
+2477,not wrong,not wrong,1
+2478,not wrong,not wrong,1
+2479,wrong,wrong,1
+2480,not wrong,not wrong,1
+2481,wrong,not wrong,0
+2482,wrong,not wrong,0
+2483,not wrong,not wrong,1
+2484,not wrong,not wrong,1
+2485,wrong,not wrong,0
+2486,not wrong,not wrong,1
+2487,not wrong,not wrong,1
+2488,not wrong,not wrong,1
+2489,wrong,not wrong,0
+2490,not wrong,not wrong,1
+2491,wrong,not wrong,0
+2492,wrong,not wrong,0
+2493,wrong,not wrong,0
+2494,wrong,not wrong,0
+2495,not wrong,not wrong,1
+2496,not wrong,wrong,0
+2497,wrong,not wrong,0
+2498,not wrong,not wrong,1
+2499,not wrong,not wrong,1
+2500,not wrong,not wrong,1
+2501,not wrong,not wrong,1
+2502,not wrong,not wrong,1
+2503,wrong,not wrong,0
+2504,wrong,not wrong,0
+2505,not wrong,not wrong,1
+2506,wrong,not wrong,0
+2507,wrong,not wrong,0
+2508,not wrong,wrong,0
+2509,not wrong,not wrong,1
+2510,wrong,not wrong,0
+2511,wrong,wrong,1
+2512,not wrong,not wrong,1
+2513,not wrong,wrong,0
+2514,not wrong,not wrong,1
+2515,wrong,not wrong,0
+2516,wrong,not wrong,0
+2517,wrong,not wrong,0
+2518,not wrong,not wrong,1
+2519,not wrong,not wrong,1
+2520,not wrong,not wrong,1
+2521,not wrong,not wrong,1
+2522,not wrong,not wrong,1
+2523,not wrong,wrong,0
+2524,not wrong,wrong,0
+2525,wrong,not wrong,0
+2526,not wrong,not wrong,1
+2527,not wrong,wrong,0
+2528,wrong,not wrong,0
+2529,not wrong,not wrong,1
+2530,not wrong,wrong,0
+2531,not wrong,not wrong,1
+2532,not wrong,wrong,0
+2533,not wrong,not wrong,1
+2534,not wrong,not wrong,1
+2535,not wrong,not wrong,1
+2536,not wrong,not wrong,1
+2537,wrong,not wrong,0
+2538,wrong,wrong,1
+2539,wrong,not wrong,0
+2540,not wrong,not wrong,1
+2541,wrong,not wrong,0
+2542,not wrong,not wrong,1
+2543,wrong,not wrong,0
+2544,not wrong,not wrong,1
+2545,wrong,not wrong,0
+2546,not wrong,wrong,0
+2547,wrong,not wrong,0
+2548,not wrong,not wrong,1
+2549,wrong,not wrong,0
+2550,wrong,not wrong,0
+2551,wrong,not wrong,0
+2552,not wrong,wrong,0
+2553,not wrong,not wrong,1
+2554,not wrong,not wrong,1
+2555,not wrong,not wrong,1
+2556,not wrong,not wrong,1
+2557,wrong,not wrong,0
+2558,not wrong,not wrong,1
+2559,wrong,not wrong,0
+2560,wrong,not wrong,0
+2561,wrong,not wrong,0
+2562,wrong,wrong,1
+2563,wrong,wrong,1
+2564,not wrong,not wrong,1
+2565,not wrong,not wrong,1
+2566,not wrong,not wrong,1
+2567,not wrong,wrong,0
+2568,wrong,not wrong,0
+2569,not wrong,not wrong,1
+2570,wrong,not wrong,0
+2571,wrong,not wrong,0
+2572,not wrong,wrong,0
+2573,wrong,wrong,1
+2574,not wrong,not wrong,1
+2575,not wrong,not wrong,1
+2576,not wrong,not wrong,1
+2577,wrong,not wrong,0
+2578,not wrong,not wrong,1
+2579,wrong,not wrong,0
+2580,not wrong,wrong,0
+2581,not wrong,not wrong,1
+2582,not wrong,not wrong,1
+2583,not wrong,not wrong,1
+2584,wrong,not wrong,0
+2585,wrong,not wrong,0
+2586,wrong,not wrong,0
+2587,not wrong,not wrong,1
+2588,not wrong,not wrong,1
+2589,wrong,not wrong,0
+2590,not wrong,not wrong,1
+2591,not wrong,wrong,0
+2592,wrong,not wrong,0
+2593,not wrong,not wrong,1
+2594,not wrong,not wrong,1
+2595,wrong,not wrong,0
+2596,wrong,wrong,1
+2597,wrong,not wrong,0
+2598,wrong,wrong,1
+2599,not wrong,wrong,0
+2600,not wrong,wrong,0
+2601,not wrong,not wrong,1
+2602,wrong,not wrong,0
+2603,wrong,not wrong,0
+2604,wrong,wrong,1
+2605,wrong,not wrong,0
+2606,wrong,not wrong,0
+2607,not wrong,not wrong,1
+2608,wrong,not wrong,0
+2609,wrong,wrong,1
+2610,not wrong,not wrong,1
+2611,wrong,not wrong,0
+2612,wrong,not wrong,0
+2613,wrong,not wrong,0
+2614,not wrong,not wrong,1
+2615,wrong,not wrong,0
+2616,not wrong,not wrong,1
+2617,not wrong,not wrong,1
+2618,not wrong,not wrong,1
+2619,wrong,not wrong,0
+2620,wrong,not wrong,0
+2621,not wrong,not wrong,1
+2622,not wrong,wrong,0
+2623,not wrong,not wrong,1
+2624,wrong,not wrong,0
+2625,not wrong,not wrong,1
+2626,not wrong,wrong,0
+2627,not wrong,not wrong,1
+2628,wrong,not wrong,0
+2629,wrong,not wrong,0
+2630,wrong,not wrong,0
+2631,not wrong,not wrong,1
+2632,not wrong,not wrong,1
+2633,not wrong,not wrong,1
+2634,wrong,wrong,1
+2635,not wrong,not wrong,1
+2636,wrong,not wrong,0
+2637,not wrong,not wrong,1
+2638,not wrong,not wrong,1
+2639,not wrong,not wrong,1
+2640,wrong,not wrong,0
+2641,wrong,not wrong,0
+2642,not wrong,not wrong,1
+2643,not wrong,not wrong,1
+2644,not wrong,not wrong,1
+2645,not wrong,not wrong,1
+2646,not wrong,not wrong,1
+2647,not wrong,not wrong,1
+2648,wrong,not wrong,0
+2649,not wrong,not wrong,1
+2650,not wrong,wrong,0
+2651,not wrong,not wrong,1
+2652,not wrong,not wrong,1
+2653,not wrong,not wrong,1
+2654,wrong,not wrong,0
+2655,not wrong,not wrong,1
+2656,not wrong,not wrong,1
+2657,not wrong,not wrong,1
+2658,wrong,not wrong,0
+2659,not wrong,not wrong,1
+2660,not wrong,not wrong,1
+2661,not wrong,wrong,0
+2662,wrong,not wrong,0
+2663,wrong,not wrong,0
+2664,wrong,not wrong,0
+2665,wrong,wrong,1
+2666,not wrong,not wrong,1
+2667,not wrong,not wrong,1
+2668,wrong,not wrong,0
+2669,not wrong,not wrong,1
+2670,wrong,wrong,1
+2671,not wrong,not wrong,1
+2672,not wrong,not wrong,1
+2673,not wrong,not wrong,1
+2674,not wrong,not wrong,1
+2675,not wrong,not wrong,1
+2676,wrong,not wrong,0
+2677,wrong,not wrong,0
+2678,not wrong,not wrong,1
+2679,not wrong,not wrong,1
+2680,wrong,not wrong,0
+2681,not wrong,not wrong,1
+2682,wrong,not wrong,0
+2683,wrong,not wrong,0
+2684,not wrong,wrong,0
+2685,wrong,not wrong,0
+2686,wrong,not wrong,0
+2687,not wrong,wrong,0
+2688,not wrong,not wrong,1
+2689,not wrong,not wrong,1
+2690,wrong,not wrong,0
+2691,wrong,wrong,1
+2692,not wrong,not wrong,1
+2693,not wrong,not wrong,1
+2694,not wrong,not wrong,1
+2695,not wrong,wrong,0
+2696,not wrong,not wrong,1
+2697,not wrong,not wrong,1
+2698,wrong,not wrong,0
+2699,not wrong,not wrong,1
+2700,wrong,not wrong,0
+2701,not wrong,wrong,0
+2702,not wrong,wrong,0
+2703,wrong,not wrong,0
+2704,not wrong,not wrong,1
+2705,not wrong,not wrong,1
+2706,not wrong,not wrong,1
+2707,not wrong,not wrong,1
+2708,wrong,not wrong,0
+2709,not wrong,not wrong,1
+2710,wrong,not wrong,0
+2711,wrong,not wrong,0
+2712,not wrong,not wrong,1
+2713,not wrong,not wrong,1
+2714,wrong,not wrong,0
+2715,not wrong,not wrong,1
+2716,wrong,not wrong,0
+2717,not wrong,not wrong,1
+2718,not wrong,not wrong,1
+2719,not wrong,not wrong,1
+2720,wrong,wrong,1
+2721,not wrong,not wrong,1
+2722,wrong,not wrong,0
+2723,not wrong,not wrong,1
+2724,not wrong,not wrong,1
+2725,wrong,not wrong,0
+2726,wrong,not wrong,0
+2727,not wrong,not wrong,1
+2728,not wrong,not wrong,1
+2729,wrong,not wrong,0
+2730,not wrong,not wrong,1
+2731,wrong,not wrong,0
+2732,not wrong,not wrong,1
+2733,not wrong,not wrong,1
+2734,not wrong,not wrong,1
+2735,not wrong,not wrong,1
+2736,not wrong,not wrong,1
+2737,not wrong,not wrong,1
+2738,wrong,not wrong,0
+2739,not wrong,not wrong,1
+2740,wrong,not wrong,0
+2741,not wrong,not wrong,1
+2742,wrong,not wrong,0
+2743,not wrong,not wrong,1
+2744,not wrong,not wrong,1
+2745,wrong,not wrong,0
+2746,not wrong,not wrong,1
+2747,not wrong,wrong,0
+2748,wrong,not wrong,0
+2749,not wrong,not wrong,1
+2750,wrong,not wrong,0
+2751,wrong,not wrong,0
+2752,not wrong,not wrong,1
+2753,wrong,not wrong,0
+2754,wrong,not wrong,0
+2755,wrong,not wrong,0
+2756,not wrong,not wrong,1
+2757,not wrong,not wrong,1
+2758,wrong,not wrong,0
+2759,not wrong,not wrong,1
+2760,not wrong,not wrong,1
+2761,not wrong,not wrong,1
+2762,wrong,not wrong,0
+2763,wrong,not wrong,0
+2764,not wrong,not wrong,1
+2765,wrong,not wrong,0
+2766,not wrong,not wrong,1
+2767,wrong,wrong,1
+2768,not wrong,not wrong,1
+2769,wrong,not wrong,0
+2770,not wrong,not wrong,1
+2771,wrong,not wrong,0
+2772,not wrong,not wrong,1
+2773,not wrong,not wrong,1
+2774,not wrong,not wrong,1
+2775,not wrong,not wrong,1
+2776,wrong,not wrong,0
+2777,not wrong,not wrong,1
+2778,not wrong,not wrong,1
+2779,not wrong,wrong,0
+2780,not wrong,not wrong,1
+2781,not wrong,not wrong,1
+2782,not wrong,not wrong,1
+2783,not wrong,wrong,0
+2784,not wrong,not wrong,1
+2785,wrong,not wrong,0
+2786,not wrong,not wrong,1
+2787,not wrong,not wrong,1
+2788,wrong,not wrong,0
+2789,wrong,wrong,1
+2790,not wrong,not wrong,1
+2791,wrong,not wrong,0
+2792,wrong,not wrong,0
+2793,not wrong,wrong,0
+2794,wrong,not wrong,0
+2795,not wrong,wrong,0
+2796,wrong,not wrong,0
+2797,not wrong,not wrong,1
+2798,not wrong,wrong,0
+2799,wrong,not wrong,0
+2800,wrong,not wrong,0
+2801,not wrong,not wrong,1
+2802,not wrong,not wrong,1
+2803,wrong,not wrong,0
+2804,not wrong,not wrong,1
+2805,not wrong,not wrong,1
+2806,wrong,not wrong,0
+2807,wrong,not wrong,0
+2808,wrong,not wrong,0
+2809,wrong,wrong,1
+2810,wrong,not wrong,0
+2811,wrong,not wrong,0
+2812,wrong,not wrong,0
+2813,wrong,wrong,1
+2814,wrong,not wrong,0
+2815,not wrong,not wrong,1
+2816,not wrong,not wrong,1
+2817,not wrong,wrong,0
+2818,wrong,not wrong,0
+2819,wrong,not wrong,0
+2820,not wrong,not wrong,1
+2821,not wrong,not wrong,1
+2822,not wrong,not wrong,1
+2823,not wrong,not wrong,1
+2824,not wrong,not wrong,1
+2825,wrong,wrong,1
+2826,not wrong,wrong,0
+2827,wrong,not wrong,0
+2828,wrong,wrong,1
+2829,not wrong,wrong,0
+2830,not wrong,not wrong,1
+2831,wrong,not wrong,0
+2832,wrong,wrong,1
+2833,wrong,not wrong,0
+2834,wrong,not wrong,0
+2835,not wrong,wrong,0
+2836,wrong,not wrong,0
+2837,not wrong,not wrong,1
+2838,not wrong,not wrong,1
+2839,wrong,not wrong,0
+2840,wrong,not wrong,0
+2841,wrong,not wrong,0
+2842,wrong,not wrong,0
+2843,not wrong,wrong,0
+2844,not wrong,not wrong,1
+2845,wrong,not wrong,0
+2846,wrong,not wrong,0
+2847,wrong,not wrong,0
+2848,wrong,wrong,1
+2849,wrong,not wrong,0
+2850,not wrong,not wrong,1
+2851,not wrong,wrong,0
+2852,wrong,not wrong,0
+2853,not wrong,not wrong,1
+2854,wrong,not wrong,0
+2855,not wrong,not wrong,1
+2856,wrong,not wrong,0
+2857,not wrong,wrong,0
+2858,wrong,not wrong,0
+2859,wrong,not wrong,0
+2860,not wrong,wrong,0
+2861,wrong,not wrong,0
+2862,not wrong,not wrong,1
+2863,not wrong,not wrong,1
+2864,not wrong,not wrong,1
+2865,not wrong,not wrong,1
+2866,wrong,not wrong,0
+2867,not wrong,not wrong,1
+2868,wrong,not wrong,0
+2869,wrong,not wrong,0
+2870,not wrong,not wrong,1
+2871,not wrong,not wrong,1
+2872,not wrong,not wrong,1
+2873,wrong,not wrong,0
+2874,not wrong,not wrong,1
+2875,wrong,not wrong,0
+2876,wrong,not wrong,0
+2877,not wrong,not wrong,1
+2878,wrong,not wrong,0
+2879,not wrong,not wrong,1
+2880,wrong,not wrong,0
+2881,wrong,wrong,1
+2882,wrong,not wrong,0
+2883,wrong,not wrong,0
+2884,wrong,not wrong,0
+2885,wrong,wrong,1
+2886,wrong,not wrong,0
+2887,not wrong,wrong,0
+2888,not wrong,not wrong,1
+2889,wrong,not wrong,0
+2890,not wrong,not wrong,1
+2891,not wrong,not wrong,1
+2892,not wrong,not wrong,1
+2893,wrong,not wrong,0
+2894,wrong,not wrong,0
+2895,wrong,not wrong,0
+2896,not wrong,not wrong,1
+2897,wrong,not wrong,0
+2898,not wrong,not wrong,1
+2899,wrong,not wrong,0
+2900,not wrong,not wrong,1
+2901,not wrong,not wrong,1
+2902,wrong,wrong,1
+2903,not wrong,not wrong,1
+2904,not wrong,not wrong,1
+2905,not wrong,not wrong,1
+2906,not wrong,wrong,0
+2907,wrong,not wrong,0
+2908,not wrong,not wrong,1
+2909,wrong,wrong,1
+2910,wrong,not wrong,0
+2911,wrong,not wrong,0
+2912,not wrong,not wrong,1
+2913,not wrong,wrong,0
+2914,not wrong,wrong,0
+2915,wrong,not wrong,0
+2916,not wrong,not wrong,1
+2917,not wrong,not wrong,1
+2918,not wrong,wrong,0
+2919,wrong,wrong,1
+2920,not wrong,not wrong,1
+2921,not wrong,not wrong,1
+2922,wrong,not wrong,0
+2923,wrong,not wrong,0
+2924,not wrong,not wrong,1
+2925,wrong,not wrong,0
+2926,not wrong,not wrong,1
+2927,wrong,not wrong,0
+2928,not wrong,not wrong,1
+2929,wrong,wrong,1
+2930,not wrong,not wrong,1
+2931,wrong,not wrong,0
+2932,not wrong,not wrong,1
+2933,not wrong,not wrong,1
+2934,not wrong,not wrong,1
+2935,not wrong,not wrong,1
+2936,not wrong,wrong,0
+2937,not wrong,not wrong,1
+2938,not wrong,not wrong,1
+2939,not wrong,not wrong,1
+2940,wrong,not wrong,0
+2941,not wrong,not wrong,1
+2942,wrong,wrong,1
+2943,wrong,not wrong,0
+2944,wrong,wrong,1
+2945,wrong,not wrong,0
+2946,not wrong,not wrong,1
+2947,not wrong,wrong,0
+2948,not wrong,not wrong,1
+2949,not wrong,wrong,0
+2950,wrong,not wrong,0
+2951,not wrong,wrong,0
+2952,not wrong,not wrong,1
+2953,not wrong,not wrong,1
+2954,wrong,not wrong,0
+2955,not wrong,not wrong,1
+2956,wrong,not wrong,0
+2957,not wrong,not wrong,1
+2958,wrong,not wrong,0
+2959,not wrong,not wrong,1
+2960,not wrong,not wrong,1
+2961,wrong,wrong,1
+2962,not wrong,not wrong,1
+2963,not wrong,not wrong,1
+2964,not wrong,not wrong,1
+2965,wrong,not wrong,0
+2966,not wrong,not wrong,1
+2967,wrong,not wrong,0
+2968,not wrong,not wrong,1
+2969,not wrong,not wrong,1
+2970,wrong,not wrong,0
+2971,wrong,not wrong,0
+2972,wrong,not wrong,0
+2973,not wrong,not wrong,1
+2974,not wrong,not wrong,1
+2975,wrong,not wrong,0
+2976,wrong,not wrong,0
+2977,not wrong,wrong,0
+2978,not wrong,not wrong,1
+2979,wrong,not wrong,0
+2980,wrong,wrong,1
+2981,not wrong,not wrong,1
+2982,not wrong,wrong,0
+2983,wrong,wrong,1
+2984,wrong,not wrong,0
+2985,wrong,not wrong,0
+2986,not wrong,not wrong,1
+2987,not wrong,not wrong,1
+2988,wrong,not wrong,0
+2989,wrong,not wrong,0
+2990,not wrong,not wrong,1
+2991,wrong,not wrong,0
+2992,not wrong,not wrong,1
+2993,wrong,not wrong,0
+2994,wrong,not wrong,0
+2995,wrong,not wrong,0
+2996,not wrong,not wrong,1
+2997,wrong,not wrong,0
+2998,not wrong,not wrong,1
+2999,not wrong,not wrong,1
+3000,wrong,not wrong,0
+3001,not wrong,not wrong,1
+3002,wrong,not wrong,0
+3003,not wrong,not wrong,1
+3004,not wrong,not wrong,1
+3005,not wrong,not wrong,1
+3006,not wrong,not wrong,1
+3007,not wrong,not wrong,1
+3008,wrong,wrong,1
+3009,wrong,not wrong,0
+3010,wrong,not wrong,0
+3011,not wrong,not wrong,1
+3012,not wrong,not wrong,1
+3013,wrong,wrong,1
+3014,wrong,wrong,1
+3015,not wrong,wrong,0
+3016,wrong,wrong,1
+3017,not wrong,not wrong,1
+3018,not wrong,not wrong,1
+3019,not wrong,wrong,0
+3020,wrong,wrong,1
+3021,not wrong,not wrong,1
+3022,not wrong,not wrong,1
+3023,not wrong,not wrong,1
+3024,not wrong,not wrong,1
+3025,not wrong,not wrong,1
+3026,not wrong,wrong,0
+3027,wrong,not wrong,0
+3028,not wrong,not wrong,1
+3029,wrong,not wrong,0
+3030,not wrong,not wrong,1
+3031,not wrong,not wrong,1
+3032,not wrong,not wrong,1
+3033,not wrong,not wrong,1
+3034,wrong,not wrong,0
+3035,wrong,not wrong,0
+3036,not wrong,not wrong,1
+3037,wrong,not wrong,0
+3038,wrong,not wrong,0
+3039,wrong,not wrong,0
+3040,not wrong,wrong,0
+3041,wrong,wrong,1
+3042,not wrong,not wrong,1
+3043,wrong,not wrong,0
+3044,wrong,wrong,1
+3045,wrong,not wrong,0
+3046,wrong,not wrong,0
+3047,not wrong,not wrong,1
+3048,not wrong,wrong,0
+3049,wrong,not wrong,0
+3050,not wrong,not wrong,1
+3051,not wrong,not wrong,1
+3052,not wrong,not wrong,1
+3053,wrong,wrong,1
+3054,wrong,not wrong,0
+3055,not wrong,not wrong,1
+3056,not wrong,not wrong,1
+3057,not wrong,wrong,0
+3058,not wrong,not wrong,1
+3059,wrong,not wrong,0
+3060,wrong,not wrong,0
+3061,not wrong,not wrong,1
+3062,wrong,not wrong,0
+3063,wrong,not wrong,0
+3064,not wrong,not wrong,1
+3065,not wrong,not wrong,1
+3066,wrong,not wrong,0
+3067,not wrong,not wrong,1
+3068,not wrong,not wrong,1
+3069,wrong,not wrong,0
+3070,not wrong,wrong,0
+3071,not wrong,not wrong,1
+3072,wrong,wrong,1
+3073,wrong,not wrong,0
+3074,not wrong,not wrong,1
+3075,wrong,not wrong,0
+3076,wrong,not wrong,0
+3077,not wrong,wrong,0
+3078,not wrong,not wrong,1
+3079,wrong,not wrong,0
+3080,wrong,not wrong,0
+3081,wrong,not wrong,0
+3082,wrong,not wrong,0
+3083,wrong,wrong,1
+3084,wrong,wrong,1
+3085,not wrong,not wrong,1
+3086,not wrong,not wrong,1
+3087,wrong,wrong,1
+3088,not wrong,wrong,0
+3089,not wrong,not wrong,1
+3090,wrong,not wrong,0
+3091,wrong,not wrong,0
+3092,wrong,not wrong,0
+3093,wrong,not wrong,0
+3094,not wrong,wrong,0
+3095,wrong,not wrong,0
+3096,not wrong,not wrong,1
+3097,wrong,not wrong,0
+3098,not wrong,not wrong,1
+3099,not wrong,not wrong,1
+3100,wrong,wrong,1
+3101,not wrong,not wrong,1
+3102,not wrong,wrong,0
+3103,wrong,not wrong,0
+3104,wrong,not wrong,0
+3105,not wrong,not wrong,1
+3106,wrong,not wrong,0
+3107,not wrong,not wrong,1
+3108,wrong,not wrong,0
+3109,not wrong,not wrong,1
+3110,wrong,not wrong,0
+3111,wrong,not wrong,0
+3112,wrong,not wrong,0
+3113,wrong,not wrong,0
+3114,not wrong,wrong,0
+3115,not wrong,not wrong,1
+3116,not wrong,not wrong,1
+3117,wrong,not wrong,0
+3118,not wrong,wrong,0
+3119,wrong,not wrong,0
+3120,wrong,not wrong,0
+3121,not wrong,not wrong,1
+3122,wrong,not wrong,0
+3123,not wrong,not wrong,1
+3124,not wrong,not wrong,1
+3125,wrong,not wrong,0
+3126,wrong,not wrong,0
+3127,wrong,not wrong,0
+3128,wrong,not wrong,0
+3129,not wrong,not wrong,1
+3130,wrong,not wrong,0
+3131,not wrong,wrong,0
+3132,wrong,not wrong,0
+3133,not wrong,not wrong,1
+3134,wrong,wrong,1
+3135,wrong,wrong,1
+3136,not wrong,not wrong,1
+3137,not wrong,not wrong,1
+3138,wrong,wrong,1
+3139,not wrong,wrong,0
+3140,wrong,not wrong,0
+3141,wrong,not wrong,0
+3142,not wrong,not wrong,1
+3143,not wrong,wrong,0
+3144,not wrong,wrong,0
+3145,wrong,not wrong,0
+3146,not wrong,wrong,0
+3147,not wrong,not wrong,1
+3148,wrong,not wrong,0
+3149,not wrong,not wrong,1
+3150,wrong,not wrong,0
+3151,wrong,wrong,1
+3152,wrong,not wrong,0
+3153,wrong,not wrong,0
+3154,not wrong,not wrong,1
+3155,not wrong,not wrong,1
+3156,not wrong,not wrong,1
+3157,wrong,wrong,1
+3158,wrong,not wrong,0
+3159,not wrong,not wrong,1
+3160,not wrong,not wrong,1
+3161,wrong,not wrong,0
+3162,not wrong,not wrong,1
+3163,not wrong,wrong,0
+3164,not wrong,not wrong,1
+3165,wrong,not wrong,0
+3166,wrong,not wrong,0
+3167,not wrong,not wrong,1
+3168,not wrong,not wrong,1
+3169,wrong,not wrong,0
+3170,not wrong,not wrong,1
+3171,wrong,not wrong,0
+3172,wrong,not wrong,0
+3173,wrong,not wrong,0
+3174,wrong,not wrong,0
+3175,not wrong,wrong,0
+3176,not wrong,not wrong,1
+3177,not wrong,not wrong,1
+3178,not wrong,not wrong,1
+3179,wrong,not wrong,0
+3180,not wrong,not wrong,1
+3181,not wrong,wrong,0
+3182,not wrong,not wrong,1
+3183,wrong,wrong,1
+3184,wrong,not wrong,0
+3185,wrong,not wrong,0
+3186,not wrong,not wrong,1
+3187,not wrong,not wrong,1
+3188,not wrong,not wrong,1
+3189,not wrong,not wrong,1
+3190,wrong,not wrong,0
+3191,not wrong,wrong,0
+3192,wrong,not wrong,0
+3193,wrong,wrong,1
+3194,not wrong,not wrong,1
+3195,wrong,not wrong,0
+3196,not wrong,not wrong,1
+3197,wrong,not wrong,0
+3198,wrong,not wrong,0
+3199,not wrong,not wrong,1
+3200,wrong,not wrong,0
+3201,not wrong,not wrong,1
+3202,not wrong,not wrong,1
+3203,wrong,not wrong,0
+3204,not wrong,not wrong,1
+3205,wrong,not wrong,0
+3206,wrong,not wrong,0
+3207,wrong,not wrong,0
+3208,not wrong,not wrong,1
+3209,not wrong,not wrong,1
+3210,wrong,not wrong,0
+3211,wrong,not wrong,0
+3212,not wrong,not wrong,1
+3213,wrong,wrong,1
+3214,not wrong,wrong,0
+3215,not wrong,not wrong,1
+3216,wrong,not wrong,0
+3217,wrong,not wrong,0
+3218,not wrong,not wrong,1
+3219,not wrong,not wrong,1
+3220,not wrong,wrong,0
+3221,wrong,not wrong,0
+3222,wrong,wrong,1
+3223,wrong,not wrong,0
+3224,not wrong,not wrong,1
+3225,not wrong,not wrong,1
+3226,wrong,not wrong,0
+3227,wrong,not wrong,0
+3228,wrong,not wrong,0
+3229,wrong,wrong,1
+3230,not wrong,not wrong,1
+3231,not wrong,not wrong,1
+3232,wrong,not wrong,0
+3233,wrong,not wrong,0
+3234,not wrong,not wrong,1
+3235,wrong,not wrong,0
+3236,not wrong,not wrong,1
+3237,wrong,wrong,1
+3238,wrong,not wrong,0
+3239,not wrong,not wrong,1
+3240,not wrong,not wrong,1
+3241,wrong,not wrong,0
+3242,not wrong,not wrong,1
+3243,not wrong,not wrong,1
+3244,not wrong,not wrong,1
+3245,not wrong,not wrong,1
+3246,not wrong,not wrong,1
+3247,wrong,not wrong,0
+3248,not wrong,not wrong,1
+3249,not wrong,not wrong,1
+3250,not wrong,not wrong,1
+3251,wrong,not wrong,0
+3252,not wrong,not wrong,1
+3253,not wrong,not wrong,1
+3254,not wrong,not wrong,1
+3255,wrong,wrong,1
+3256,wrong,not wrong,0
+3257,wrong,not wrong,0
+3258,not wrong,wrong,0
+3259,not wrong,wrong,0
+3260,not wrong,not wrong,1
+3261,not wrong,not wrong,1
+3262,not wrong,wrong,0
+3263,not wrong,not wrong,1
+3264,not wrong,wrong,0
+3265,wrong,wrong,1
+3266,not wrong,wrong,0
+3267,wrong,not wrong,0
+3268,wrong,not wrong,0
+3269,not wrong,not wrong,1
+3270,wrong,not wrong,0
+3271,wrong,not wrong,0
+3272,wrong,not wrong,0
+3273,wrong,wrong,1
+3274,wrong,not wrong,0
+3275,wrong,not wrong,0
+3276,wrong,not wrong,0
+3277,not wrong,not wrong,1
+3278,not wrong,not wrong,1
+3279,not wrong,not wrong,1
+3280,not wrong,not wrong,1
+3281,not wrong,not wrong,1
+3282,not wrong,not wrong,1
+3283,not wrong,not wrong,1
+3284,wrong,not wrong,0
+3285,not wrong,not wrong,1
+3286,not wrong,not wrong,1
+3287,wrong,not wrong,0
+3288,not wrong,not wrong,1
+3289,not wrong,not wrong,1
+3290,not wrong,not wrong,1
+3291,not wrong,not wrong,1
+3292,wrong,not wrong,0
+3293,wrong,not wrong,0
+3294,wrong,not wrong,0
+3295,not wrong,not wrong,1
+3296,not wrong,wrong,0
+3297,wrong,not wrong,0
+3298,not wrong,not wrong,1
+3299,not wrong,not wrong,1
+3300,not wrong,wrong,0
+3301,wrong,wrong,1
+3302,wrong,wrong,1
+3303,not wrong,not wrong,1
+3304,not wrong,not wrong,1
+3305,wrong,not wrong,0
+3306,not wrong,not wrong,1
+3307,not wrong,not wrong,1
+3308,not wrong,not wrong,1
+3309,not wrong,not wrong,1
+3310,wrong,not wrong,0
+3311,not wrong,not wrong,1
+3312,not wrong,not wrong,1
+3313,not wrong,not wrong,1
+3314,not wrong,not wrong,1
+3315,wrong,wrong,1
+3316,wrong,not wrong,0
+3317,not wrong,not wrong,1
+3318,not wrong,not wrong,1
+3319,not wrong,not wrong,1
+3320,not wrong,not wrong,1
+3321,not wrong,not wrong,1
+3322,wrong,wrong,1
+3323,wrong,not wrong,0
+3324,not wrong,wrong,0
+3325,wrong,not wrong,0
+3326,wrong,not wrong,0
+3327,wrong,not wrong,0
+3328,not wrong,not wrong,1
+3329,wrong,wrong,1
+3330,not wrong,not wrong,1
+3331,not wrong,not wrong,1
+3332,wrong,not wrong,0
+3333,wrong,not wrong,0
+3334,wrong,not wrong,0
+3335,not wrong,not wrong,1
+3336,wrong,not wrong,0
+3337,not wrong,not wrong,1
+3338,not wrong,not wrong,1
+3339,not wrong,wrong,0
+3340,not wrong,not wrong,1
+3341,wrong,not wrong,0
+3342,not wrong,not wrong,1
+3343,wrong,not wrong,0
+3344,not wrong,wrong,0
+3345,wrong,not wrong,0
+3346,wrong,not wrong,0
+3347,not wrong,not wrong,1
+3348,not wrong,not wrong,1
+3349,wrong,not wrong,0
+3350,not wrong,not wrong,1
+3351,wrong,not wrong,0
+3352,not wrong,wrong,0
+3353,wrong,not wrong,0
+3354,wrong,not wrong,0
+3355,wrong,not wrong,0
+3356,not wrong,wrong,0
+3357,not wrong,not wrong,1
+3358,wrong,wrong,1
+3359,not wrong,wrong,0
+3360,not wrong,not wrong,1
+3361,wrong,not wrong,0
+3362,not wrong,not wrong,1
+3363,wrong,not wrong,0
+3364,wrong,not wrong,0
+3365,wrong,not wrong,0
+3366,wrong,not wrong,0
+3367,not wrong,not wrong,1
+3368,not wrong,not wrong,1
+3369,not wrong,not wrong,1
+3370,not wrong,wrong,0
+3371,wrong,not wrong,0
+3372,not wrong,not wrong,1
+3373,wrong,not wrong,0
+3374,not wrong,not wrong,1
+3375,wrong,not wrong,0
+3376,not wrong,not wrong,1
+3377,wrong,not wrong,0
+3378,not wrong,not wrong,1
+3379,not wrong,wrong,0
+3380,wrong,wrong,1
+3381,wrong,not wrong,0
+3382,wrong,wrong,1
+3383,not wrong,not wrong,1
+3384,wrong,not wrong,0
+3385,wrong,not wrong,0
+3386,not wrong,not wrong,1
+3387,not wrong,not wrong,1
+3388,not wrong,not wrong,1
+3389,not wrong,wrong,0
+3390,not wrong,not wrong,1
+3391,not wrong,not wrong,1
+3392,wrong,not wrong,0
+3393,not wrong,not wrong,1
+3394,wrong,not wrong,0
+3395,not wrong,not wrong,1
+3396,not wrong,not wrong,1
+3397,not wrong,not wrong,1
+3398,not wrong,not wrong,1
+3399,not wrong,not wrong,1
+3400,wrong,not wrong,0
+3401,not wrong,wrong,0
+3402,wrong,not wrong,0
+3403,not wrong,not wrong,1
+3404,not wrong,not wrong,1
+3405,wrong,not wrong,0
+3406,not wrong,wrong,0
+3407,not wrong,not wrong,1
+3408,wrong,not wrong,0
+3409,wrong,not wrong,0
+3410,wrong,not wrong,0
+3411,wrong,not wrong,0
+3412,wrong,not wrong,0
+3413,not wrong,not wrong,1
+3414,not wrong,not wrong,1
+3415,wrong,not wrong,0
+3416,not wrong,not wrong,1
+3417,wrong,not wrong,0
+3418,wrong,wrong,1
+3419,not wrong,not wrong,1
+3420,wrong,not wrong,0
+3421,not wrong,not wrong,1
+3422,not wrong,not wrong,1
+3423,wrong,not wrong,0
+3424,not wrong,not wrong,1
+3425,wrong,wrong,1
+3426,wrong,not wrong,0
+3427,wrong,not wrong,0
+3428,not wrong,not wrong,1
+3429,not wrong,wrong,0
+3430,not wrong,not wrong,1
+3431,not wrong,not wrong,1
+3432,wrong,not wrong,0
+3433,not wrong,not wrong,1
+3434,not wrong,not wrong,1
+3435,not wrong,not wrong,1
+3436,not wrong,not wrong,1
+3437,wrong,not wrong,0
+3438,not wrong,not wrong,1
+3439,wrong,not wrong,0
+3440,wrong,not wrong,0
+3441,wrong,not wrong,0
+3442,wrong,not wrong,0
+3443,wrong,wrong,1
+3444,not wrong,not wrong,1
+3445,not wrong,not wrong,1
+3446,wrong,wrong,1
+3447,wrong,not wrong,0
+3448,not wrong,not wrong,1
+3449,wrong,not wrong,0
+3450,wrong,not wrong,0
+3451,wrong,not wrong,0
+3452,wrong,wrong,1
+3453,not wrong,not wrong,1
+3454,not wrong,not wrong,1
+3455,not wrong,not wrong,1
+3456,wrong,not wrong,0
+3457,not wrong,not wrong,1
+3458,not wrong,not wrong,1
+3459,wrong,wrong,1
+3460,wrong,not wrong,0
+3461,not wrong,wrong,0
+3462,not wrong,not wrong,1
+3463,wrong,wrong,1
+3464,wrong,wrong,1
+3465,not wrong,not wrong,1
+3466,not wrong,not wrong,1
+3467,not wrong,not wrong,1
+3468,wrong,wrong,1
+3469,wrong,wrong,1
+3470,wrong,not wrong,0
+3471,wrong,not wrong,0
+3472,wrong,wrong,1
+3473,not wrong,wrong,0
+3474,wrong,not wrong,0
+3475,wrong,not wrong,0
+3476,not wrong,not wrong,1
+3477,not wrong,not wrong,1
+3478,not wrong,not wrong,1
+3479,not wrong,wrong,0
+3480,wrong,wrong,1
+3481,not wrong,not wrong,1
+3482,not wrong,not wrong,1
+3483,wrong,not wrong,0
+3484,not wrong,not wrong,1
+3485,wrong,not wrong,0
+3486,not wrong,not wrong,1
+3487,not wrong,not wrong,1
+3488,not wrong,not wrong,1
+3489,wrong,not wrong,0
+3490,wrong,not wrong,0
+3491,wrong,not wrong,0
+3492,wrong,not wrong,0
+3493,wrong,not wrong,0
+3494,not wrong,not wrong,1
+3495,not wrong,not wrong,1
+3496,not wrong,wrong,0
+3497,wrong,not wrong,0
+3498,not wrong,not wrong,1
+3499,not wrong,not wrong,1
+3500,wrong,not wrong,0
+3501,wrong,not wrong,0
+3502,not wrong,not wrong,1
+3503,wrong,not wrong,0
+3504,not wrong,not wrong,1
+3505,not wrong,not wrong,1
+3506,wrong,not wrong,0
+3507,wrong,not wrong,0
+3508,wrong,not wrong,0
+3509,not wrong,not wrong,1
+3510,not wrong,not wrong,1
+3511,wrong,not wrong,0
+3512,not wrong,not wrong,1
+3513,not wrong,not wrong,1
+3514,not wrong,not wrong,1
+3515,not wrong,not wrong,1
+3516,wrong,not wrong,0
+3517,wrong,wrong,1
+3518,wrong,not wrong,0
+3519,not wrong,not wrong,1
+3520,not wrong,not wrong,1
+3521,not wrong,wrong,0
+3522,wrong,not wrong,0
+3523,not wrong,not wrong,1
+3524,wrong,not wrong,0
+3525,not wrong,not wrong,1
+3526,not wrong,not wrong,1
+3527,not wrong,not wrong,1
+3528,wrong,not wrong,0
+3529,wrong,not wrong,0
+3530,wrong,not wrong,0
+3531,not wrong,not wrong,1
+3532,wrong,not wrong,0
+3533,wrong,not wrong,0
+3534,wrong,not wrong,0
+3535,wrong,not wrong,0
+3536,wrong,not wrong,0
+3537,not wrong,not wrong,1
+3538,not wrong,not wrong,1
+3539,not wrong,wrong,0
+3540,not wrong,wrong,0
+3541,wrong,not wrong,0
+3542,not wrong,wrong,0
+3543,wrong,not wrong,0
+3544,not wrong,not wrong,1
+3545,not wrong,not wrong,1
+3546,wrong,wrong,1
+3547,wrong,not wrong,0
+3548,wrong,not wrong,0
+3549,wrong,not wrong,0
+3550,wrong,not wrong,0
+3551,not wrong,not wrong,1
+3552,not wrong,not wrong,1
+3553,wrong,not wrong,0
+3554,wrong,not wrong,0
+3555,wrong,not wrong,0
+3556,not wrong,not wrong,1
+3557,wrong,not wrong,0
+3558,wrong,not wrong,0
+3559,wrong,not wrong,0
+3560,not wrong,not wrong,1
+3561,not wrong,not wrong,1
+3562,wrong,not wrong,0
+3563,wrong,not wrong,0
+3564,wrong,not wrong,0
+3565,wrong,not wrong,0
+3566,wrong,not wrong,0
+3567,not wrong,not wrong,1
+3568,not wrong,not wrong,1
+3569,wrong,not wrong,0
+3570,wrong,not wrong,0
+3571,not wrong,not wrong,1
+3572,not wrong,not wrong,1
+3573,wrong,not wrong,0
+3574,wrong,not wrong,0
+3575,not wrong,wrong,0
+3576,not wrong,not wrong,1
+3577,not wrong,not wrong,1
+3578,not wrong,not wrong,1
+3579,not wrong,not wrong,1
+3580,not wrong,not wrong,1
+3581,not wrong,not wrong,1
+3582,not wrong,not wrong,1
+3583,not wrong,not wrong,1
+3584,not wrong,not wrong,1
+3585,not wrong,not wrong,1
+3586,wrong,not wrong,0
+3587,wrong,not wrong,0
+3588,not wrong,not wrong,1
+3589,wrong,not wrong,0
+3590,wrong,wrong,1
+3591,wrong,not wrong,0
+3592,not wrong,not wrong,1
+3593,wrong,not wrong,0
+3594,not wrong,not wrong,1
+3595,not wrong,wrong,0
+3596,not wrong,not wrong,1
+3597,wrong,wrong,1
+3598,not wrong,not wrong,1
+3599,not wrong,not wrong,1
+3600,not wrong,not wrong,1
+3601,not wrong,not wrong,1
+3602,not wrong,not wrong,1
+3603,not wrong,not wrong,1
+3604,wrong,not wrong,0
+3605,wrong,not wrong,0
+3606,wrong,not wrong,0
+3607,not wrong,not wrong,1
+3608,not wrong,not wrong,1
+3609,not wrong,not wrong,1
+3610,wrong,not wrong,0
+3611,not wrong,not wrong,1
+3612,wrong,not wrong,0
+3613,not wrong,not wrong,1
+3614,not wrong,wrong,0
+3615,wrong,not wrong,0
+3616,not wrong,not wrong,1
+3617,not wrong,wrong,0
+3618,not wrong,not wrong,1
+3619,wrong,not wrong,0
+3620,wrong,wrong,1
+3621,wrong,not wrong,0
+3622,not wrong,wrong,0
+3623,wrong,not wrong,0
+3624,wrong,not wrong,0
+3625,not wrong,not wrong,1
+3626,not wrong,not wrong,1
+3627,not wrong,not wrong,1
+3628,wrong,wrong,1
+3629,not wrong,not wrong,1
+3630,wrong,not wrong,0
+3631,wrong,not wrong,0
+3632,not wrong,not wrong,1
+3633,wrong,not wrong,0
+3634,not wrong,not wrong,1
+3635,not wrong,not wrong,1
+3636,wrong,not wrong,0
+3637,not wrong,not wrong,1
+3638,not wrong,not wrong,1
+3639,not wrong,not wrong,1
+3640,not wrong,not wrong,1
+3641,wrong,not wrong,0
+3642,wrong,not wrong,0
+3643,not wrong,not wrong,1
+3644,wrong,not wrong,0
+3645,not wrong,not wrong,1
+3646,wrong,not wrong,0
+3647,not wrong,not wrong,1
+3648,wrong,not wrong,0
+3649,not wrong,not wrong,1
+3650,not wrong,not wrong,1
+3651,wrong,wrong,1
+3652,wrong,not wrong,0
+3653,not wrong,not wrong,1
+3654,wrong,not wrong,0
+3655,wrong,not wrong,0
+3656,not wrong,not wrong,1
+3657,not wrong,not wrong,1
+3658,wrong,not wrong,0
+3659,not wrong,wrong,0
+3660,wrong,not wrong,0
+3661,wrong,not wrong,0
+3662,wrong,not wrong,0
+3663,wrong,not wrong,0
+3664,not wrong,not wrong,1
+3665,not wrong,wrong,0
+3666,wrong,not wrong,0
+3667,wrong,not wrong,0
+3668,not wrong,not wrong,1
+3669,not wrong,not wrong,1
+3670,not wrong,not wrong,1
+3671,not wrong,not wrong,1
+3672,not wrong,not wrong,1
+3673,not wrong,not wrong,1
+3674,not wrong,not wrong,1
+3675,wrong,not wrong,0
+3676,not wrong,not wrong,1
+3677,wrong,not wrong,0
+3678,wrong,not wrong,0
+3679,not wrong,not wrong,1
+3680,not wrong,wrong,0
+3681,not wrong,not wrong,1
+3682,not wrong,not wrong,1
+3683,wrong,not wrong,0
+3684,wrong,not wrong,0
+3685,wrong,not wrong,0
+3686,not wrong,not wrong,1
+3687,wrong,wrong,1
+3688,not wrong,not wrong,1
+3689,not wrong,not wrong,1
+3690,not wrong,not wrong,1
+3691,not wrong,not wrong,1
+3692,wrong,not wrong,0
+3693,not wrong,not wrong,1
+3694,not wrong,not wrong,1
+3695,not wrong,not wrong,1
+3696,not wrong,wrong,0
+3697,not wrong,not wrong,1
+3698,wrong,not wrong,0
+3699,not wrong,wrong,0
+3700,not wrong,not wrong,1
+3701,wrong,not wrong,0
+3702,wrong,wrong,1
+3703,not wrong,not wrong,1
+3704,not wrong,not wrong,1
+3705,wrong,not wrong,0
+3706,not wrong,wrong,0
+3707,wrong,wrong,1
+3708,wrong,not wrong,0
+3709,not wrong,not wrong,1
+3710,not wrong,not wrong,1
+3711,wrong,not wrong,0
+3712,wrong,not wrong,0
+3713,not wrong,wrong,0
+3714,wrong,not wrong,0
+3715,not wrong,not wrong,1
+3716,not wrong,not wrong,1
+3717,wrong,not wrong,0
+3718,not wrong,not wrong,1
+3719,wrong,not wrong,0
+3720,wrong,not wrong,0
+3721,not wrong,not wrong,1
+3722,not wrong,not wrong,1
+3723,not wrong,wrong,0
+3724,not wrong,not wrong,1
+3725,wrong,not wrong,0
+3726,not wrong,wrong,0
+3727,not wrong,not wrong,1
+3728,not wrong,wrong,0
+3729,not wrong,not wrong,1
+3730,wrong,not wrong,0
+3731,not wrong,not wrong,1
+3732,wrong,not wrong,0
+3733,wrong,not wrong,0
+3734,wrong,not wrong,0
+3735,wrong,not wrong,0
+3736,wrong,not wrong,0
+3737,wrong,not wrong,0
+3738,not wrong,not wrong,1
+3739,wrong,wrong,1
+3740,not wrong,not wrong,1
+3741,not wrong,not wrong,1
+3742,not wrong,not wrong,1
+3743,not wrong,not wrong,1
+3744,not wrong,not wrong,1
+3745,wrong,not wrong,0
+3746,not wrong,not wrong,1
+3747,wrong,wrong,1
+3748,not wrong,wrong,0
+3749,wrong,not wrong,0
+3750,wrong,not wrong,0
+3751,wrong,not wrong,0
+3752,not wrong,not wrong,1
+3753,not wrong,not wrong,1
+3754,wrong,wrong,1
+3755,not wrong,not wrong,1
+3756,wrong,not wrong,0
+3757,wrong,not wrong,0
+3758,not wrong,not wrong,1
+3759,not wrong,wrong,0
+3760,not wrong,not wrong,1
+3761,wrong,wrong,1
+3762,not wrong,not wrong,1
+3763,wrong,not wrong,0
+3764,not wrong,not wrong,1
+3765,not wrong,not wrong,1
+3766,not wrong,not wrong,1
+3767,not wrong,not wrong,1
+3768,not wrong,not wrong,1
+3769,wrong,not wrong,0
+3770,not wrong,not wrong,1
+3771,wrong,not wrong,0
+3772,wrong,not wrong,0
+3773,not wrong,not wrong,1
+3774,wrong,wrong,1
+3775,wrong,not wrong,0
+3776,wrong,not wrong,0
+3777,not wrong,not wrong,1
+3778,not wrong,not wrong,1
+3779,wrong,not wrong,0
+3780,not wrong,not wrong,1
+3781,not wrong,wrong,0
+3782,not wrong,not wrong,1
+3783,not wrong,not wrong,1
+3784,not wrong,not wrong,1
+3785,not wrong,not wrong,1
+3786,wrong,not wrong,0
+3787,wrong,not wrong,0
+3788,wrong,wrong,1
+3789,wrong,not wrong,0
+3790,wrong,not wrong,0
+3791,wrong,wrong,1
+3792,not wrong,not wrong,1
+3793,not wrong,wrong,0
+3794,wrong,wrong,1
+3795,wrong,not wrong,0
+3796,wrong,not wrong,0
+3797,wrong,not wrong,0
+3798,not wrong,not wrong,1
+3799,wrong,wrong,1
+3800,not wrong,not wrong,1
+3801,wrong,not wrong,0
+3802,wrong,not wrong,0
+3803,not wrong,not wrong,1
+3804,wrong,not wrong,0
+3805,wrong,not wrong,0
+3806,not wrong,not wrong,1
+3807,not wrong,not wrong,1
+3808,not wrong,not wrong,1
+3809,wrong,not wrong,0
+3810,wrong,not wrong,0
+3811,wrong,not wrong,0
+3812,not wrong,wrong,0
+3813,not wrong,not wrong,1
+3814,not wrong,not wrong,1
+3815,wrong,wrong,1
+3816,wrong,not wrong,0
+3817,wrong,wrong,1
+3818,wrong,not wrong,0
+3819,wrong,not wrong,0
+3820,wrong,not wrong,0
+3821,wrong,not wrong,0
+3822,not wrong,not wrong,1
+3823,wrong,not wrong,0
+3824,not wrong,not wrong,1
+3825,not wrong,not wrong,1
+3826,not wrong,not wrong,1
+3827,wrong,not wrong,0
+3828,not wrong,not wrong,1
+3829,not wrong,not wrong,1
+3830,wrong,not wrong,0
+3831,not wrong,not wrong,1
+3832,wrong,not wrong,0
+3833,not wrong,not wrong,1
+3834,wrong,wrong,1
+3835,wrong,wrong,1
+3836,wrong,wrong,1
+3837,not wrong,not wrong,1
+3838,not wrong,not wrong,1
+3839,wrong,not wrong,0
+3840,not wrong,not wrong,1
+3841,wrong,not wrong,0
+3842,not wrong,not wrong,1
+3843,not wrong,not wrong,1
+3844,wrong,wrong,1
+3845,not wrong,not wrong,1
+3846,not wrong,not wrong,1
+3847,wrong,not wrong,0
+3848,wrong,not wrong,0
+3849,not wrong,not wrong,1
+3850,not wrong,not wrong,1
+3851,not wrong,not wrong,1
+3852,wrong,not wrong,0
+3853,wrong,not wrong,0
+3854,not wrong,not wrong,1
+3855,wrong,not wrong,0
+3856,not wrong,not wrong,1
+3857,wrong,wrong,1
+3858,not wrong,wrong,0
+3859,wrong,not wrong,0
+3860,not wrong,wrong,0
+3861,not wrong,not wrong,1
+3862,not wrong,not wrong,1
+3863,wrong,not wrong,0
+3864,wrong,not wrong,0
+3865,not wrong,not wrong,1
+3866,not wrong,not wrong,1
+3867,wrong,not wrong,0
+3868,not wrong,not wrong,1
+3869,not wrong,not wrong,1
+3870,wrong,wrong,1
+3871,not wrong,not wrong,1
+3872,wrong,wrong,1
+3873,wrong,not wrong,0
+3874,not wrong,not wrong,1
+3875,wrong,not wrong,0
+3876,not wrong,not wrong,1
+3877,wrong,not wrong,0
+3878,not wrong,not wrong,1
+3879,wrong,not wrong,0
+3880,not wrong,not wrong,1
+3881,wrong,not wrong,0
+3882,not wrong,not wrong,1
+3883,not wrong,not wrong,1
+3884,wrong,not wrong,0
+3885,not wrong,not wrong,1
+3886,not wrong,not wrong,1
+3887,not wrong,not wrong,1
+3888,not wrong,wrong,0
+3889,wrong,not wrong,0
+3890,wrong,not wrong,0
+3891,not wrong,not wrong,1
+3892,not wrong,not wrong,1
+3893,not wrong,not wrong,1
+3894,not wrong,not wrong,1
+3895,not wrong,not wrong,1
+3896,not wrong,wrong,0
+3897,not wrong,not wrong,1
+3898,not wrong,not wrong,1
+3899,not wrong,not wrong,1
+3900,wrong,not wrong,0
+3901,wrong,not wrong,0
+3902,wrong,not wrong,0
+3903,not wrong,wrong,0
+3904,not wrong,not wrong,1
+3905,wrong,not wrong,0
+3906,wrong,wrong,1
+3907,wrong,wrong,1
+3908,wrong,not wrong,0
+3909,not wrong,not wrong,1
+3910,not wrong,not wrong,1
+3911,wrong,wrong,1
+3912,not wrong,not wrong,1
+3913,not wrong,not wrong,1
+3914,wrong,not wrong,0
+3915,not wrong,wrong,0
+3916,not wrong,not wrong,1
+3917,wrong,not wrong,0
+3918,wrong,not wrong,0
+3919,wrong,not wrong,0
+3920,not wrong,not wrong,1
+3921,not wrong,not wrong,1
+3922,wrong,not wrong,0
+3923,not wrong,not wrong,1
+3924,wrong,not wrong,0
+3925,not wrong,not wrong,1
+3926,not wrong,not wrong,1
+3927,wrong,not wrong,0
+3928,not wrong,not wrong,1
+3929,not wrong,not wrong,1
+3930,not wrong,not wrong,1
+3931,wrong,not wrong,0
+3932,not wrong,not wrong,1
+3933,not wrong,not wrong,1
+3934,wrong,not wrong,0
+3935,not wrong,not wrong,1
+3936,wrong,not wrong,0
+3937,not wrong,not wrong,1
+3938,not wrong,not wrong,1
+3939,not wrong,wrong,0
+3940,not wrong,not wrong,1
+3941,wrong,not wrong,0
+3942,wrong,not wrong,0
+3943,wrong,not wrong,0
+3944,not wrong,not wrong,1
+3945,wrong,not wrong,0
+3946,wrong,wrong,1
+3947,not wrong,not wrong,1
+3948,wrong,not wrong,0
+3949,not wrong,not wrong,1
+3950,not wrong,not wrong,1
+3951,not wrong,not wrong,1
+3952,not wrong,not wrong,1
+3953,not wrong,not wrong,1
+3954,not wrong,not wrong,1
+3955,wrong,not wrong,0
+3956,wrong,not wrong,0
+3957,wrong,not wrong,0
+3958,not wrong,wrong,0
+3959,not wrong,not wrong,1
+3960,wrong,not wrong,0
+3961,not wrong,not wrong,1
+3962,wrong,wrong,1
+3963,not wrong,not wrong,1

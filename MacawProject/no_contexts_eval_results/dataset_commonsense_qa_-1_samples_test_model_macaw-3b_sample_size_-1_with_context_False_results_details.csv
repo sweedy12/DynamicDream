@@ -1,0 +1,1222 @@
+,gt_ans,macaw_ans,is_correct
+0,bank,bank,1
+1,complete job,complete job,1
+2,bookstore,bookstore,1
+3,fast food restaurant,fast food restaurant,1
+4,midwest,farming areas,0
+5,great britain,great britain,1
+6,mexico,mexico,1
+7,listen to each other,pass water,0
+8,literacy,literacy,1
+9,singing,making music,0
+10,wallpaper,record albums,0
+11,make peace,make peace,1
+12,farm house,farm house,1
+13,lots of attention,lots of attention,1
+14,being entertained,being entertained,1
+15,people,people,1
+16,examine thing,examine thing,1
+17,puncture wound,puncture wound,1
+18,two eyes,two eyes,1
+19,office,office,1
+20,carpet,carpet,1
+21,inspiration,inspiration,1
+22,indestructible,indestructible,1
+23,apartment,stadium,0
+24,stupid,dull,0
+25,offspring,offspring,1
+26,barn,barn,1
+27,new perspective,new perspective,1
+28,new job,new job,1
+29,crime,crime,1
+30,hasten,advance,0
+31,library,library,1
+32,slow down,slow down,1
+33,stand in line,stand in line,1
+34,happiness,satisfaction,0
+35,ignition switch,ignition switch,1
+36,city,city,1
+37,refrigerator,refrigerator,1
+38,whirlpool bath,whirlpool bath,1
+39,front door,front door,1
+40,tropical rainforest,tropical rainforest,1
+41,pay bills,pay bills,1
+42,manual,manual,1
+43,table,table,1
+44,broken law,broken law,1
+45,being employed,anxiety and fear,0
+46,get money,have money,0
+47,violin case,violin case,1
+48,house,telephone booth,0
+49,fishmongers,fishmongers,1
+50,dress shop,dress shop,1
+51,slurred speech,slurred speech,1
+52,momentum,momentum,1
+53,play tag,play tag,1
+54,get tired of,learn lessons from,0
+55,classroom,classroom,1
+56,countryside,countryside,1
+57,friends house,friends house,1
+58,lifeless,sandy,0
+59,hear news,see favorite show,0
+60,michigan,michigan,1
+61,house,indoors,0
+62,saltwater,saltwater,1
+63,feild,feild,1
+64,state park,state park,1
+65,eat in restaurant,eat in restaurant,1
+66,confident,pride,0
+67,bathtub,shower stall,0
+68,house,school,0
+69,europe,europe,1
+70,bored,bored,1
+71,school,school,1
+72,play with toys,play with toys,1
+73,chess game,chess game,1
+74,full of air,popular in america,0
+75,depression,discomfort,0
+76,countryside,countryside,1
+77,laboratory,attic,0
+78,choice,choice,1
+79,find god,go to jail,0
+80,walk,walk,1
+81,construction site,abaft,0
+82,supply food,supply food,1
+83,piggy bank,piggy bank,1
+84,stew pot,stew pot,1
+85,sick person,sick person,1
+86,backpack,backpack,1
+87,knowing,knowledge,0
+88,african continent,amazon basin,0
+89,making love,making love,1
+90,stagger,stagger,1
+91,stairwell,stairwell,1
+92,wash dishes,wash dishes,1
+93,symphony,symphony,1
+94,toronto,toronto,1
+95,understanding,understood,0
+96,stress relief,stress relief,1
+97,productive,productive,1
+98,make friends,keep things,0
+99,city,city,1
+100,rich person,poor person,0
+101,bridge,barges to travel on,0
+102,open mind,open mind,1
+103,multitask,multitask,1
+104,getting hurt,getting hurt,1
+105,torn,torn,1
+106,coastal cities,coastal cities,1
+107,family tree,family tree,1
+108,universe,universe,1
+109,victory,victory,1
+110,fall asleep,fall asleep,1
+111,small neighborhood,small neighborhood,1
+112,cupboard,attic,0
+113,disturb,disturb,1
+114,house,movie theatre,0
+115,orchestra,orchestra,1
+116,sail boat,sail boat,1
+117,synagogue,tunnel,0
+118,lots of space,lots of space,1
+119,discount store,discount store,1
+120,sporting event,sporting event,1
+121,effusive,effusive,1
+122,school students,school students,1
+123,flower bed,flower bed,1
+124,outer space,universe,0
+125,were thirsty,were thirsty,1
+126,shower,shower,1
+127,floor,floor,1
+128,have to hold,have to hold,1
+129,city or town,city or town,1
+130,injury,injury,1
+131,television,television,1
+132,testify,testify,1
+133,satisfaction,satisfaction,1
+134,gain ground,gain ground,1
+135,kentucky,rocky hills,0
+136,anxiety and fear,anxiety and fear,1
+137,committing perjury,committing perjury,1
+138,make happy,thank,0
+139,countryside,north america,0
+140,resistance,resistance,1
+141,tell story,tell story,1
+142,family,friend,0
+143,closed room,closed room,1
+144,control model,manual,0
+145,automated teller,automated teller,1
+146,practice,practice,1
+147,exercise,stretch,0
+148,comfortable clothes,comfortable clothes,1
+149,knowing how to read,knowing how to read,1
+150,satisfaction,satisfaction,1
+151,sanitation,sanitation,1
+152,office building,office building,1
+153,take class,learn how to,0
+154,human body,arm,0
+155,flowers on,flowers on,1
+156,relaxation,food,0
+157,peach,cherry,0
+158,initiate,answer,0
+159,forget,forget,1
+160,mansion,mansion,1
+161,military base,military base,1
+162,bowling alley,bowling alley,1
+163,ring,bricks,0
+164,music store,music store,1
+165,living room,living room,1
+166,spinal injuries,spinal injuries,1
+167,pet store,pet store,1
+168,end of line,end of line,1
+169,completing,completing,1
+170,function,function,1
+171,have fun,have fun,1
+172,strip mall,shoppingcentre,0
+173,butcher shop,butcher shop,1
+174,spoon,bowl,0
+175,stand still,stand still,1
+176,branch out,branch out,1
+177,mortal,mortal,1
+178,laziness,wasting time,0
+179,sore mouth,sore mouth,1
+180,orchestra,orchestra,1
+181,forrest,forrest,1
+182,fairgrounds,zoos,0
+183,childrens story,childrens story,1
+184,protection,protection,1
+185,feel more energetic,regenerate,0
+186,falling down,falling down,1
+187,thailand,thailand,1
+188,tropical jungle,tropical jungle,1
+189,club,club,1
+190,lawn,lawn,1
+191,demonstration,demonstration,1
+192,last several years,last several years,1
+193,fall asleep,reading,0
+194,move people,move people,1
+195,united states,united states,1
+196,reduce,reduce,1
+197,slow down,speed up,0
+198,recur,recur,1
+199,attack,attack,1
+200,industrial area,industrial area,1
+201,drawer,measure distance,0
+202,shortness of breath,herpes,0
+203,lamp,lamp,1
+204,look angry,look angry,1
+205,blind person,ray charles,0
+206,field,quarries,0
+207,painting,rural area,0
+208,welcome guests,welcome guests,1
+209,knowing more,knowing more,1
+210,compliance,compliance,1
+211,balance,muscles,0
+212,restaurant,restaurant,1
+213,drawer,holster,0
+214,fiddle,sing,0
+215,skateboard,skateboard,1
+216,hedgehog,porcupine,0
+217,work,work,1
+218,not hungry,digesting,0
+219,go broke,go broke,1
+220,garden,small hole,0
+221,act,feat,0
+222,head north,headed north,0
+223,dustbin,dustbin,1
+224,boiling water,boiling water,1
+225,imagination,imagination,1
+226,surface of earth,surface of earth,1
+227,sometimes bad,sometimes bad,1
+228,relaxation,relaxation,1
+229,conference,conference,1
+230,free money,credit,0
+231,sneezing,sneezing,1
+232,classroom,classroom,1
+233,wet,wet,1
+234,empty,empty,1
+235,throw up,throw up,1
+236,go downtown,go downtown,1
+237,show,concert venue,0
+238,classroom,year,0
+239,valley,valley,1
+240,cage,cage,1
+241,have fun,have fun,1
+242,have no home,have no home,1
+243,bone,bone,1
+244,pants,pants,1
+245,awake,concentrate,0
+246,catch cold,catch cold,1
+247,healthy,healthy,1
+248,interior,triangle,0
+249,tide pool,intertidal zone,0
+250,wreak,wreak,1
+251,listen to music,listen to music,1
+252,paper bag,paper bag,1
+253,bathroom,bathroom,1
+254,frying pan,frying pan,1
+255,multivitamin,ore,0
+256,happy,happy,1
+257,personal cleanliness,personal cleanliness,1
+258,fights,fights,1
+259,much money,much money,1
+260,airport,airport,1
+261,house,bathroom,0
+262,temperate zone,temperate zone,1
+263,write letter,write letter,1
+264,new york city,new york city,1
+265,desktop,desktop,1
+266,dard,dard,1
+267,studying,studying,1
+268,set table,set table,1
+269,suffering,suffering,1
+270,sweat,sweat,1
+271,write down,write down,1
+272,use paper,use paper,1
+273,judge people,judge people,1
+274,colds and flu,colds and flu,1
+275,tetrahedron,tetrahedron,1
+276,cargo ship,cargo ship,1
+277,open book,reading,0
+278,communication,communication,1
+279,dishwasher,dishwasher,1
+280,washington dc,washington dc,1
+281,desk drawer,desk drawer,1
+282,pleasure,pleasure,1
+283,fair,fair,1
+284,learn new things,learn new things,1
+285,listen to music,listen to music,1
+286,table,table,1
+287,insubstantial,inconsequential,0
+288,air,caused by humans,0
+289,paralysis,puke,0
+290,transfer of information,transfer of information,1
+291,refrigerator,market,0
+292,spend time,spend time,1
+293,outside,marine museum,0
+294,overstocking,overstocking,1
+295,avoid pain,avoid pain,1
+296,dishwasher,cabinet,0
+297,store,store,1
+298,act responsibly,act responsibly,1
+299,casino,casino,1
+300,have money,have money,1
+301,washington dc,washington dc,1
+302,bus depot,bus depot,1
+303,injury,injury,1
+304,shopping mall,gap,0
+305,english alphabet,english alphabet,1
+306,current,current,1
+307,radio station,radio station,1
+308,coffee table,school room,0
+309,violent,violent,1
+310,chicago,chicago,1
+311,safety,safety,1
+312,mountains,burrow,0
+313,make tools,make tools,1
+314,neighborhood,property,0
+315,wishing well,wishing well,1
+316,typhoon,typhoon,1
+317,place of work,place of work,1
+318,indiana,indiana,1
+319,have fun,have fun,1
+320,play sports,play sports,1
+321,game,game,1
+322,die,die,1
+323,falling asleep,falling asleep,1
+324,dark,dark,1
+325,homicide,cyanide,0
+326,study,study,1
+327,outer space,outer space,1
+328,marching band,band,0
+329,growing older,start reproduction,0
+330,ask question,ask question,1
+331,sewing room,sewing room,1
+332,oversupply,oversupply,1
+333,sweating,sweating,1
+334,bus stop,bus stop,1
+335,hospital,hospital,1
+336,write will,write will,1
+337,new england,new england,1
+338,getting tired,getting tired,1
+339,get wet,sharp claws,0
+340,listening,listening,1
+341,cloud over,cloud over,1
+342,university,university,1
+343,west texas,arid regions,0
+344,hand,hand,1
+345,go faster,go faster,1
+346,stand alone,stand alone,1
+347,death and decay,death and decay,1
+348,feelings,unique personality,0
+349,state name,count to ten,0
+350,department store,department store,1
+351,look around,look around,1
+352,melted,melted,1
+353,shelf,cabinet,0
+354,forest,forest,1
+355,reading,think,0
+356,office building,office supply store,0
+357,martorell,martorell,1
+358,childs hand,childs hand,1
+359,airport,airport,1
+360,table,table,1
+361,bridge,bridge,1
+362,can,can,1
+363,nigeria,nigeria,1
+364,fight,fight,1
+365,home,restaurant,0
+366,joy,joy,1
+367,head injuries,head injuries,1
+368,enjoy living,enjoy living,1
+369,pet shop,pet shop,1
+370,orchestra,orchestra,1
+371,marriage,marriage,1
+372,milky way,milky way,1
+373,lobby,lobby,1
+374,friends house,keg,0
+375,change of heart,change of heart,1
+376,flatulence,flatulence,1
+377,distant,distant,1
+378,office,kitchen,0
+379,full,full,1
+380,relaxation,relaxation,1
+381,compact,compact,1
+382,michigan,michigan,1
+383,sleeping in,making love,0
+384,map,map,1
+385,own home,own home,1
+386,hungry,hungry,1
+387,choir,choir,1
+388,california,california,1
+389,mammals,males,0
+390,new hampshire,england,0
+391,painting,field,0
+392,refrigerators,refrigerators,1
+393,nightmare,nightmare,1
+394,making new friends,new friends,0
+395,pedalling,pedalling,1
+396,shelf,shelf,1
+397,organ,typewriter,0
+398,funnel,associated with telephones,0
+399,rough,non smooth,0
+400,neighbors house,neighbors house,1
+401,reproducing,reproducing,1
+402,cellar,cellar,1
+403,building,building,1
+404,musical,longplay,0
+405,mail box,garage,0
+406,wait for,plan revenge,0
+407,dress himself,dress himself,1
+408,overpriced,overpriced,1
+409,nursery,nursery,1
+410,warm room,shine brightly,0
+411,wonderful,wonderful,1
+412,analyse,examine thing,0
+413,loft,stairs,0
+414,inspiration,inspiration,1
+415,clothing store,clothing store,1
+416,air,air,1
+417,new york city,new york city,1
+418,kitchen,kitchen,1
+419,funeral,funeral,1
+420,city,city,1
+421,hardware store,hardware store,1
+422,analyse,analyse,1
+423,fraternity house,fraternity house,1
+424,get away from,get away from,1
+425,stagnation,stagnant,0
+426,mall,mall,1
+427,cupboard,cupboard,1
+428,managed,managed,1
+429,case,case,1
+430,relaxation,relaxation,1
+431,great outdoors,great outdoors,1
+432,go quickly,go quickly,1
+433,caged in,caged in,1
+434,wooded area,wooded area,1
+435,confusion,confusion,1
+436,wide acceptance,press coverage,0
+437,opera,concert,0
+438,city,mall,0
+439,halloween,easter,0
+440,family tree,family tree,1
+441,unnecessary,unnecessary,1
+442,fountain pen,fountain pen,1
+443,surprised,surprised,1
+444,handshake,handshake,1
+445,gas station,atlas,0
+446,fishing boat,fishing boat,1
+447,exchanging ideas,exchanging ideas,1
+448,comfortable chair,bed,0
+449,substation,substation,1
+450,race track,freeway,0
+451,movie,baggage compartment,0
+452,feel guilty,feel guilty,1
+453,own house,own house,1
+454,building,building,1
+455,learning about world,learning about world,1
+456,certificate,certificate,1
+457,procrastinate,procrastinate,1
+458,wander,wander,1
+459,suburbs,suburbs,1
+460,capitol building,washington dc,0
+461,procreate,procreate,1
+462,help,help,1
+463,begin work,take care of proposals,0
+464,hen house,hen house,1
+465,tall building,tall building,1
+466,burial,burial,1
+467,yellow pages,yellow pages,1
+468,water fountain,water fountain,1
+469,photograph,photograph,1
+470,neighbors house,music school,0
+471,department store,department store,1
+472,partner,partner,1
+473,dress herself,dress herself,1
+474,eye contact,eye contact,1
+475,bible,bible,1
+476,apartment building,stairwell,0
+477,open doors,open doors,1
+478,make money,make money,1
+479,south carolina,south carolina,1
+480,attic,bell cat,0
+481,getting in shape,fitness,0
+482,google,google,1
+483,decomposition,decomposition,1
+484,clam chowder,beef stew,0
+485,potential,potential,1
+486,practice,practise,0
+487,below,near,0
+488,backpack,backpack,1
+489,living room,hall,0
+490,fall down,fall down,1
+491,shop,shop,1
+492,lie down,lie down,1
+493,cattle show,cattle show,1
+494,wealth,wealth,1
+495,graduated,graduated,1
+496,urban area,urban area,1
+497,park,bus station,0
+498,india,rain forest,0
+499,rug,rug,1
+500,action,action,1
+501,desire to travel,desire to travel,1
+502,university,university,1
+503,ocean,sea plant,0
+504,freezer,freezer,1
+505,attic,television,0
+506,animal,fingertips,0
+507,bookstore,bookstore,1
+508,sporting event,sporting event,1
+509,california,california,1
+510,common,profane,0
+511,cry,make others happy too,0
+512,municipal park,municipal park,1
+513,woods,mars,0
+514,nuclear power plant,nuclear power plant,1
+515,get lost,get lost,1
+516,texas,texas,1
+517,conference,conference,1
+518,boredom,boredom,1
+519,music store,music store,1
+520,group together,call each other,0
+521,desire to win,desire to win,1
+522,court room,court room,1
+523,standing in line,standing in line,1
+524,transporting,transporting,1
+525,lie down,lie down,1
+526,blunderbuss,blunderbuss,1
+527,drawer,drawer,1
+528,drink beer,sit quietly,0
+529,cabinet,library,0
+530,mouth,mouth,1
+531,desk drawer,desk drawer,1
+532,past,past,1
+533,mountainous area,mountainous area,1
+534,think,think,1
+535,listen to music,play chess,0
+536,brass band,brass band,1
+537,concert hall,concert hall,1
+538,gruesome,gruesome,1
+539,money,money,1
+540,baseball stadium,baseball stadium,1
+541,market,market,1
+542,meeting,meeting,1
+543,playing marbles,wild ride,0
+544,helping others,helping others,1
+545,heaven,heaven,1
+546,indigestion,indigestion,1
+547,cupboard,cupboard,1
+548,garage,garage,1
+549,refrigerator,freezer,0
+550,big city,big city,1
+551,baseball diamond,baseball diamond,1
+552,museum,below,0
+553,art supplies,art supplies,1
+554,listen to music,listen to music,1
+555,heartburn,food poisoning,0
+556,battery,charge,0
+557,country,country,1
+558,do mathematics,do mathematics,1
+559,multiplication,multiplication,1
+560,classroom,library,0
+561,fatigue,fatigue,1
+562,thirsty,sharp claws,0
+563,silent,silence,0
+564,america,america,1
+565,tie around,tie around,1
+566,public building,public building,1
+567,bushel basket,bushel basket,1
+568,build trust,build trust,1
+569,dresser drawers,dresser drawers,1
+570,jump to conclusions,jump to conclusions,1
+571,procreation,procreation,1
+572,relax,relax,1
+573,launder,launder,1
+574,make larger,gain weight,0
+575,old person,adult,0
+576,orchestra,marching band,0
+577,having fun,win,0
+578,fair,fair,1
+579,expensive clothing,expensive clothing,1
+580,library,library,1
+581,office desk,file cabinet,0
+582,thin blood,dilute,0
+583,sore muscles,sore muscles,1
+584,lose money,lose money,1
+585,good for,good for,1
+586,unacquainted,unacquainted,1
+587,orchestra,music room,0
+588,life on earth,heat,0
+589,europe,europe,1
+590,woodland,woodland,1
+591,front yard,front yard,1
+592,court room,court room,1
+593,white house,white house,1
+594,ground,surface of earth,0
+595,medicine cabinet,medicine cabinet,1
+596,library,library,1
+597,exercise,exercise,1
+598,water fountain,water fountain,1
+599,calm,calm,1
+600,with brush,with brush,1
+601,living room,doorway,0
+602,suitcase,backpack,0
+603,encyclopedia,steppe,0
+604,defeat,defeat,1
+605,moon,sea,0
+606,air conditioning,air conditioning,1
+607,drawer,drawer,1
+608,farmhouse,shelter,0
+609,china,china,1
+610,music room,music room,1
+611,airport,airport,1
+612,trust,trust,1
+613,commute,commute,1
+614,catching fish,catching fish,1
+615,defend,defend,1
+616,grow corn,plant seeds,0
+617,fall out,thin out,0
+618,losing money,losing money,1
+619,pet,pet,1
+620,water plants,water plants,1
+621,indiana,indiana,1
+622,synagogue,synagogue,1
+623,hang over,hang over,1
+624,cabinet,cabinet,1
+625,slaughter house,crime scene,0
+626,outer space,orbit,0
+627,front door,street corner,0
+628,school,school,1
+629,warm coat,warm coat,1
+630,enlightenment,open mind,0
+631,being entertained,being entertained,1
+632,gaining knowledge,gaining knowledge,1
+633,talk nonsense,learn to walk,0
+634,pizza,oven,0
+635,aggravation,stress,0
+636,deceitful,deceptive,0
+637,problems,distress,0
+638,country,organization,0
+639,say words,say words,1
+640,iowa,town,0
+641,childs room,boys bedroom,0
+642,fishing camp,fishing camp,1
+643,being happy,being happy,1
+644,water cooler,water cooler,1
+645,cabinet,container,0
+646,talented,talented,1
+647,solemn,somber,0
+648,library,stationery store,0
+649,schoolroom,schoolroom,1
+650,std,std,1
+651,excitement,excitement,1
+652,amusement park,amusement park,1
+653,arguments,exhaustion,0
+654,web page,web page,1
+655,surface of earth,apartment,0
+656,strange,strange,1
+657,nodding,nodding,1
+658,fish market,atlantic ocean,0
+659,thruway,thruway,1
+660,everything,everything,1
+661,ample,ample,1
+662,mall,mall,1
+663,start running,last several years,0
+664,caregiver,caregiver,1
+665,hockey game,hockey game,1
+666,at hotel,at hotel,1
+667,countryside,farmland,0
+668,talking loudly,talking loudly,1
+669,forest,forest,1
+670,sea water,body of water,0
+671,death,gain weight,0
+672,listen to radio,walk,0
+673,appliance store,appliance store,1
+674,mexico,mexica,0
+675,beehive,beehive,1
+676,city,london,0
+677,rabbit warren,rabbit warren,1
+678,human body,human body,1
+679,english house,english house,1
+680,appliance store,appliance store,1
+681,bedroom,concert,0
+682,have fun,have fun,1
+683,vancouver island,vancouver island,1
+684,augment,make larger,0
+685,doctor,newsagent,0
+686,storybook,storybook,1
+687,tear down,tear down,1
+688,table,kennel,0
+689,guide children,control children,0
+690,bluegrass music,make music,0
+691,paid for,paid for,1
+692,attract attention,attract attention,1
+693,england,england,1
+694,record album,practice,0
+695,attack,attack,1
+696,mill,mill,1
+697,luggage compartment,luggage compartment,1
+698,drawer,drawer,1
+699,tiredness,tiredness,1
+700,using energy,using energy,1
+701,grocery shop,grocery shop,1
+702,time,time,1
+703,increased heart rate,increased heart rate,1
+704,rash,get wet,0
+705,university campus,theater,0
+706,moving forward,locomotion,0
+707,united states,united states,1
+708,desk drawer,desk drawer,1
+709,have sex,have sex,1
+710,watch tv,watch tv,1
+711,jar,pot,0
+712,kitchen cabinet,kitchen cabinet,1
+713,headphones,headphones,1
+714,illustrate point,illustrate point,1
+715,new york city,jerusalem,0
+716,washington state,pacific northwest,0
+717,kitchen,sporting goods store,0
+718,feed themselves,feed themselves,1
+719,warm room,warm room,1
+720,closed eyes,closed eyes,1
+721,office building,office building,1
+722,carnival,ringmaster,0
+723,theater,theater,1
+724,stay in bed,enjoy film,0
+725,apartment,tent,0
+726,mall,mall,1
+727,table,shelf,0
+728,water,found in ocean,0
+729,captivity,encouragement,0
+730,depress,depress,1
+731,fish department,fish department,1
+732,table,table,1
+733,instruments,instruments,1
+734,greater manchester,lancashire,0
+735,get frustrated,get frustrated,1
+736,heat,heat,1
+737,courtroom,courtroom,1
+738,garage,garage,1
+739,roots,flowers on,0
+740,shady places,shady places,1
+741,parents,parents,1
+742,hug,hug,1
+743,garage,in a van,0
+744,nuclear plant,nuclear plant,1
+745,plate,plate,1
+746,theater,theater,1
+747,cut grass,cut grass,1
+748,country,country,1
+749,furniture store,furniture store,1
+750,neighborhood,neighborhood,1
+751,hand,hand,1
+752,chest of drawers,hold alcohol,0
+753,being arrested,pool of blood,0
+754,jungle,jungle,1
+755,school building,school building,1
+756,church,church,1
+757,microscope,microscope,1
+758,newsstand,newsstand,1
+759,lumberyard,lumberyard,1
+760,hell,hell,1
+761,tension,frostbite,0
+762,many words,many words,1
+763,eat ice cream,eat ice cream,1
+764,epilogue,afterword,0
+765,twenty four,twenty four,1
+766,confusing,unknowable,0
+767,effort,effort,1
+768,man crew,man crew,1
+769,need care,need care,1
+770,subdivision,subdivision,1
+771,word,syllable,0
+772,caps,cling film,0
+773,rocky hills,rocky hills,1
+774,chemistry lab,chemistry lab,1
+775,gay bar,gay bar,1
+776,grocery store,grocery store,1
+777,bug campers,bug campers,1
+778,swarm,swarm,1
+779,shin splints,physical exertion,0
+780,sporting goods store,sporting goods store,1
+781,jewelry store,jewelry store,1
+782,rush,rush,1
+783,bankruptcy,bankruptcy,1
+784,hardware store,hardware store,1
+785,ridiculous,ridiculous,1
+786,gulf states,united states,0
+787,dishwasher,dishwasher,1
+788,bed,bed,1
+789,cellar,cellar,1
+790,ask questions,ask questions,1
+791,childs hand,end of line,0
+792,balloon,balloon,1
+793,casino,casino,1
+794,fall asleep,turning off,0
+795,bathhouse,bathhouse,1
+796,outside,outside,1
+797,phoenix,chicago,0
+798,brownstone,brownstone,1
+799,porous,porous,1
+800,death,loose skin,0
+801,small town,small town,1
+802,class,university,0
+803,jogging,jogging,1
+804,automobile accidents,low fuel tank,0
+805,cabinet,cabinet,1
+806,happiness,relief,0
+807,solitary,alone,0
+808,motel,motel,1
+809,walked,walked,1
+810,beach,beach,1
+811,very colorful,very colorful,1
+812,viking ship,viking ship,1
+813,depression,diminishment,0
+814,warm up,warm up,1
+815,effectively treated,effectively treated,1
+816,anxiety,anxiety,1
+817,kill,kill,1
+818,receive data,receive data,1
+819,uninhabitable,uninhabitable,1
+820,anxiety,anxiety,1
+821,countryside,valley,0
+822,florida keys,florida keys,1
+823,suitcase,suitcase,1
+824,convenience store,convenience store,1
+825,go down,sundown,0
+826,bookcase,bookcase,1
+827,laughter,laughter,1
+828,heartburn,heartburn,1
+829,trapeze,trapeze,1
+830,defecating,reduced,0
+831,restaurant,restaurant,1
+832,phone book,phone book,1
+833,computer network,electrical circuit,0
+834,loved,care,0
+835,go to movies,open eyes,0
+836,daydream,get ideas,0
+837,barrels,barrels,1
+838,play golf,play golf,1
+839,announce,announce,1
+840,bent,bent,1
+841,ore,ore,1
+842,garden shed,utility closet,0
+843,go to bed,go to bed,1
+844,desk drawer,desk drawer,1
+845,spain,spain,1
+846,construct,construct,1
+847,deception,deception,1
+848,stationery store,stationery store,1
+849,get answers,get answers,1
+850,garage,toolbox,0
+851,everglades,natural habitat,0
+852,city or town,city or town,1
+853,dark place,dark place,1
+854,beat,beat,1
+855,being raped,get revenge,0
+856,open mouth,open mouth,1
+857,audience,audience,1
+858,seek help,seek help,1
+859,friends house,friends house,1
+860,heat,heat,1
+861,because,because,1
+862,shelf,shelf,1
+863,good balance,good balance,1
+864,ground,ground,1
+865,receiving,receiving,1
+866,end of line,end of line,1
+867,stretch,stretch,1
+868,go back,go back,1
+869,music store,music store,1
+870,chemistry lab,chemistry lab,1
+871,tall building,tall building,1
+872,supermarket,farmers market,0
+873,unable to work,unable to work,1
+874,hopping,hopping,1
+875,group together,group together,1
+876,show,show,1
+877,hope for peace,hope for peace,1
+878,center of town,center of town,1
+879,forest,forest,1
+880,amazon river,amazon river,1
+881,cook dinner,cook dinner,1
+882,surface of earth,surface of earth,1
+883,closet,closet,1
+884,common interests,common interests,1
+885,inner ear,inner ear,1
+886,confession,confession,1
+887,teaching,teaching,1
+888,indigestion,indigestion,1
+889,music room,music room,1
+890,passing,passing,1
+891,cleanness,hygiene,0
+892,sporting event,basketball,0
+893,drunk driving,drunk driving,1
+894,department store,department store,1
+895,wisdom,wisdom,1
+896,play hockey,play hockey,1
+897,clutter,clutter,1
+898,concentrate,pay attention,0
+899,happiness,headache,0
+900,convention center,convention center,1
+901,new york,new york,1
+902,corner,corner,1
+903,biological child,biological child,1
+904,crash,crash,1
+905,teeth,molar,0
+906,read newspapers,read newspapers,1
+907,sea water,sea water,1
+908,resort area,resort area,1
+909,see art,see art,1
+910,motion,motion,1
+911,table,table,1
+912,plate,plate,1
+913,inappropriate,inappropriate,1
+914,fitness center,country club,0
+915,feel pleasure,digestion,0
+916,garden,garden,1
+917,resentment,hurt feelings,0
+918,valley,valley,1
+919,motel room,motel room,1
+920,concert,concert,1
+921,intellectual challenge,intellectual challenge,1
+922,toaster,toaster,1
+923,house clean,house clean,1
+924,hospital,hospital,1
+925,accelerate,accelerate,1
+926,rest area,rest area,1
+927,state,state,1
+928,backpack,backpack,1
+929,bloom,bloom,1
+930,atlantic ocean,atlantic ocean,1
+931,study french cooking,study french cooking,1
+932,one choice for pet,one choice for pet,1
+933,full sunlight,direct sunlight,0
+934,exhaustion,exhaustion,1
+935,plan,plan,1
+936,set orbits,set orbits,1
+937,dirty,dirty,1
+938,die of cancer,die of cancer,1
+939,happiness,sexual stimulation,0
+940,trash,trash,1
+941,utility room,utility room,1
+942,newspaper,newspaper,1
+943,thank god,thank god,1
+944,japan,japan,1
+945,packaging materials,packaging materials,1
+946,false information,false information,1
+947,patience,patience,1
+948,out of pocket,out of pocket,1
+949,parents,parents,1
+950,family reunion,family reunion,1
+951,concentration,concentration,1
+952,headache,discomfort,0
+953,typewriter,typewriter,1
+954,farm,meadow,0
+955,living room,living room,1
+956,pocket,pocket,1
+957,crowd,crowd,1
+958,imprisonment,imprisonment,1
+959,supermarket,supermarket,1
+960,kill animals,kill animals,1
+961,liquor store,liquor store,1
+962,atlas,atlas,1
+963,teach courses,teach courses,1
+964,bowling alley,bowling alley,1
+965,using water,using water,1
+966,saliva nd mouth,spittle,0
+967,store,store,1
+968,youre curious,curiosity,0
+969,frustration,frustration,1
+970,live long,eating,0
+971,moving body,fatigue,0
+972,newspaper,newspaper,1
+973,wash themselves,wash themselves,1
+974,wrestle,play sports,0
+975,eat every day,eat every day,1
+976,prisoner,prisoner,1
+977,express information,express information,1
+978,dek,martyrs chest,0
+979,at hotel,at hotel,1
+980,face problems,better themselves,0
+981,homes,homes,1
+982,first class,first class,1
+983,see beautiful views,murdered by a landshark,0
+984,need for food,need for food,1
+985,man made,man made,1
+986,snowflake,snowflake,1
+987,louisiana,louisiana,1
+988,relaxation,relaxation,1
+989,banana tree,mulberry bush,0
+990,run,lift weights,0
+991,solar system,solar system,1
+992,garage,pantry,0
+993,school,school,1
+994,upwards,upwards,1
+995,feeling happy,feeling happy,1
+996,excitement,jealousy,0
+997,microwave,meat loaf,0
+998,smell good,continue to grow,0
+999,uneven,uneven,1
+1000,financial security,financial security,1
+1001,prosecution,prosecution,1
+1002,mad cow disease,mad cow disease,1
+1003,river,garage,0
+1004,feel important,trust himself,0
+1005,conflict,conflict,1
+1006,satisfaction,satisfaction,1
+1007,refrigerator,farmers market,0
+1008,table,table,1
+1009,life partner,life partner,1
+1010,birds nest,kite,0
+1011,confidence,confidence,1
+1012,athletic club,athletic club,1
+1013,water fountain,water fountain,1
+1014,friends house,friends house,1
+1015,cherry tree,ladder,0
+1016,body of water,body of water,1
+1017,jet engine,electric motor,0
+1018,table,table,1
+1019,table setting,kitchen cupboard,0
+1020,pocket,cash drawer,0
+1021,kitchen,kitchen,1
+1022,airplane,motor vehicle,0
+1023,gap,gap,1
+1024,at hotel,at hotel,1
+1025,become disillusioned,become disillusioned,1
+1026,cliff,sandplain,0
+1027,theater,theater,1
+1028,beach,beach,1
+1029,calluses,calluses,1
+1030,trouble,trouble,1
+1031,inferior,inferior,1
+1032,pain,injury,0
+1033,restaurant,restaurant,1
+1034,milwaukee,residential area,0
+1035,medical chart,medical chart,1
+1036,spend money,spend money,1
+1037,sidewalk,sidewalk,1
+1038,make more money,acknowledgment,0
+1039,get in shape,get in shape,1
+1040,unlikely,unlikely,1
+1041,downtown,downtown,1
+1042,intimidation,intimidation,1
+1043,happiness,happiness,1
+1044,zoo,zoo,1
+1045,go out to play,go out to play,1
+1046,very loyal,very loyal,1
+1047,bicycle shop,bicycle shop,1
+1048,space,space,1
+1049,supermarket,supermarket,1
+1050,goat,lion,0
+1051,wait for orders,wait for orders,1
+1052,shoot,shoot,1
+1053,work room,work room,1
+1054,cabinet,cabinet,1
+1055,painful,painful,1
+1056,desk drawer,desk drawer,1
+1057,matter to,matter to,1
+1058,subdivision,subdivision,1
+1059,chemistry lab,chemistry lab,1
+1060,cool off,cool off,1
+1061,music class,music class,1
+1062,open eyes,plug in,0
+1063,social event,social event,1
+1064,petted,petted,1
+1065,drunker,drunker,1
+1066,sanded,sanded,1
+1067,follower,indian,0
+1068,cast shadow,cast shadow,1
+1069,road rage,road rage,1
+1070,unhealthy,unhealthy,1
+1071,three vertices,three vertices,1
+1072,exit ramp,exit ramp,1
+1073,get pregnant,sleepiness,0
+1074,annoyance,irritated,0
+1075,death,death,1
+1076,race track,public building,0
+1077,show,auditorium,0
+1078,mall,mall,1
+1079,babies,babies,1
+1080,orbit,orbit,1
+1081,sharing of ideas,sharing of ideas,1
+1082,anger,anger,1
+1083,differently,differently,1
+1084,tomales bay,tomales bay,1
+1085,bar,bar,1
+1086,move around,move around,1
+1087,music store,music store,1
+1088,mentally challenged,mentally challenged,1
+1089,learning,learning,1
+1090,prison sentence,prison sentence,1
+1091,humor,humor,1
+1092,park,beach,0
+1093,polytechnic,polytechnic,1
+1094,ignorance,ignorance,1
+1095,work out,video,0
+1096,do enjoy,do enjoy,1
+1097,sell products,sell products,1
+1098,feel better,feel better,1
+1099,bus depot,bus depot,1
+1100,lie,lie,1
+1101,dictionary,dictionary,1
+1102,economic boom,economic boom,1
+1103,university,university,1
+1104,bones,wings,0
+1105,religion,people believe,0
+1106,mountains,mountains,1
+1107,food store,food store,1
+1108,desire to travel,desire to travel,1
+1109,bloom,bloom,1
+1110,major city,manhattan,0
+1111,fly,perform work,0
+1112,breathing,breathing,1
+1113,hallway,bedroom,0
+1114,skate,skate,1
+1115,old barn,old barn,1
+1116,forest,nest,0
+1117,eat breakfast,eat breakfast,1
+1118,talk,talk,1
+1119,afraid of,afraid of,1
+1120,learn about,learn about,1
+1121,intoxication,intoxication,1
+1122,orchestra,orchestra,1
+1123,lot of,much,0
+1124,corrupt,corrupt,1
+1125,stock certificate,stock certificate,1
+1126,stillness,stillness,1
+1127,bedroom,bedroom,1
+1128,round,round,1
+1129,living room,living room,1
+1130,dogs mouth,dogs mouth,1
+1131,food court,food court,1
+1132,buy food,buying vegetables,0
+1133,happiness,relief,0
+1134,pleasure,pleasure,1
+1135,rug,rug,1
+1136,born again,born again,1
+1137,wipe out,wipe out,1
+1138,open doors,open doors,1
+1139,ancient times,prehistoric times,0
+1140,remorse,remorse,1
+1141,interruption,interruption,1
+1142,disagreements,disagreements,1
+1143,say thank,say thank,1
+1144,state park,state park,1
+1145,state fair,state fair,1
+1146,cloud,air,0
+1147,repair shop,repair shop,1
+1148,stress,rejection,0
+1149,great outdoors,corn fields,0
+1150,pond,playground,0
+1151,exhilarating,exhausting,0
+1152,balkan peninsula,balkan peninsula,1
+1153,closet,closet,1
+1154,watching television,enjoyable,0
+1155,maryland,maryland,1
+1156,outdoors,outdoors,1
+1157,citrus,citrus,1
+1158,passing out,passing out,1
+1159,death,death,1
+1160,light fire,light fire,1
+1161,skin irritation,skin irritation,1
+1162,show,show,1
+1163,music store,music store,1
+1164,overcast,overcast,1
+1165,reasonable,reasonable,1
+1166,bridge,bridge,1
+1167,unfortunate,disenchanted,0
+1168,crucial,crucial,1
+1169,venue,venue,1
+1170,america,europe,0
+1171,creek bed,creek bed,1
+1172,neighbors house,ocean water,0
+1173,very old,infinite,0
+1174,universe,universe,1
+1175,made fun of,made fun of,1
+1176,have conversation,have conversation,1
+1177,medicine cabinet,medicine cabinet,1
+1178,done,done,1
+1179,university,university,1
+1180,farming areas,farming areas,1
+1181,hope,hope,1
+1182,advance knowledge,advance knowledge,1
+1183,countryside,countryside,1
+1184,fairy tale,middle ages,0
+1185,transit,transit,1
+1186,cigarette,cigarette,1
+1187,might win,might win,1
+1188,taxi,taxi,1
+1189,wheels turning,wheels turning,1
+1190,digesting,digesting,1
+1191,malaise,malaise,1
+1192,buy tickets,run through checklists,0
+1193,fair,sun,0
+1194,television,television,1
+1195,aggressive,aggressive,1
+1196,bedroom,oklahoma,0
+1197,downtown,downtown,1
+1198,knowledge,knowledge,1
+1199,send email,send email,1
+1200,lie,fever,0
+1201,stock market,stock market,1
+1202,ecosystem,ecosystem,1
+1203,container,container,1
+1204,heartburn,heartburn,1
+1205,do time,do time,1
+1206,being prepared,being prepared,1
+1207,forest,forest,1
+1208,beautiful garden,kew gardens,0
+1209,garden center,garden center,1
+1210,know what time,trust himself,0
+1211,sharp claws,purr,0
+1212,airport,airport,1
+1213,found outside,found outside,1
+1214,eddie bauer,eddie bauer,1
+1215,fruit stand,field,0
+1216,grab,grab,1
+1217,hardware store,hardware store,1
+1218,soothing,soothing,1
+1219,new construction,new construction,1
+1220,computer hard drive,computer hard drive,1

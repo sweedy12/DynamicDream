@@ -1,0 +1,7 @@
+torch
+pandas
+transformers
+sentencepiece
+protobuf
+streamlit
+flask

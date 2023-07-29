@@ -1,0 +1,3 @@
+number of correct predictions: 65
+total number of predictions: 100
+accuracy: 0.65

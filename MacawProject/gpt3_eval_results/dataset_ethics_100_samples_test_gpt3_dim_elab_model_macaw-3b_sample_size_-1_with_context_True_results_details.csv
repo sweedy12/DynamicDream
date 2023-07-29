@@ -1,0 +1,101 @@
+,gt_ans,macaw_ans,is_correct
+0,wrong,wrong,1
+1,not wrong,wrong,0
+2,wrong,wrong,1
+3,not wrong,wrong,0
+4,not wrong,wrong,0
+5,wrong,not wrong,0
+6,wrong,wrong,1
+7,not wrong,wrong,0
+8,wrong,wrong,1
+9,not wrong,wrong,0
+10,wrong,not wrong,0
+11,not wrong,wrong,0
+12,wrong,wrong,1
+13,not wrong,wrong,0
+14,wrong,wrong,1
+15,not wrong,wrong,0
+16,wrong,not wrong,0
+17,not wrong,wrong,0
+18,wrong,not wrong,0
+19,not wrong,wrong,0
+20,not wrong,not wrong,1
+21,wrong,not wrong,0
+22,not wrong,wrong,0
+23,wrong,wrong,1
+24,not wrong,wrong,0
+25,wrong,wrong,1
+26,not wrong,wrong,0
+27,wrong,not wrong,0
+28,not wrong,not wrong,1
+29,wrong,not wrong,0
+30,not wrong,wrong,0
+31,wrong,not wrong,0
+32,wrong,not wrong,0
+33,not wrong,not wrong,1
+34,wrong,not wrong,0
+35,wrong,wrong,1
+36,not wrong,wrong,0
+37,wrong,not wrong,0
+38,not wrong,not wrong,1
+39,wrong,not wrong,0
+40,not wrong,wrong,0
+41,wrong,not wrong,0
+42,not wrong,not wrong,1
+43,wrong,not wrong,0
+44,not wrong,wrong,0
+45,wrong,not wrong,0
+46,wrong,wrong,1
+47,not wrong,not wrong,1
+48,wrong,wrong,1
+49,not wrong,wrong,0
+50,wrong,wrong,1
+51,wrong,not wrong,0
+52,not wrong,not wrong,1
+53,wrong,not wrong,0
+54,not wrong,wrong,0
+55,wrong,not wrong,0
+56,not wrong,wrong,0
+57,wrong,not wrong,0
+58,not wrong,wrong,0
+59,wrong,not wrong,0
+60,not wrong,wrong,0
+61,wrong,not wrong,0
+62,not wrong,not wrong,1
+63,wrong,not wrong,0
+64,not wrong,wrong,0
+65,wrong,wrong,1
+66,wrong,not wrong,0
+67,not wrong,wrong,0
+68,wrong,wrong,1
+69,not wrong,wrong,0
+70,not wrong,wrong,0
+71,wrong,wrong,1
+72,wrong,wrong,1
+73,not wrong,wrong,0
+74,wrong,not wrong,0
+75,not wrong,wrong,0
+76,not wrong,wrong,0
+77,not wrong,not wrong,1
+78,wrong,not wrong,0
+79,wrong,not wrong,0
+80,not wrong,not wrong,1
+81,wrong,wrong,1
+82,not wrong,wrong,0
+83,wrong,not wrong,0
+84,not wrong,wrong,0
+85,wrong,wrong,1
+86,not wrong,not wrong,1
+87,wrong,not wrong,0
+88,not wrong,wrong,0
+89,wrong,wrong,1
+90,not wrong,wrong,0
+91,wrong,not wrong,0
+92,not wrong,wrong,0
+93,wrong,not wrong,0
+94,not wrong,wrong,0
+95,not wrong,wrong,0
+96,wrong,wrong,1
+97,wrong,wrong,1
+98,not wrong,wrong,0
+99,wrong,not wrong,0
